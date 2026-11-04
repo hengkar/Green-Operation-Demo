@@ -1,0 +1,3601 @@
+timestamp,line,kWh
+2026-09-01 00:00,Line A - Injection Moulding,28.2
+2026-09-01 00:00,Line B - CNC Machining,12.3
+2026-09-01 00:00,Line C - Assembly,3.4
+2026-09-01 00:00,Utilities - Compressed Air,20.9
+2026-09-01 00:00,Utilities - HVAC & Lighting,12.1
+2026-09-01 01:00,Line A - Injection Moulding,28.6
+2026-09-01 01:00,Line B - CNC Machining,11.9
+2026-09-01 01:00,Line C - Assembly,3.3
+2026-09-01 01:00,Utilities - Compressed Air,20.7
+2026-09-01 01:00,Utilities - HVAC & Lighting,11.8
+2026-09-01 02:00,Line A - Injection Moulding,25.9
+2026-09-01 02:00,Line B - CNC Machining,12.1
+2026-09-01 02:00,Line C - Assembly,3.2
+2026-09-01 02:00,Utilities - Compressed Air,26.4
+2026-09-01 02:00,Utilities - HVAC & Lighting,10.6
+2026-09-01 03:00,Line A - Injection Moulding,27.3
+2026-09-01 03:00,Line B - CNC Machining,14.3
+2026-09-01 03:00,Line C - Assembly,3.7
+2026-09-01 03:00,Utilities - Compressed Air,24.6
+2026-09-01 03:00,Utilities - HVAC & Lighting,11.6
+2026-09-01 04:00,Line A - Injection Moulding,34.0
+2026-09-01 04:00,Line B - CNC Machining,11.9
+2026-09-01 04:00,Line C - Assembly,3.7
+2026-09-01 04:00,Utilities - Compressed Air,22.5
+2026-09-01 04:00,Utilities - HVAC & Lighting,10.7
+2026-09-01 05:00,Line A - Injection Moulding,26.3
+2026-09-01 05:00,Line B - CNC Machining,13.0
+2026-09-01 05:00,Line C - Assembly,3.6
+2026-09-01 05:00,Utilities - Compressed Air,21.7
+2026-09-01 05:00,Utilities - HVAC & Lighting,12.3
+2026-09-01 06:00,Line A - Injection Moulding,31.0
+2026-09-01 06:00,Line B - CNC Machining,13.2
+2026-09-01 06:00,Line C - Assembly,3.3
+2026-09-01 06:00,Utilities - Compressed Air,20.9
+2026-09-01 06:00,Utilities - HVAC & Lighting,10.4
+2026-09-01 07:00,Line A - Injection Moulding,77.5
+2026-09-01 07:00,Line B - CNC Machining,58.0
+2026-09-01 07:00,Line C - Assembly,21.5
+2026-09-01 07:00,Utilities - Compressed Air,37.8
+2026-09-01 07:00,Utilities - HVAC & Lighting,30.8
+2026-09-01 08:00,Line A - Injection Moulding,83.8
+2026-09-01 08:00,Line B - CNC Machining,51.7
+2026-09-01 08:00,Line C - Assembly,23.9
+2026-09-01 08:00,Utilities - Compressed Air,42.4
+2026-09-01 08:00,Utilities - HVAC & Lighting,27.7
+2026-09-01 09:00,Line A - Injection Moulding,86.9
+2026-09-01 09:00,Line B - CNC Machining,55.4
+2026-09-01 09:00,Line C - Assembly,24.5
+2026-09-01 09:00,Utilities - Compressed Air,42.8
+2026-09-01 09:00,Utilities - HVAC & Lighting,28.1
+2026-09-01 10:00,Line A - Injection Moulding,97.2
+2026-09-01 10:00,Line B - CNC Machining,48.7
+2026-09-01 10:00,Line C - Assembly,21.5
+2026-09-01 10:00,Utilities - Compressed Air,43.1
+2026-09-01 10:00,Utilities - HVAC & Lighting,26.9
+2026-09-01 11:00,Line A - Injection Moulding,84.7
+2026-09-01 11:00,Line B - CNC Machining,47.4
+2026-09-01 11:00,Line C - Assembly,23.1
+2026-09-01 11:00,Utilities - Compressed Air,43.2
+2026-09-01 11:00,Utilities - HVAC & Lighting,30.7
+2026-09-01 12:00,Line A - Injection Moulding,94.6
+2026-09-01 12:00,Line B - CNC Machining,51.9
+2026-09-01 12:00,Line C - Assembly,23.3
+2026-09-01 12:00,Utilities - Compressed Air,41.1
+2026-09-01 12:00,Utilities - HVAC & Lighting,30.7
+2026-09-01 13:00,Line A - Injection Moulding,83.9
+2026-09-01 13:00,Line B - CNC Machining,60.6
+2026-09-01 13:00,Line C - Assembly,24.9
+2026-09-01 13:00,Utilities - Compressed Air,39.7
+2026-09-01 13:00,Utilities - HVAC & Lighting,31.5
+2026-09-01 14:00,Line A - Injection Moulding,73.8
+2026-09-01 14:00,Line B - CNC Machining,58.3
+2026-09-01 14:00,Line C - Assembly,23.0
+2026-09-01 14:00,Utilities - Compressed Air,45.9
+2026-09-01 14:00,Utilities - HVAC & Lighting,32.9
+2026-09-01 15:00,Line A - Injection Moulding,79.5
+2026-09-01 15:00,Line B - CNC Machining,53.1
+2026-09-01 15:00,Line C - Assembly,23.1
+2026-09-01 15:00,Utilities - Compressed Air,34.3
+2026-09-01 15:00,Utilities - HVAC & Lighting,29.7
+2026-09-01 16:00,Line A - Injection Moulding,76.5
+2026-09-01 16:00,Line B - CNC Machining,48.7
+2026-09-01 16:00,Line C - Assembly,19.1
+2026-09-01 16:00,Utilities - Compressed Air,43.2
+2026-09-01 16:00,Utilities - HVAC & Lighting,26.7
+2026-09-01 17:00,Line A - Injection Moulding,78.6
+2026-09-01 17:00,Line B - CNC Machining,53.2
+2026-09-01 17:00,Line C - Assembly,24.5
+2026-09-01 17:00,Utilities - Compressed Air,35.0
+2026-09-01 17:00,Utilities - HVAC & Lighting,29.5
+2026-09-01 18:00,Line A - Injection Moulding,86.3
+2026-09-01 18:00,Line B - CNC Machining,61.3
+2026-09-01 18:00,Line C - Assembly,24.1
+2026-09-01 18:00,Utilities - Compressed Air,44.4
+2026-09-01 18:00,Utilities - HVAC & Lighting,28.0
+2026-09-01 19:00,Line A - Injection Moulding,82.8
+2026-09-01 19:00,Line B - CNC Machining,52.7
+2026-09-01 19:00,Line C - Assembly,24.5
+2026-09-01 19:00,Utilities - Compressed Air,45.5
+2026-09-01 19:00,Utilities - HVAC & Lighting,26.9
+2026-09-01 20:00,Line A - Injection Moulding,76.7
+2026-09-01 20:00,Line B - CNC Machining,50.6
+2026-09-01 20:00,Line C - Assembly,20.2
+2026-09-01 20:00,Utilities - Compressed Air,39.8
+2026-09-01 20:00,Utilities - HVAC & Lighting,30.8
+2026-09-01 21:00,Line A - Injection Moulding,79.0
+2026-09-01 21:00,Line B - CNC Machining,46.8
+2026-09-01 21:00,Line C - Assembly,21.5
+2026-09-01 21:00,Utilities - Compressed Air,38.4
+2026-09-01 21:00,Utilities - HVAC & Lighting,30.6
+2026-09-01 22:00,Line A - Injection Moulding,96.6
+2026-09-01 22:00,Line B - CNC Machining,58.1
+2026-09-01 22:00,Line C - Assembly,22.1
+2026-09-01 22:00,Utilities - Compressed Air,41.4
+2026-09-01 22:00,Utilities - HVAC & Lighting,31.6
+2026-09-01 23:00,Line A - Injection Moulding,25.8
+2026-09-01 23:00,Line B - CNC Machining,15.4
+2026-09-01 23:00,Line C - Assembly,3.6
+2026-09-01 23:00,Utilities - Compressed Air,26.7
+2026-09-01 23:00,Utilities - HVAC & Lighting,13.1
+2026-09-02 00:00,Line A - Injection Moulding,28.8
+2026-09-02 00:00,Line B - CNC Machining,13.3
+2026-09-02 00:00,Line C - Assembly,2.9
+2026-09-02 00:00,Utilities - Compressed Air,25.0
+2026-09-02 00:00,Utilities - HVAC & Lighting,10.4
+2026-09-02 01:00,Line A - Injection Moulding,25.9
+2026-09-02 01:00,Line B - CNC Machining,12.5
+2026-09-02 01:00,Line C - Assembly,3.0
+2026-09-02 01:00,Utilities - Compressed Air,22.8
+2026-09-02 01:00,Utilities - HVAC & Lighting,10.4
+2026-09-02 02:00,Line A - Injection Moulding,25.3
+2026-09-02 02:00,Line B - CNC Machining,12.3
+2026-09-02 02:00,Line C - Assembly,2.9
+2026-09-02 02:00,Utilities - Compressed Air,23.0
+2026-09-02 02:00,Utilities - HVAC & Lighting,10.3
+2026-09-02 03:00,Line A - Injection Moulding,33.1
+2026-09-02 03:00,Line B - CNC Machining,14.2
+2026-09-02 03:00,Line C - Assembly,3.0
+2026-09-02 03:00,Utilities - Compressed Air,22.2
+2026-09-02 03:00,Utilities - HVAC & Lighting,11.5
+2026-09-02 04:00,Line A - Injection Moulding,28.5
+2026-09-02 04:00,Line B - CNC Machining,12.2
+2026-09-02 04:00,Line C - Assembly,3.6
+2026-09-02 04:00,Utilities - Compressed Air,27.6
+2026-09-02 04:00,Utilities - HVAC & Lighting,11.9
+2026-09-02 05:00,Line A - Injection Moulding,29.6
+2026-09-02 05:00,Line B - CNC Machining,12.0
+2026-09-02 05:00,Line C - Assembly,2.9
+2026-09-02 05:00,Utilities - Compressed Air,22.9
+2026-09-02 05:00,Utilities - HVAC & Lighting,11.2
+2026-09-02 06:00,Line A - Injection Moulding,32.7
+2026-09-02 06:00,Line B - CNC Machining,12.4
+2026-09-02 06:00,Line C - Assembly,2.8
+2026-09-02 06:00,Utilities - Compressed Air,27.2
+2026-09-02 06:00,Utilities - HVAC & Lighting,12.1
+2026-09-02 07:00,Line A - Injection Moulding,76.0
+2026-09-02 07:00,Line B - CNC Machining,55.7
+2026-09-02 07:00,Line C - Assembly,18.9
+2026-09-02 07:00,Utilities - Compressed Air,40.3
+2026-09-02 07:00,Utilities - HVAC & Lighting,34.3
+2026-09-02 08:00,Line A - Injection Moulding,94.3
+2026-09-02 08:00,Line B - CNC Machining,58.2
+2026-09-02 08:00,Line C - Assembly,20.4
+2026-09-02 08:00,Utilities - Compressed Air,38.4
+2026-09-02 08:00,Utilities - HVAC & Lighting,27.0
+2026-09-02 09:00,Line A - Injection Moulding,91.9
+2026-09-02 09:00,Line B - CNC Machining,55.5
+2026-09-02 09:00,Line C - Assembly,23.8
+2026-09-02 09:00,Utilities - Compressed Air,38.0
+2026-09-02 09:00,Utilities - HVAC & Lighting,27.5
+2026-09-02 10:00,Line A - Injection Moulding,92.9
+2026-09-02 10:00,Line B - CNC Machining,63.0
+2026-09-02 10:00,Line C - Assembly,24.3
+2026-09-02 10:00,Utilities - Compressed Air,43.7
+2026-09-02 10:00,Utilities - HVAC & Lighting,32.9
+2026-09-02 11:00,Line A - Injection Moulding,91.1
+2026-09-02 11:00,Line B - CNC Machining,50.5
+2026-09-02 11:00,Line C - Assembly,22.1
+2026-09-02 11:00,Utilities - Compressed Air,38.3
+2026-09-02 11:00,Utilities - HVAC & Lighting,25.8
+2026-09-02 12:00,Line A - Injection Moulding,73.0
+2026-09-02 12:00,Line B - CNC Machining,51.4
+2026-09-02 12:00,Line C - Assembly,20.4
+2026-09-02 12:00,Utilities - Compressed Air,42.3
+2026-09-02 12:00,Utilities - HVAC & Lighting,34.1
+2026-09-02 13:00,Line A - Injection Moulding,83.7
+2026-09-02 13:00,Line B - CNC Machining,62.2
+2026-09-02 13:00,Line C - Assembly,25.2
+2026-09-02 13:00,Utilities - Compressed Air,45.5
+2026-09-02 13:00,Utilities - HVAC & Lighting,28.8
+2026-09-02 14:00,Line A - Injection Moulding,77.9
+2026-09-02 14:00,Line B - CNC Machining,50.5
+2026-09-02 14:00,Line C - Assembly,20.0
+2026-09-02 14:00,Utilities - Compressed Air,36.5
+2026-09-02 14:00,Utilities - HVAC & Lighting,31.1
+2026-09-02 15:00,Line A - Injection Moulding,95.2
+2026-09-02 15:00,Line B - CNC Machining,60.6
+2026-09-02 15:00,Line C - Assembly,21.9
+2026-09-02 15:00,Utilities - Compressed Air,41.8
+2026-09-02 15:00,Utilities - HVAC & Lighting,32.7
+2026-09-02 16:00,Line A - Injection Moulding,74.4
+2026-09-02 16:00,Line B - CNC Machining,57.6
+2026-09-02 16:00,Line C - Assembly,24.7
+2026-09-02 16:00,Utilities - Compressed Air,43.4
+2026-09-02 16:00,Utilities - HVAC & Lighting,32.3
+2026-09-02 17:00,Line A - Injection Moulding,84.4
+2026-09-02 17:00,Line B - CNC Machining,49.7
+2026-09-02 17:00,Line C - Assembly,23.9
+2026-09-02 17:00,Utilities - Compressed Air,38.0
+2026-09-02 17:00,Utilities - HVAC & Lighting,32.7
+2026-09-02 18:00,Line A - Injection Moulding,97.0
+2026-09-02 18:00,Line B - CNC Machining,53.3
+2026-09-02 18:00,Line C - Assembly,21.3
+2026-09-02 18:00,Utilities - Compressed Air,45.4
+2026-09-02 18:00,Utilities - HVAC & Lighting,32.0
+2026-09-02 19:00,Line A - Injection Moulding,76.6
+2026-09-02 19:00,Line B - CNC Machining,48.8
+2026-09-02 19:00,Line C - Assembly,19.7
+2026-09-02 19:00,Utilities - Compressed Air,44.9
+2026-09-02 19:00,Utilities - HVAC & Lighting,32.8
+2026-09-02 20:00,Line A - Injection Moulding,76.0
+2026-09-02 20:00,Line B - CNC Machining,60.4
+2026-09-02 20:00,Line C - Assembly,25.2
+2026-09-02 20:00,Utilities - Compressed Air,41.9
+2026-09-02 20:00,Utilities - HVAC & Lighting,28.7
+2026-09-02 21:00,Line A - Injection Moulding,86.2
+2026-09-02 21:00,Line B - CNC Machining,48.9
+2026-09-02 21:00,Line C - Assembly,18.8
+2026-09-02 21:00,Utilities - Compressed Air,45.7
+2026-09-02 21:00,Utilities - HVAC & Lighting,31.3
+2026-09-02 22:00,Line A - Injection Moulding,85.7
+2026-09-02 22:00,Line B - CNC Machining,62.2
+2026-09-02 22:00,Line C - Assembly,21.6
+2026-09-02 22:00,Utilities - Compressed Air,44.5
+2026-09-02 22:00,Utilities - HVAC & Lighting,32.9
+2026-09-02 23:00,Line A - Injection Moulding,27.2
+2026-09-02 23:00,Line B - CNC Machining,12.7
+2026-09-02 23:00,Line C - Assembly,3.1
+2026-09-02 23:00,Utilities - Compressed Air,22.1
+2026-09-02 23:00,Utilities - HVAC & Lighting,12.3
+2026-09-03 00:00,Line A - Injection Moulding,27.6
+2026-09-03 00:00,Line B - CNC Machining,13.4
+2026-09-03 00:00,Line C - Assembly,2.9
+2026-09-03 00:00,Utilities - Compressed Air,27.0
+2026-09-03 00:00,Utilities - HVAC & Lighting,11.5
+2026-09-03 01:00,Line A - Injection Moulding,29.4
+2026-09-03 01:00,Line B - CNC Machining,14.1
+2026-09-03 01:00,Line C - Assembly,3.7
+2026-09-03 01:00,Utilities - Compressed Air,23.4
+2026-09-03 01:00,Utilities - HVAC & Lighting,13.5
+2026-09-03 02:00,Line A - Injection Moulding,29.8
+2026-09-03 02:00,Line B - CNC Machining,13.9
+2026-09-03 02:00,Line C - Assembly,3.3
+2026-09-03 02:00,Utilities - Compressed Air,20.5
+2026-09-03 02:00,Utilities - HVAC & Lighting,11.8
+2026-09-03 03:00,Line A - Injection Moulding,26.9
+2026-09-03 03:00,Line B - CNC Machining,11.7
+2026-09-03 03:00,Line C - Assembly,3.6
+2026-09-03 03:00,Utilities - Compressed Air,21.6
+2026-09-03 03:00,Utilities - HVAC & Lighting,11.9
+2026-09-03 04:00,Line A - Injection Moulding,31.8
+2026-09-03 04:00,Line B - CNC Machining,14.0
+2026-09-03 04:00,Line C - Assembly,3.1
+2026-09-03 04:00,Utilities - Compressed Air,24.1
+2026-09-03 04:00,Utilities - HVAC & Lighting,12.2
+2026-09-03 05:00,Line A - Injection Moulding,32.3
+2026-09-03 05:00,Line B - CNC Machining,12.1
+2026-09-03 05:00,Line C - Assembly,3.4
+2026-09-03 05:00,Utilities - Compressed Air,22.2
+2026-09-03 05:00,Utilities - HVAC & Lighting,11.2
+2026-09-03 06:00,Line A - Injection Moulding,32.2
+2026-09-03 06:00,Line B - CNC Machining,13.8
+2026-09-03 06:00,Line C - Assembly,3.4
+2026-09-03 06:00,Utilities - Compressed Air,25.9
+2026-09-03 06:00,Utilities - HVAC & Lighting,13.5
+2026-09-03 07:00,Line A - Injection Moulding,83.6
+2026-09-03 07:00,Line B - CNC Machining,56.9
+2026-09-03 07:00,Line C - Assembly,22.0
+2026-09-03 07:00,Utilities - Compressed Air,40.1
+2026-09-03 07:00,Utilities - HVAC & Lighting,31.7
+2026-09-03 08:00,Line A - Injection Moulding,83.8
+2026-09-03 08:00,Line B - CNC Machining,55.5
+2026-09-03 08:00,Line C - Assembly,21.9
+2026-09-03 08:00,Utilities - Compressed Air,45.3
+2026-09-03 08:00,Utilities - HVAC & Lighting,31.8
+2026-09-03 09:00,Line A - Injection Moulding,94.6
+2026-09-03 09:00,Line B - CNC Machining,62.3
+2026-09-03 09:00,Line C - Assembly,20.4
+2026-09-03 09:00,Utilities - Compressed Air,40.7
+2026-09-03 09:00,Utilities - HVAC & Lighting,34.0
+2026-09-03 10:00,Line A - Injection Moulding,93.7
+2026-09-03 10:00,Line B - CNC Machining,49.0
+2026-09-03 10:00,Line C - Assembly,19.5
+2026-09-03 10:00,Utilities - Compressed Air,39.3
+2026-09-03 10:00,Utilities - HVAC & Lighting,26.2
+2026-09-03 11:00,Line A - Injection Moulding,78.4
+2026-09-03 11:00,Line B - CNC Machining,48.0
+2026-09-03 11:00,Line C - Assembly,23.1
+2026-09-03 11:00,Utilities - Compressed Air,43.4
+2026-09-03 11:00,Utilities - HVAC & Lighting,33.6
+2026-09-03 12:00,Line A - Injection Moulding,76.2
+2026-09-03 12:00,Line B - CNC Machining,58.6
+2026-09-03 12:00,Line C - Assembly,23.1
+2026-09-03 12:00,Utilities - Compressed Air,35.7
+2026-09-03 12:00,Utilities - HVAC & Lighting,33.4
+2026-09-03 13:00,Line A - Injection Moulding,96.9
+2026-09-03 13:00,Line B - CNC Machining,50.4
+2026-09-03 13:00,Line C - Assembly,25.0
+2026-09-03 13:00,Utilities - Compressed Air,38.8
+2026-09-03 13:00,Utilities - HVAC & Lighting,29.9
+2026-09-03 14:00,Line A - Injection Moulding,97.5
+2026-09-03 14:00,Line B - CNC Machining,60.5
+2026-09-03 14:00,Line C - Assembly,19.8
+2026-09-03 14:00,Utilities - Compressed Air,39.2
+2026-09-03 14:00,Utilities - HVAC & Lighting,30.1
+2026-09-03 15:00,Line A - Injection Moulding,80.9
+2026-09-03 15:00,Line B - CNC Machining,50.0
+2026-09-03 15:00,Line C - Assembly,20.8
+2026-09-03 15:00,Utilities - Compressed Air,42.7
+2026-09-03 15:00,Utilities - HVAC & Lighting,25.7
+2026-09-03 16:00,Line A - Injection Moulding,86.4
+2026-09-03 16:00,Line B - CNC Machining,54.0
+2026-09-03 16:00,Line C - Assembly,18.8
+2026-09-03 16:00,Utilities - Compressed Air,38.0
+2026-09-03 16:00,Utilities - HVAC & Lighting,31.1
+2026-09-03 17:00,Line A - Injection Moulding,85.3
+2026-09-03 17:00,Line B - CNC Machining,47.8
+2026-09-03 17:00,Line C - Assembly,25.2
+2026-09-03 17:00,Utilities - Compressed Air,43.5
+2026-09-03 17:00,Utilities - HVAC & Lighting,34.2
+2026-09-03 18:00,Line A - Injection Moulding,74.9
+2026-09-03 18:00,Line B - CNC Machining,51.1
+2026-09-03 18:00,Line C - Assembly,19.0
+2026-09-03 18:00,Utilities - Compressed Air,43.3
+2026-09-03 18:00,Utilities - HVAC & Lighting,27.9
+2026-09-03 19:00,Line A - Injection Moulding,75.6
+2026-09-03 19:00,Line B - CNC Machining,53.7
+2026-09-03 19:00,Line C - Assembly,24.7
+2026-09-03 19:00,Utilities - Compressed Air,43.8
+2026-09-03 19:00,Utilities - HVAC & Lighting,27.8
+2026-09-03 20:00,Line A - Injection Moulding,76.1
+2026-09-03 20:00,Line B - CNC Machining,61.9
+2026-09-03 20:00,Line C - Assembly,22.5
+2026-09-03 20:00,Utilities - Compressed Air,42.4
+2026-09-03 20:00,Utilities - HVAC & Lighting,26.3
+2026-09-03 21:00,Line A - Injection Moulding,73.7
+2026-09-03 21:00,Line B - CNC Machining,58.1
+2026-09-03 21:00,Line C - Assembly,21.5
+2026-09-03 21:00,Utilities - Compressed Air,34.9
+2026-09-03 21:00,Utilities - HVAC & Lighting,33.9
+2026-09-03 22:00,Line A - Injection Moulding,88.4
+2026-09-03 22:00,Line B - CNC Machining,60.0
+2026-09-03 22:00,Line C - Assembly,19.3
+2026-09-03 22:00,Utilities - Compressed Air,44.3
+2026-09-03 22:00,Utilities - HVAC & Lighting,26.1
+2026-09-03 23:00,Line A - Injection Moulding,33.0
+2026-09-03 23:00,Line B - CNC Machining,13.6
+2026-09-03 23:00,Line C - Assembly,3.1
+2026-09-03 23:00,Utilities - Compressed Air,24.4
+2026-09-03 23:00,Utilities - HVAC & Lighting,13.5
+2026-09-04 00:00,Line A - Injection Moulding,27.7
+2026-09-04 00:00,Line B - CNC Machining,12.2
+2026-09-04 00:00,Line C - Assembly,3.3
+2026-09-04 00:00,Utilities - Compressed Air,22.1
+2026-09-04 00:00,Utilities - HVAC & Lighting,10.6
+2026-09-04 01:00,Line A - Injection Moulding,26.7
+2026-09-04 01:00,Line B - CNC Machining,11.9
+2026-09-04 01:00,Line C - Assembly,3.0
+2026-09-04 01:00,Utilities - Compressed Air,22.6
+2026-09-04 01:00,Utilities - HVAC & Lighting,11.3
+2026-09-04 02:00,Line A - Injection Moulding,32.1
+2026-09-04 02:00,Line B - CNC Machining,12.9
+2026-09-04 02:00,Line C - Assembly,3.3
+2026-09-04 02:00,Utilities - Compressed Air,21.7
+2026-09-04 02:00,Utilities - HVAC & Lighting,11.4
+2026-09-04 03:00,Line A - Injection Moulding,25.4
+2026-09-04 03:00,Line B - CNC Machining,12.7
+2026-09-04 03:00,Line C - Assembly,2.8
+2026-09-04 03:00,Utilities - Compressed Air,25.7
+2026-09-04 03:00,Utilities - HVAC & Lighting,12.2
+2026-09-04 04:00,Line A - Injection Moulding,27.0
+2026-09-04 04:00,Line B - CNC Machining,13.6
+2026-09-04 04:00,Line C - Assembly,3.7
+2026-09-04 04:00,Utilities - Compressed Air,21.2
+2026-09-04 04:00,Utilities - HVAC & Lighting,13.1
+2026-09-04 05:00,Line A - Injection Moulding,29.1
+2026-09-04 05:00,Line B - CNC Machining,13.7
+2026-09-04 05:00,Line C - Assembly,3.6
+2026-09-04 05:00,Utilities - Compressed Air,23.2
+2026-09-04 05:00,Utilities - HVAC & Lighting,12.0
+2026-09-04 06:00,Line A - Injection Moulding,31.4
+2026-09-04 06:00,Line B - CNC Machining,15.7
+2026-09-04 06:00,Line C - Assembly,3.1
+2026-09-04 06:00,Utilities - Compressed Air,26.4
+2026-09-04 06:00,Utilities - HVAC & Lighting,12.7
+2026-09-04 07:00,Line A - Injection Moulding,88.5
+2026-09-04 07:00,Line B - CNC Machining,53.4
+2026-09-04 07:00,Line C - Assembly,21.0
+2026-09-04 07:00,Utilities - Compressed Air,34.7
+2026-09-04 07:00,Utilities - HVAC & Lighting,26.7
+2026-09-04 08:00,Line A - Injection Moulding,74.1
+2026-09-04 08:00,Line B - CNC Machining,59.0
+2026-09-04 08:00,Line C - Assembly,20.4
+2026-09-04 08:00,Utilities - Compressed Air,36.0
+2026-09-04 08:00,Utilities - HVAC & Lighting,26.3
+2026-09-04 09:00,Line A - Injection Moulding,93.7
+2026-09-04 09:00,Line B - CNC Machining,61.1
+2026-09-04 09:00,Line C - Assembly,23.1
+2026-09-04 09:00,Utilities - Compressed Air,37.4
+2026-09-04 09:00,Utilities - HVAC & Lighting,27.7
+2026-09-04 10:00,Line A - Injection Moulding,79.7
+2026-09-04 10:00,Line B - CNC Machining,54.3
+2026-09-04 10:00,Line C - Assembly,19.7
+2026-09-04 10:00,Utilities - Compressed Air,39.3
+2026-09-04 10:00,Utilities - HVAC & Lighting,27.9
+2026-09-04 11:00,Line A - Injection Moulding,96.8
+2026-09-04 11:00,Line B - CNC Machining,62.8
+2026-09-04 11:00,Line C - Assembly,22.3
+2026-09-04 11:00,Utilities - Compressed Air,36.9
+2026-09-04 11:00,Utilities - HVAC & Lighting,34.2
+2026-09-04 12:00,Line A - Injection Moulding,80.1
+2026-09-04 12:00,Line B - CNC Machining,52.6
+2026-09-04 12:00,Line C - Assembly,18.7
+2026-09-04 12:00,Utilities - Compressed Air,38.6
+2026-09-04 12:00,Utilities - HVAC & Lighting,29.8
+2026-09-04 13:00,Line A - Injection Moulding,85.1
+2026-09-04 13:00,Line B - CNC Machining,50.1
+2026-09-04 13:00,Line C - Assembly,22.0
+2026-09-04 13:00,Utilities - Compressed Air,34.1
+2026-09-04 13:00,Utilities - HVAC & Lighting,27.9
+2026-09-04 14:00,Line A - Injection Moulding,74.5
+2026-09-04 14:00,Line B - CNC Machining,53.3
+2026-09-04 14:00,Line C - Assembly,19.0
+2026-09-04 14:00,Utilities - Compressed Air,34.3
+2026-09-04 14:00,Utilities - HVAC & Lighting,28.2
+2026-09-04 15:00,Line A - Injection Moulding,78.2
+2026-09-04 15:00,Line B - CNC Machining,56.4
+2026-09-04 15:00,Line C - Assembly,22.2
+2026-09-04 15:00,Utilities - Compressed Air,43.0
+2026-09-04 15:00,Utilities - HVAC & Lighting,31.4
+2026-09-04 16:00,Line A - Injection Moulding,90.5
+2026-09-04 16:00,Line B - CNC Machining,61.3
+2026-09-04 16:00,Line C - Assembly,21.3
+2026-09-04 16:00,Utilities - Compressed Air,37.9
+2026-09-04 16:00,Utilities - HVAC & Lighting,34.4
+2026-09-04 17:00,Line A - Injection Moulding,76.1
+2026-09-04 17:00,Line B - CNC Machining,58.7
+2026-09-04 17:00,Line C - Assembly,22.9
+2026-09-04 17:00,Utilities - Compressed Air,34.5
+2026-09-04 17:00,Utilities - HVAC & Lighting,33.0
+2026-09-04 18:00,Line A - Injection Moulding,95.0
+2026-09-04 18:00,Line B - CNC Machining,57.1
+2026-09-04 18:00,Line C - Assembly,23.5
+2026-09-04 18:00,Utilities - Compressed Air,43.7
+2026-09-04 18:00,Utilities - HVAC & Lighting,26.8
+2026-09-04 19:00,Line A - Injection Moulding,85.6
+2026-09-04 19:00,Line B - CNC Machining,55.1
+2026-09-04 19:00,Line C - Assembly,24.2
+2026-09-04 19:00,Utilities - Compressed Air,43.7
+2026-09-04 19:00,Utilities - HVAC & Lighting,32.9
+2026-09-04 20:00,Line A - Injection Moulding,87.1
+2026-09-04 20:00,Line B - CNC Machining,61.5
+2026-09-04 20:00,Line C - Assembly,23.2
+2026-09-04 20:00,Utilities - Compressed Air,42.3
+2026-09-04 20:00,Utilities - HVAC & Lighting,27.6
+2026-09-04 21:00,Line A - Injection Moulding,73.0
+2026-09-04 21:00,Line B - CNC Machining,48.9
+2026-09-04 21:00,Line C - Assembly,21.1
+2026-09-04 21:00,Utilities - Compressed Air,35.3
+2026-09-04 21:00,Utilities - HVAC & Lighting,33.0
+2026-09-04 22:00,Line A - Injection Moulding,86.5
+2026-09-04 22:00,Line B - CNC Machining,57.1
+2026-09-04 22:00,Line C - Assembly,22.8
+2026-09-04 22:00,Utilities - Compressed Air,42.2
+2026-09-04 22:00,Utilities - HVAC & Lighting,29.9
+2026-09-04 23:00,Line A - Injection Moulding,25.3
+2026-09-04 23:00,Line B - CNC Machining,15.0
+2026-09-04 23:00,Line C - Assembly,3.5
+2026-09-04 23:00,Utilities - Compressed Air,24.0
+2026-09-04 23:00,Utilities - HVAC & Lighting,12.1
+2026-09-05 00:00,Line A - Injection Moulding,31.2
+2026-09-05 00:00,Line B - CNC Machining,12.0
+2026-09-05 00:00,Line C - Assembly,3.5
+2026-09-05 00:00,Utilities - Compressed Air,22.2
+2026-09-05 00:00,Utilities - HVAC & Lighting,10.5
+2026-09-05 01:00,Line A - Injection Moulding,27.7
+2026-09-05 01:00,Line B - CNC Machining,14.7
+2026-09-05 01:00,Line C - Assembly,3.0
+2026-09-05 01:00,Utilities - Compressed Air,25.7
+2026-09-05 01:00,Utilities - HVAC & Lighting,13.7
+2026-09-05 02:00,Line A - Injection Moulding,29.7
+2026-09-05 02:00,Line B - CNC Machining,13.3
+2026-09-05 02:00,Line C - Assembly,3.3
+2026-09-05 02:00,Utilities - Compressed Air,25.3
+2026-09-05 02:00,Utilities - HVAC & Lighting,13.0
+2026-09-05 03:00,Line A - Injection Moulding,30.8
+2026-09-05 03:00,Line B - CNC Machining,14.3
+2026-09-05 03:00,Line C - Assembly,2.9
+2026-09-05 03:00,Utilities - Compressed Air,21.5
+2026-09-05 03:00,Utilities - HVAC & Lighting,11.1
+2026-09-05 04:00,Line A - Injection Moulding,31.9
+2026-09-05 04:00,Line B - CNC Machining,12.9
+2026-09-05 04:00,Line C - Assembly,3.4
+2026-09-05 04:00,Utilities - Compressed Air,20.5
+2026-09-05 04:00,Utilities - HVAC & Lighting,10.4
+2026-09-05 05:00,Line A - Injection Moulding,27.7
+2026-09-05 05:00,Line B - CNC Machining,14.5
+2026-09-05 05:00,Line C - Assembly,3.5
+2026-09-05 05:00,Utilities - Compressed Air,25.3
+2026-09-05 05:00,Utilities - HVAC & Lighting,11.2
+2026-09-05 06:00,Line A - Injection Moulding,29.9
+2026-09-05 06:00,Line B - CNC Machining,13.6
+2026-09-05 06:00,Line C - Assembly,3.3
+2026-09-05 06:00,Utilities - Compressed Air,21.3
+2026-09-05 06:00,Utilities - HVAC & Lighting,13.4
+2026-09-05 07:00,Line A - Injection Moulding,77.3
+2026-09-05 07:00,Line B - CNC Machining,62.9
+2026-09-05 07:00,Line C - Assembly,24.9
+2026-09-05 07:00,Utilities - Compressed Air,34.2
+2026-09-05 07:00,Utilities - HVAC & Lighting,29.6
+2026-09-05 08:00,Line A - Injection Moulding,93.2
+2026-09-05 08:00,Line B - CNC Machining,62.7
+2026-09-05 08:00,Line C - Assembly,21.7
+2026-09-05 08:00,Utilities - Compressed Air,37.2
+2026-09-05 08:00,Utilities - HVAC & Lighting,27.4
+2026-09-05 09:00,Line A - Injection Moulding,96.4
+2026-09-05 09:00,Line B - CNC Machining,50.2
+2026-09-05 09:00,Line C - Assembly,22.5
+2026-09-05 09:00,Utilities - Compressed Air,35.7
+2026-09-05 09:00,Utilities - HVAC & Lighting,30.2
+2026-09-05 10:00,Line A - Injection Moulding,96.5
+2026-09-05 10:00,Line B - CNC Machining,48.9
+2026-09-05 10:00,Line C - Assembly,24.1
+2026-09-05 10:00,Utilities - Compressed Air,40.1
+2026-09-05 10:00,Utilities - HVAC & Lighting,33.5
+2026-09-05 11:00,Line A - Injection Moulding,90.2
+2026-09-05 11:00,Line B - CNC Machining,50.6
+2026-09-05 11:00,Line C - Assembly,24.6
+2026-09-05 11:00,Utilities - Compressed Air,39.8
+2026-09-05 11:00,Utilities - HVAC & Lighting,25.7
+2026-09-05 12:00,Line A - Injection Moulding,72.3
+2026-09-05 12:00,Line B - CNC Machining,54.9
+2026-09-05 12:00,Line C - Assembly,21.7
+2026-09-05 12:00,Utilities - Compressed Air,37.6
+2026-09-05 12:00,Utilities - HVAC & Lighting,26.8
+2026-09-05 13:00,Line A - Injection Moulding,81.0
+2026-09-05 13:00,Line B - CNC Machining,52.0
+2026-09-05 13:00,Line C - Assembly,24.2
+2026-09-05 13:00,Utilities - Compressed Air,34.0
+2026-09-05 13:00,Utilities - HVAC & Lighting,32.3
+2026-09-05 14:00,Line A - Injection Moulding,93.6
+2026-09-05 14:00,Line B - CNC Machining,48.7
+2026-09-05 14:00,Line C - Assembly,24.8
+2026-09-05 14:00,Utilities - Compressed Air,42.6
+2026-09-05 14:00,Utilities - HVAC & Lighting,33.6
+2026-09-05 15:00,Line A - Injection Moulding,79.6
+2026-09-05 15:00,Line B - CNC Machining,52.9
+2026-09-05 15:00,Line C - Assembly,21.3
+2026-09-05 15:00,Utilities - Compressed Air,46.0
+2026-09-05 15:00,Utilities - HVAC & Lighting,30.8
+2026-09-05 16:00,Line A - Injection Moulding,81.4
+2026-09-05 16:00,Line B - CNC Machining,53.8
+2026-09-05 16:00,Line C - Assembly,20.5
+2026-09-05 16:00,Utilities - Compressed Air,34.6
+2026-09-05 16:00,Utilities - HVAC & Lighting,26.4
+2026-09-05 17:00,Line A - Injection Moulding,93.5
+2026-09-05 17:00,Line B - CNC Machining,51.5
+2026-09-05 17:00,Line C - Assembly,24.9
+2026-09-05 17:00,Utilities - Compressed Air,37.0
+2026-09-05 17:00,Utilities - HVAC & Lighting,27.9
+2026-09-05 18:00,Line A - Injection Moulding,85.3
+2026-09-05 18:00,Line B - CNC Machining,49.9
+2026-09-05 18:00,Line C - Assembly,21.2
+2026-09-05 18:00,Utilities - Compressed Air,45.5
+2026-09-05 18:00,Utilities - HVAC & Lighting,33.5
+2026-09-05 19:00,Line A - Injection Moulding,93.0
+2026-09-05 19:00,Line B - CNC Machining,57.2
+2026-09-05 19:00,Line C - Assembly,24.7
+2026-09-05 19:00,Utilities - Compressed Air,45.3
+2026-09-05 19:00,Utilities - HVAC & Lighting,30.4
+2026-09-05 20:00,Line A - Injection Moulding,90.6
+2026-09-05 20:00,Line B - CNC Machining,47.6
+2026-09-05 20:00,Line C - Assembly,23.5
+2026-09-05 20:00,Utilities - Compressed Air,39.4
+2026-09-05 20:00,Utilities - HVAC & Lighting,32.3
+2026-09-05 21:00,Line A - Injection Moulding,88.7
+2026-09-05 21:00,Line B - CNC Machining,51.5
+2026-09-05 21:00,Line C - Assembly,19.0
+2026-09-05 21:00,Utilities - Compressed Air,45.1
+2026-09-05 21:00,Utilities - HVAC & Lighting,26.6
+2026-09-05 22:00,Line A - Injection Moulding,84.3
+2026-09-05 22:00,Line B - CNC Machining,52.4
+2026-09-05 22:00,Line C - Assembly,20.7
+2026-09-05 22:00,Utilities - Compressed Air,42.9
+2026-09-05 22:00,Utilities - HVAC & Lighting,34.3
+2026-09-05 23:00,Line A - Injection Moulding,27.6
+2026-09-05 23:00,Line B - CNC Machining,14.4
+2026-09-05 23:00,Line C - Assembly,3.1
+2026-09-05 23:00,Utilities - Compressed Air,24.4
+2026-09-05 23:00,Utilities - HVAC & Lighting,11.6
+2026-09-06 00:00,Line A - Injection Moulding,26.8
+2026-09-06 00:00,Line B - CNC Machining,12.4
+2026-09-06 00:00,Line C - Assembly,3.0
+2026-09-06 00:00,Utilities - Compressed Air,26.9
+2026-09-06 00:00,Utilities - HVAC & Lighting,12.0
+2026-09-06 01:00,Line A - Injection Moulding,27.3
+2026-09-06 01:00,Line B - CNC Machining,15.4
+2026-09-06 01:00,Line C - Assembly,3.8
+2026-09-06 01:00,Utilities - Compressed Air,23.6
+2026-09-06 01:00,Utilities - HVAC & Lighting,10.7
+2026-09-06 02:00,Line A - Injection Moulding,27.0
+2026-09-06 02:00,Line B - CNC Machining,12.1
+2026-09-06 02:00,Line C - Assembly,3.1
+2026-09-06 02:00,Utilities - Compressed Air,21.1
+2026-09-06 02:00,Utilities - HVAC & Lighting,11.1
+2026-09-06 03:00,Line A - Injection Moulding,27.6
+2026-09-06 03:00,Line B - CNC Machining,14.0
+2026-09-06 03:00,Line C - Assembly,3.7
+2026-09-06 03:00,Utilities - Compressed Air,25.8
+2026-09-06 03:00,Utilities - HVAC & Lighting,11.7
+2026-09-06 04:00,Line A - Injection Moulding,29.0
+2026-09-06 04:00,Line B - CNC Machining,13.8
+2026-09-06 04:00,Line C - Assembly,3.2
+2026-09-06 04:00,Utilities - Compressed Air,22.8
+2026-09-06 04:00,Utilities - HVAC & Lighting,10.4
+2026-09-06 05:00,Line A - Injection Moulding,27.8
+2026-09-06 05:00,Line B - CNC Machining,15.7
+2026-09-06 05:00,Line C - Assembly,2.9
+2026-09-06 05:00,Utilities - Compressed Air,24.0
+2026-09-06 05:00,Utilities - HVAC & Lighting,12.5
+2026-09-06 06:00,Line A - Injection Moulding,33.0
+2026-09-06 06:00,Line B - CNC Machining,12.6
+2026-09-06 06:00,Line C - Assembly,3.1
+2026-09-06 06:00,Utilities - Compressed Air,22.2
+2026-09-06 06:00,Utilities - HVAC & Lighting,11.6
+2026-09-06 07:00,Line A - Injection Moulding,29.3
+2026-09-06 07:00,Line B - CNC Machining,15.6
+2026-09-06 07:00,Line C - Assembly,3.6
+2026-09-06 07:00,Utilities - Compressed Air,26.7
+2026-09-06 07:00,Utilities - HVAC & Lighting,10.3
+2026-09-06 08:00,Line A - Injection Moulding,25.6
+2026-09-06 08:00,Line B - CNC Machining,14.6
+2026-09-06 08:00,Line C - Assembly,3.7
+2026-09-06 08:00,Utilities - Compressed Air,23.8
+2026-09-06 08:00,Utilities - HVAC & Lighting,12.3
+2026-09-06 09:00,Line A - Injection Moulding,25.3
+2026-09-06 09:00,Line B - CNC Machining,13.3
+2026-09-06 09:00,Line C - Assembly,3.7
+2026-09-06 09:00,Utilities - Compressed Air,26.3
+2026-09-06 09:00,Utilities - HVAC & Lighting,13.3
+2026-09-06 10:00,Line A - Injection Moulding,34.0
+2026-09-06 10:00,Line B - CNC Machining,12.7
+2026-09-06 10:00,Line C - Assembly,2.9
+2026-09-06 10:00,Utilities - Compressed Air,21.5
+2026-09-06 10:00,Utilities - HVAC & Lighting,12.1
+2026-09-06 11:00,Line A - Injection Moulding,31.4
+2026-09-06 11:00,Line B - CNC Machining,15.6
+2026-09-06 11:00,Line C - Assembly,3.5
+2026-09-06 11:00,Utilities - Compressed Air,25.1
+2026-09-06 11:00,Utilities - HVAC & Lighting,13.0
+2026-09-06 12:00,Line A - Injection Moulding,29.4
+2026-09-06 12:00,Line B - CNC Machining,14.0
+2026-09-06 12:00,Line C - Assembly,2.8
+2026-09-06 12:00,Utilities - Compressed Air,26.0
+2026-09-06 12:00,Utilities - HVAC & Lighting,11.0
+2026-09-06 13:00,Line A - Injection Moulding,33.5
+2026-09-06 13:00,Line B - CNC Machining,14.4
+2026-09-06 13:00,Line C - Assembly,3.1
+2026-09-06 13:00,Utilities - Compressed Air,21.3
+2026-09-06 13:00,Utilities - HVAC & Lighting,11.1
+2026-09-06 14:00,Line A - Injection Moulding,31.0
+2026-09-06 14:00,Line B - CNC Machining,14.6
+2026-09-06 14:00,Line C - Assembly,2.9
+2026-09-06 14:00,Utilities - Compressed Air,20.9
+2026-09-06 14:00,Utilities - HVAC & Lighting,12.1
+2026-09-06 15:00,Line A - Injection Moulding,30.5
+2026-09-06 15:00,Line B - CNC Machining,13.3
+2026-09-06 15:00,Line C - Assembly,3.0
+2026-09-06 15:00,Utilities - Compressed Air,24.7
+2026-09-06 15:00,Utilities - HVAC & Lighting,10.2
+2026-09-06 16:00,Line A - Injection Moulding,28.0
+2026-09-06 16:00,Line B - CNC Machining,13.6
+2026-09-06 16:00,Line C - Assembly,3.8
+2026-09-06 16:00,Utilities - Compressed Air,25.0
+2026-09-06 16:00,Utilities - HVAC & Lighting,13.4
+2026-09-06 17:00,Line A - Injection Moulding,29.5
+2026-09-06 17:00,Line B - CNC Machining,12.7
+2026-09-06 17:00,Line C - Assembly,3.0
+2026-09-06 17:00,Utilities - Compressed Air,27.3
+2026-09-06 17:00,Utilities - HVAC & Lighting,12.7
+2026-09-06 18:00,Line A - Injection Moulding,28.0
+2026-09-06 18:00,Line B - CNC Machining,11.8
+2026-09-06 18:00,Line C - Assembly,3.3
+2026-09-06 18:00,Utilities - Compressed Air,25.3
+2026-09-06 18:00,Utilities - HVAC & Lighting,11.7
+2026-09-06 19:00,Line A - Injection Moulding,27.6
+2026-09-06 19:00,Line B - CNC Machining,14.4
+2026-09-06 19:00,Line C - Assembly,3.7
+2026-09-06 19:00,Utilities - Compressed Air,22.0
+2026-09-06 19:00,Utilities - HVAC & Lighting,10.3
+2026-09-06 20:00,Line A - Injection Moulding,28.3
+2026-09-06 20:00,Line B - CNC Machining,13.4
+2026-09-06 20:00,Line C - Assembly,3.5
+2026-09-06 20:00,Utilities - Compressed Air,21.8
+2026-09-06 20:00,Utilities - HVAC & Lighting,13.1
+2026-09-06 21:00,Line A - Injection Moulding,31.9
+2026-09-06 21:00,Line B - CNC Machining,13.8
+2026-09-06 21:00,Line C - Assembly,3.0
+2026-09-06 21:00,Utilities - Compressed Air,27.4
+2026-09-06 21:00,Utilities - HVAC & Lighting,11.3
+2026-09-06 22:00,Line A - Injection Moulding,32.6
+2026-09-06 22:00,Line B - CNC Machining,12.6
+2026-09-06 22:00,Line C - Assembly,3.0
+2026-09-06 22:00,Utilities - Compressed Air,25.9
+2026-09-06 22:00,Utilities - HVAC & Lighting,11.3
+2026-09-06 23:00,Line A - Injection Moulding,33.8
+2026-09-06 23:00,Line B - CNC Machining,13.7
+2026-09-06 23:00,Line C - Assembly,3.0
+2026-09-06 23:00,Utilities - Compressed Air,22.0
+2026-09-06 23:00,Utilities - HVAC & Lighting,11.7
+2026-09-07 00:00,Line A - Injection Moulding,31.2
+2026-09-07 00:00,Line B - CNC Machining,15.6
+2026-09-07 00:00,Line C - Assembly,2.9
+2026-09-07 00:00,Utilities - Compressed Air,23.2
+2026-09-07 00:00,Utilities - HVAC & Lighting,11.0
+2026-09-07 01:00,Line A - Injection Moulding,34.0
+2026-09-07 01:00,Line B - CNC Machining,12.3
+2026-09-07 01:00,Line C - Assembly,2.9
+2026-09-07 01:00,Utilities - Compressed Air,20.8
+2026-09-07 01:00,Utilities - HVAC & Lighting,11.6
+2026-09-07 02:00,Line A - Injection Moulding,33.3
+2026-09-07 02:00,Line B - CNC Machining,15.3
+2026-09-07 02:00,Line C - Assembly,3.5
+2026-09-07 02:00,Utilities - Compressed Air,27.6
+2026-09-07 02:00,Utilities - HVAC & Lighting,13.6
+2026-09-07 03:00,Line A - Injection Moulding,28.2
+2026-09-07 03:00,Line B - CNC Machining,12.5
+2026-09-07 03:00,Line C - Assembly,3.7
+2026-09-07 03:00,Utilities - Compressed Air,25.8
+2026-09-07 03:00,Utilities - HVAC & Lighting,10.3
+2026-09-07 04:00,Line A - Injection Moulding,31.2
+2026-09-07 04:00,Line B - CNC Machining,13.2
+2026-09-07 04:00,Line C - Assembly,3.2
+2026-09-07 04:00,Utilities - Compressed Air,22.8
+2026-09-07 04:00,Utilities - HVAC & Lighting,10.8
+2026-09-07 05:00,Line A - Injection Moulding,25.3
+2026-09-07 05:00,Line B - CNC Machining,12.8
+2026-09-07 05:00,Line C - Assembly,3.2
+2026-09-07 05:00,Utilities - Compressed Air,27.3
+2026-09-07 05:00,Utilities - HVAC & Lighting,10.6
+2026-09-07 06:00,Line A - Injection Moulding,33.9
+2026-09-07 06:00,Line B - CNC Machining,12.5
+2026-09-07 06:00,Line C - Assembly,3.2
+2026-09-07 06:00,Utilities - Compressed Air,26.3
+2026-09-07 06:00,Utilities - HVAC & Lighting,13.2
+2026-09-07 07:00,Line A - Injection Moulding,83.3
+2026-09-07 07:00,Line B - CNC Machining,47.6
+2026-09-07 07:00,Line C - Assembly,21.8
+2026-09-07 07:00,Utilities - Compressed Air,38.5
+2026-09-07 07:00,Utilities - HVAC & Lighting,33.8
+2026-09-07 08:00,Line A - Injection Moulding,77.2
+2026-09-07 08:00,Line B - CNC Machining,52.8
+2026-09-07 08:00,Line C - Assembly,24.6
+2026-09-07 08:00,Utilities - Compressed Air,34.4
+2026-09-07 08:00,Utilities - HVAC & Lighting,29.2
+2026-09-07 09:00,Line A - Injection Moulding,93.0
+2026-09-07 09:00,Line B - CNC Machining,59.4
+2026-09-07 09:00,Line C - Assembly,19.0
+2026-09-07 09:00,Utilities - Compressed Air,34.4
+2026-09-07 09:00,Utilities - HVAC & Lighting,26.1
+2026-09-07 10:00,Line A - Injection Moulding,95.7
+2026-09-07 10:00,Line B - CNC Machining,51.0
+2026-09-07 10:00,Line C - Assembly,23.6
+2026-09-07 10:00,Utilities - Compressed Air,44.8
+2026-09-07 10:00,Utilities - HVAC & Lighting,28.6
+2026-09-07 11:00,Line A - Injection Moulding,79.2
+2026-09-07 11:00,Line B - CNC Machining,62.6
+2026-09-07 11:00,Line C - Assembly,22.8
+2026-09-07 11:00,Utilities - Compressed Air,37.1
+2026-09-07 11:00,Utilities - HVAC & Lighting,31.9
+2026-09-07 12:00,Line A - Injection Moulding,80.3
+2026-09-07 12:00,Line B - CNC Machining,51.3
+2026-09-07 12:00,Line C - Assembly,18.7
+2026-09-07 12:00,Utilities - Compressed Air,43.1
+2026-09-07 12:00,Utilities - HVAC & Lighting,33.7
+2026-09-07 13:00,Line A - Injection Moulding,88.4
+2026-09-07 13:00,Line B - CNC Machining,62.3
+2026-09-07 13:00,Line C - Assembly,18.9
+2026-09-07 13:00,Utilities - Compressed Air,36.8
+2026-09-07 13:00,Utilities - HVAC & Lighting,29.8
+2026-09-07 14:00,Line A - Injection Moulding,96.6
+2026-09-07 14:00,Line B - CNC Machining,62.5
+2026-09-07 14:00,Line C - Assembly,21.3
+2026-09-07 14:00,Utilities - Compressed Air,37.0
+2026-09-07 14:00,Utilities - HVAC & Lighting,29.4
+2026-09-07 15:00,Line A - Injection Moulding,84.8
+2026-09-07 15:00,Line B - CNC Machining,62.1
+2026-09-07 15:00,Line C - Assembly,19.9
+2026-09-07 15:00,Utilities - Compressed Air,43.6
+2026-09-07 15:00,Utilities - HVAC & Lighting,32.1
+2026-09-07 16:00,Line A - Injection Moulding,93.2
+2026-09-07 16:00,Line B - CNC Machining,59.5
+2026-09-07 16:00,Line C - Assembly,22.7
+2026-09-07 16:00,Utilities - Compressed Air,37.9
+2026-09-07 16:00,Utilities - HVAC & Lighting,28.4
+2026-09-07 17:00,Line A - Injection Moulding,81.5
+2026-09-07 17:00,Line B - CNC Machining,59.7
+2026-09-07 17:00,Line C - Assembly,19.2
+2026-09-07 17:00,Utilities - Compressed Air,36.4
+2026-09-07 17:00,Utilities - HVAC & Lighting,32.3
+2026-09-07 18:00,Line A - Injection Moulding,78.6
+2026-09-07 18:00,Line B - CNC Machining,47.8
+2026-09-07 18:00,Line C - Assembly,18.9
+2026-09-07 18:00,Utilities - Compressed Air,40.6
+2026-09-07 18:00,Utilities - HVAC & Lighting,28.4
+2026-09-07 19:00,Line A - Injection Moulding,97.2
+2026-09-07 19:00,Line B - CNC Machining,61.3
+2026-09-07 19:00,Line C - Assembly,25.2
+2026-09-07 19:00,Utilities - Compressed Air,37.2
+2026-09-07 19:00,Utilities - HVAC & Lighting,26.3
+2026-09-07 20:00,Line A - Injection Moulding,74.7
+2026-09-07 20:00,Line B - CNC Machining,55.0
+2026-09-07 20:00,Line C - Assembly,23.4
+2026-09-07 20:00,Utilities - Compressed Air,39.4
+2026-09-07 20:00,Utilities - HVAC & Lighting,27.6
+2026-09-07 21:00,Line A - Injection Moulding,82.9
+2026-09-07 21:00,Line B - CNC Machining,57.0
+2026-09-07 21:00,Line C - Assembly,23.1
+2026-09-07 21:00,Utilities - Compressed Air,43.0
+2026-09-07 21:00,Utilities - HVAC & Lighting,33.1
+2026-09-07 22:00,Line A - Injection Moulding,89.2
+2026-09-07 22:00,Line B - CNC Machining,48.7
+2026-09-07 22:00,Line C - Assembly,24.2
+2026-09-07 22:00,Utilities - Compressed Air,37.5
+2026-09-07 22:00,Utilities - HVAC & Lighting,30.6
+2026-09-07 23:00,Line A - Injection Moulding,28.6
+2026-09-07 23:00,Line B - CNC Machining,14.7
+2026-09-07 23:00,Line C - Assembly,3.0
+2026-09-07 23:00,Utilities - Compressed Air,22.2
+2026-09-07 23:00,Utilities - HVAC & Lighting,11.1
+2026-09-08 00:00,Line A - Injection Moulding,26.7
+2026-09-08 00:00,Line B - CNC Machining,15.3
+2026-09-08 00:00,Line C - Assembly,3.4
+2026-09-08 00:00,Utilities - Compressed Air,22.7
+2026-09-08 00:00,Utilities - HVAC & Lighting,11.6
+2026-09-08 01:00,Line A - Injection Moulding,34.1
+2026-09-08 01:00,Line B - CNC Machining,13.8
+2026-09-08 01:00,Line C - Assembly,3.0
+2026-09-08 01:00,Utilities - Compressed Air,26.2
+2026-09-08 01:00,Utilities - HVAC & Lighting,12.6
+2026-09-08 02:00,Line A - Injection Moulding,34.1
+2026-09-08 02:00,Line B - CNC Machining,12.1
+2026-09-08 02:00,Line C - Assembly,3.3
+2026-09-08 02:00,Utilities - Compressed Air,26.3
+2026-09-08 02:00,Utilities - HVAC & Lighting,13.2
+2026-09-08 03:00,Line A - Injection Moulding,33.4
+2026-09-08 03:00,Line B - CNC Machining,11.9
+2026-09-08 03:00,Line C - Assembly,3.1
+2026-09-08 03:00,Utilities - Compressed Air,21.3
+2026-09-08 03:00,Utilities - HVAC & Lighting,10.9
+2026-09-08 04:00,Line A - Injection Moulding,34.0
+2026-09-08 04:00,Line B - CNC Machining,14.1
+2026-09-08 04:00,Line C - Assembly,3.7
+2026-09-08 04:00,Utilities - Compressed Air,23.1
+2026-09-08 04:00,Utilities - HVAC & Lighting,13.3
+2026-09-08 05:00,Line A - Injection Moulding,29.3
+2026-09-08 05:00,Line B - CNC Machining,12.8
+2026-09-08 05:00,Line C - Assembly,3.6
+2026-09-08 05:00,Utilities - Compressed Air,27.2
+2026-09-08 05:00,Utilities - HVAC & Lighting,10.6
+2026-09-08 06:00,Line A - Injection Moulding,30.6
+2026-09-08 06:00,Line B - CNC Machining,14.2
+2026-09-08 06:00,Line C - Assembly,3.0
+2026-09-08 06:00,Utilities - Compressed Air,23.1
+2026-09-08 06:00,Utilities - HVAC & Lighting,10.7
+2026-09-08 07:00,Line A - Injection Moulding,77.5
+2026-09-08 07:00,Line B - CNC Machining,51.0
+2026-09-08 07:00,Line C - Assembly,22.7
+2026-09-08 07:00,Utilities - Compressed Air,41.8
+2026-09-08 07:00,Utilities - HVAC & Lighting,27.3
+2026-09-08 08:00,Line A - Injection Moulding,72.5
+2026-09-08 08:00,Line B - CNC Machining,52.1
+2026-09-08 08:00,Line C - Assembly,23.2
+2026-09-08 08:00,Utilities - Compressed Air,36.2
+2026-09-08 08:00,Utilities - HVAC & Lighting,28.3
+2026-09-08 09:00,Line A - Injection Moulding,77.4
+2026-09-08 09:00,Line B - CNC Machining,59.9
+2026-09-08 09:00,Line C - Assembly,22.3
+2026-09-08 09:00,Utilities - Compressed Air,34.8
+2026-09-08 09:00,Utilities - HVAC & Lighting,26.4
+2026-09-08 10:00,Line A - Injection Moulding,82.3
+2026-09-08 10:00,Line B - CNC Machining,55.8
+2026-09-08 10:00,Line C - Assembly,22.9
+2026-09-08 10:00,Utilities - Compressed Air,35.1
+2026-09-08 10:00,Utilities - HVAC & Lighting,27.0
+2026-09-08 11:00,Line A - Injection Moulding,90.0
+2026-09-08 11:00,Line B - CNC Machining,53.5
+2026-09-08 11:00,Line C - Assembly,20.6
+2026-09-08 11:00,Utilities - Compressed Air,37.7
+2026-09-08 11:00,Utilities - HVAC & Lighting,34.1
+2026-09-08 12:00,Line A - Injection Moulding,80.2
+2026-09-08 12:00,Line B - CNC Machining,56.1
+2026-09-08 12:00,Line C - Assembly,21.1
+2026-09-08 12:00,Utilities - Compressed Air,39.0
+2026-09-08 12:00,Utilities - HVAC & Lighting,33.3
+2026-09-08 13:00,Line A - Injection Moulding,97.7
+2026-09-08 13:00,Line B - CNC Machining,52.8
+2026-09-08 13:00,Line C - Assembly,20.0
+2026-09-08 13:00,Utilities - Compressed Air,42.7
+2026-09-08 13:00,Utilities - HVAC & Lighting,27.3
+2026-09-08 14:00,Line A - Injection Moulding,72.4
+2026-09-08 14:00,Line B - CNC Machining,61.6
+2026-09-08 14:00,Line C - Assembly,21.5
+2026-09-08 14:00,Utilities - Compressed Air,43.8
+2026-09-08 14:00,Utilities - HVAC & Lighting,29.2
+2026-09-08 15:00,Line A - Injection Moulding,94.8
+2026-09-08 15:00,Line B - CNC Machining,54.4
+2026-09-08 15:00,Line C - Assembly,19.8
+2026-09-08 15:00,Utilities - Compressed Air,34.2
+2026-09-08 15:00,Utilities - HVAC & Lighting,30.5
+2026-09-08 16:00,Line A - Injection Moulding,88.6
+2026-09-08 16:00,Line B - CNC Machining,61.8
+2026-09-08 16:00,Line C - Assembly,19.3
+2026-09-08 16:00,Utilities - Compressed Air,41.5
+2026-09-08 16:00,Utilities - HVAC & Lighting,28.8
+2026-09-08 17:00,Line A - Injection Moulding,85.1
+2026-09-08 17:00,Line B - CNC Machining,49.2
+2026-09-08 17:00,Line C - Assembly,20.6
+2026-09-08 17:00,Utilities - Compressed Air,40.3
+2026-09-08 17:00,Utilities - HVAC & Lighting,33.8
+2026-09-08 18:00,Line A - Injection Moulding,75.0
+2026-09-08 18:00,Line B - CNC Machining,54.8
+2026-09-08 18:00,Line C - Assembly,24.0
+2026-09-08 18:00,Utilities - Compressed Air,45.6
+2026-09-08 18:00,Utilities - HVAC & Lighting,27.3
+2026-09-08 19:00,Line A - Injection Moulding,75.5
+2026-09-08 19:00,Line B - CNC Machining,62.3
+2026-09-08 19:00,Line C - Assembly,25.1
+2026-09-08 19:00,Utilities - Compressed Air,39.8
+2026-09-08 19:00,Utilities - HVAC & Lighting,26.0
+2026-09-08 20:00,Line A - Injection Moulding,95.9
+2026-09-08 20:00,Line B - CNC Machining,53.2
+2026-09-08 20:00,Line C - Assembly,24.7
+2026-09-08 20:00,Utilities - Compressed Air,41.4
+2026-09-08 20:00,Utilities - HVAC & Lighting,32.9
+2026-09-08 21:00,Line A - Injection Moulding,76.3
+2026-09-08 21:00,Line B - CNC Machining,59.7
+2026-09-08 21:00,Line C - Assembly,20.2
+2026-09-08 21:00,Utilities - Compressed Air,38.9
+2026-09-08 21:00,Utilities - HVAC & Lighting,33.1
+2026-09-08 22:00,Line A - Injection Moulding,93.4
+2026-09-08 22:00,Line B - CNC Machining,49.8
+2026-09-08 22:00,Line C - Assembly,20.1
+2026-09-08 22:00,Utilities - Compressed Air,38.8
+2026-09-08 22:00,Utilities - HVAC & Lighting,30.2
+2026-09-08 23:00,Line A - Injection Moulding,28.7
+2026-09-08 23:00,Line B - CNC Machining,12.2
+2026-09-08 23:00,Line C - Assembly,3.0
+2026-09-08 23:00,Utilities - Compressed Air,25.6
+2026-09-08 23:00,Utilities - HVAC & Lighting,13.4
+2026-09-09 00:00,Line A - Injection Moulding,25.7
+2026-09-09 00:00,Line B - CNC Machining,14.0
+2026-09-09 00:00,Line C - Assembly,3.6
+2026-09-09 00:00,Utilities - Compressed Air,20.7
+2026-09-09 00:00,Utilities - HVAC & Lighting,13.2
+2026-09-09 01:00,Line A - Injection Moulding,26.3
+2026-09-09 01:00,Line B - CNC Machining,14.2
+2026-09-09 01:00,Line C - Assembly,3.3
+2026-09-09 01:00,Utilities - Compressed Air,24.9
+2026-09-09 01:00,Utilities - HVAC & Lighting,11.3
+2026-09-09 02:00,Line A - Injection Moulding,29.0
+2026-09-09 02:00,Line B - CNC Machining,14.1
+2026-09-09 02:00,Line C - Assembly,3.2
+2026-09-09 02:00,Utilities - Compressed Air,25.1
+2026-09-09 02:00,Utilities - HVAC & Lighting,11.8
+2026-09-09 03:00,Line A - Injection Moulding,29.2
+2026-09-09 03:00,Line B - CNC Machining,11.8
+2026-09-09 03:00,Line C - Assembly,3.4
+2026-09-09 03:00,Utilities - Compressed Air,23.9
+2026-09-09 03:00,Utilities - HVAC & Lighting,11.0
+2026-09-09 04:00,Line A - Injection Moulding,32.1
+2026-09-09 04:00,Line B - CNC Machining,14.9
+2026-09-09 04:00,Line C - Assembly,3.3
+2026-09-09 04:00,Utilities - Compressed Air,21.7
+2026-09-09 04:00,Utilities - HVAC & Lighting,11.9
+2026-09-09 05:00,Line A - Injection Moulding,26.2
+2026-09-09 05:00,Line B - CNC Machining,12.2
+2026-09-09 05:00,Line C - Assembly,3.2
+2026-09-09 05:00,Utilities - Compressed Air,21.1
+2026-09-09 05:00,Utilities - HVAC & Lighting,11.8
+2026-09-09 06:00,Line A - Injection Moulding,29.8
+2026-09-09 06:00,Line B - CNC Machining,11.9
+2026-09-09 06:00,Line C - Assembly,3.4
+2026-09-09 06:00,Utilities - Compressed Air,21.0
+2026-09-09 06:00,Utilities - HVAC & Lighting,12.8
+2026-09-09 07:00,Line A - Injection Moulding,92.1
+2026-09-09 07:00,Line B - CNC Machining,55.2
+2026-09-09 07:00,Line C - Assembly,19.1
+2026-09-09 07:00,Utilities - Compressed Air,40.0
+2026-09-09 07:00,Utilities - HVAC & Lighting,28.9
+2026-09-09 08:00,Line A - Injection Moulding,96.5
+2026-09-09 08:00,Line B - CNC Machining,49.0
+2026-09-09 08:00,Line C - Assembly,24.4
+2026-09-09 08:00,Utilities - Compressed Air,46.0
+2026-09-09 08:00,Utilities - HVAC & Lighting,32.1
+2026-09-09 09:00,Line A - Injection Moulding,93.0
+2026-09-09 09:00,Line B - CNC Machining,49.9
+2026-09-09 09:00,Line C - Assembly,25.2
+2026-09-09 09:00,Utilities - Compressed Air,39.9
+2026-09-09 09:00,Utilities - HVAC & Lighting,34.1
+2026-09-09 10:00,Line A - Injection Moulding,95.6
+2026-09-09 10:00,Line B - CNC Machining,49.5
+2026-09-09 10:00,Line C - Assembly,23.9
+2026-09-09 10:00,Utilities - Compressed Air,45.2
+2026-09-09 10:00,Utilities - HVAC & Lighting,26.1
+2026-09-09 11:00,Line A - Injection Moulding,81.2
+2026-09-09 11:00,Line B - CNC Machining,59.2
+2026-09-09 11:00,Line C - Assembly,19.7
+2026-09-09 11:00,Utilities - Compressed Air,44.8
+2026-09-09 11:00,Utilities - HVAC & Lighting,28.0
+2026-09-09 12:00,Line A - Injection Moulding,93.0
+2026-09-09 12:00,Line B - CNC Machining,49.1
+2026-09-09 12:00,Line C - Assembly,22.0
+2026-09-09 12:00,Utilities - Compressed Air,45.0
+2026-09-09 12:00,Utilities - HVAC & Lighting,27.4
+2026-09-09 13:00,Line A - Injection Moulding,79.0
+2026-09-09 13:00,Line B - CNC Machining,55.1
+2026-09-09 13:00,Line C - Assembly,20.8
+2026-09-09 13:00,Utilities - Compressed Air,34.4
+2026-09-09 13:00,Utilities - HVAC & Lighting,27.1
+2026-09-09 14:00,Line A - Injection Moulding,76.4
+2026-09-09 14:00,Line B - CNC Machining,62.2
+2026-09-09 14:00,Line C - Assembly,23.2
+2026-09-09 14:00,Utilities - Compressed Air,44.7
+2026-09-09 14:00,Utilities - HVAC & Lighting,27.0
+2026-09-09 15:00,Line A - Injection Moulding,92.3
+2026-09-09 15:00,Line B - CNC Machining,48.6
+2026-09-09 15:00,Line C - Assembly,22.2
+2026-09-09 15:00,Utilities - Compressed Air,41.6
+2026-09-09 15:00,Utilities - HVAC & Lighting,28.7
+2026-09-09 16:00,Line A - Injection Moulding,94.5
+2026-09-09 16:00,Line B - CNC Machining,55.9
+2026-09-09 16:00,Line C - Assembly,22.5
+2026-09-09 16:00,Utilities - Compressed Air,44.6
+2026-09-09 16:00,Utilities - HVAC & Lighting,26.4
+2026-09-09 17:00,Line A - Injection Moulding,97.6
+2026-09-09 17:00,Line B - CNC Machining,57.1
+2026-09-09 17:00,Line C - Assembly,21.3
+2026-09-09 17:00,Utilities - Compressed Air,43.6
+2026-09-09 17:00,Utilities - HVAC & Lighting,27.9
+2026-09-09 18:00,Line A - Injection Moulding,97.5
+2026-09-09 18:00,Line B - CNC Machining,56.3
+2026-09-09 18:00,Line C - Assembly,21.1
+2026-09-09 18:00,Utilities - Compressed Air,43.2
+2026-09-09 18:00,Utilities - HVAC & Lighting,29.5
+2026-09-09 19:00,Line A - Injection Moulding,76.8
+2026-09-09 19:00,Line B - CNC Machining,59.0
+2026-09-09 19:00,Line C - Assembly,19.0
+2026-09-09 19:00,Utilities - Compressed Air,43.8
+2026-09-09 19:00,Utilities - HVAC & Lighting,27.8
+2026-09-09 20:00,Line A - Injection Moulding,88.6
+2026-09-09 20:00,Line B - CNC Machining,63.0
+2026-09-09 20:00,Line C - Assembly,22.6
+2026-09-09 20:00,Utilities - Compressed Air,42.0
+2026-09-09 20:00,Utilities - HVAC & Lighting,28.3
+2026-09-09 21:00,Line A - Injection Moulding,72.3
+2026-09-09 21:00,Line B - CNC Machining,47.3
+2026-09-09 21:00,Line C - Assembly,19.7
+2026-09-09 21:00,Utilities - Compressed Air,41.4
+2026-09-09 21:00,Utilities - HVAC & Lighting,29.4
+2026-09-09 22:00,Line A - Injection Moulding,85.3
+2026-09-09 22:00,Line B - CNC Machining,61.5
+2026-09-09 22:00,Line C - Assembly,19.6
+2026-09-09 22:00,Utilities - Compressed Air,36.7
+2026-09-09 22:00,Utilities - HVAC & Lighting,31.4
+2026-09-09 23:00,Line A - Injection Moulding,25.5
+2026-09-09 23:00,Line B - CNC Machining,11.7
+2026-09-09 23:00,Line C - Assembly,3.2
+2026-09-09 23:00,Utilities - Compressed Air,21.2
+2026-09-09 23:00,Utilities - HVAC & Lighting,11.5
+2026-09-10 00:00,Line A - Injection Moulding,27.3
+2026-09-10 00:00,Line B - CNC Machining,14.1
+2026-09-10 00:00,Line C - Assembly,3.4
+2026-09-10 00:00,Utilities - Compressed Air,21.9
+2026-09-10 00:00,Utilities - HVAC & Lighting,12.4
+2026-09-10 01:00,Line A - Injection Moulding,29.5
+2026-09-10 01:00,Line B - CNC Machining,12.2
+2026-09-10 01:00,Line C - Assembly,3.7
+2026-09-10 01:00,Utilities - Compressed Air,22.2
+2026-09-10 01:00,Utilities - HVAC & Lighting,10.7
+2026-09-10 02:00,Line A - Injection Moulding,26.1
+2026-09-10 02:00,Line B - CNC Machining,14.3
+2026-09-10 02:00,Line C - Assembly,3.7
+2026-09-10 02:00,Utilities - Compressed Air,26.0
+2026-09-10 02:00,Utilities - HVAC & Lighting,11.6
+2026-09-10 03:00,Line A - Injection Moulding,27.6
+2026-09-10 03:00,Line B - CNC Machining,11.7
+2026-09-10 03:00,Line C - Assembly,3.4
+2026-09-10 03:00,Utilities - Compressed Air,24.4
+2026-09-10 03:00,Utilities - HVAC & Lighting,11.5
+2026-09-10 04:00,Line A - Injection Moulding,31.0
+2026-09-10 04:00,Line B - CNC Machining,13.5
+2026-09-10 04:00,Line C - Assembly,3.7
+2026-09-10 04:00,Utilities - Compressed Air,25.7
+2026-09-10 04:00,Utilities - HVAC & Lighting,11.1
+2026-09-10 05:00,Line A - Injection Moulding,33.4
+2026-09-10 05:00,Line B - CNC Machining,11.9
+2026-09-10 05:00,Line C - Assembly,3.3
+2026-09-10 05:00,Utilities - Compressed Air,23.3
+2026-09-10 05:00,Utilities - HVAC & Lighting,11.1
+2026-09-10 06:00,Line A - Injection Moulding,25.8
+2026-09-10 06:00,Line B - CNC Machining,14.9
+2026-09-10 06:00,Line C - Assembly,2.8
+2026-09-10 06:00,Utilities - Compressed Air,24.4
+2026-09-10 06:00,Utilities - HVAC & Lighting,13.6
+2026-09-10 07:00,Line A - Injection Moulding,75.9
+2026-09-10 07:00,Line B - CNC Machining,50.0
+2026-09-10 07:00,Line C - Assembly,22.7
+2026-09-10 07:00,Utilities - Compressed Air,40.1
+2026-09-10 07:00,Utilities - HVAC & Lighting,31.3
+2026-09-10 08:00,Line A - Injection Moulding,93.0
+2026-09-10 08:00,Line B - CNC Machining,49.6
+2026-09-10 08:00,Line C - Assembly,20.7
+2026-09-10 08:00,Utilities - Compressed Air,37.6
+2026-09-10 08:00,Utilities - HVAC & Lighting,25.9
+2026-09-10 09:00,Line A - Injection Moulding,94.9
+2026-09-10 09:00,Line B - CNC Machining,59.7
+2026-09-10 09:00,Line C - Assembly,23.4
+2026-09-10 09:00,Utilities - Compressed Air,34.1
+2026-09-10 09:00,Utilities - HVAC & Lighting,33.1
+2026-09-10 10:00,Line A - Injection Moulding,91.3
+2026-09-10 10:00,Line B - CNC Machining,54.4
+2026-09-10 10:00,Line C - Assembly,23.6
+2026-09-10 10:00,Utilities - Compressed Air,39.4
+2026-09-10 10:00,Utilities - HVAC & Lighting,27.5
+2026-09-10 11:00,Line A - Injection Moulding,74.9
+2026-09-10 11:00,Line B - CNC Machining,50.6
+2026-09-10 11:00,Line C - Assembly,19.0
+2026-09-10 11:00,Utilities - Compressed Air,38.0
+2026-09-10 11:00,Utilities - HVAC & Lighting,32.2
+2026-09-10 12:00,Line A - Injection Moulding,90.0
+2026-09-10 12:00,Line B - CNC Machining,60.7
+2026-09-10 12:00,Line C - Assembly,23.4
+2026-09-10 12:00,Utilities - Compressed Air,37.2
+2026-09-10 12:00,Utilities - HVAC & Lighting,30.5
+2026-09-10 13:00,Line A - Injection Moulding,83.4
+2026-09-10 13:00,Line B - CNC Machining,59.8
+2026-09-10 13:00,Line C - Assembly,22.2
+2026-09-10 13:00,Utilities - Compressed Air,37.2
+2026-09-10 13:00,Utilities - HVAC & Lighting,31.3
+2026-09-10 14:00,Line A - Injection Moulding,96.9
+2026-09-10 14:00,Line B - CNC Machining,50.3
+2026-09-10 14:00,Line C - Assembly,24.5
+2026-09-10 14:00,Utilities - Compressed Air,34.2
+2026-09-10 14:00,Utilities - HVAC & Lighting,27.8
+2026-09-10 15:00,Line A - Injection Moulding,78.3
+2026-09-10 15:00,Line B - CNC Machining,59.0
+2026-09-10 15:00,Line C - Assembly,24.9
+2026-09-10 15:00,Utilities - Compressed Air,43.0
+2026-09-10 15:00,Utilities - HVAC & Lighting,28.4
+2026-09-10 16:00,Line A - Injection Moulding,94.7
+2026-09-10 16:00,Line B - CNC Machining,52.2
+2026-09-10 16:00,Line C - Assembly,20.3
+2026-09-10 16:00,Utilities - Compressed Air,44.9
+2026-09-10 16:00,Utilities - HVAC & Lighting,31.2
+2026-09-10 17:00,Line A - Injection Moulding,89.9
+2026-09-10 17:00,Line B - CNC Machining,57.7
+2026-09-10 17:00,Line C - Assembly,25.2
+2026-09-10 17:00,Utilities - Compressed Air,39.6
+2026-09-10 17:00,Utilities - HVAC & Lighting,33.1
+2026-09-10 18:00,Line A - Injection Moulding,90.0
+2026-09-10 18:00,Line B - CNC Machining,60.9
+2026-09-10 18:00,Line C - Assembly,21.6
+2026-09-10 18:00,Utilities - Compressed Air,42.7
+2026-09-10 18:00,Utilities - HVAC & Lighting,30.6
+2026-09-10 19:00,Line A - Injection Moulding,80.1
+2026-09-10 19:00,Line B - CNC Machining,50.2
+2026-09-10 19:00,Line C - Assembly,22.8
+2026-09-10 19:00,Utilities - Compressed Air,34.9
+2026-09-10 19:00,Utilities - HVAC & Lighting,33.7
+2026-09-10 20:00,Line A - Injection Moulding,75.9
+2026-09-10 20:00,Line B - CNC Machining,47.2
+2026-09-10 20:00,Line C - Assembly,19.4
+2026-09-10 20:00,Utilities - Compressed Air,45.1
+2026-09-10 20:00,Utilities - HVAC & Lighting,28.6
+2026-09-10 21:00,Line A - Injection Moulding,75.9
+2026-09-10 21:00,Line B - CNC Machining,47.2
+2026-09-10 21:00,Line C - Assembly,19.0
+2026-09-10 21:00,Utilities - Compressed Air,42.3
+2026-09-10 21:00,Utilities - HVAC & Lighting,31.2
+2026-09-10 22:00,Line A - Injection Moulding,90.0
+2026-09-10 22:00,Line B - CNC Machining,58.9
+2026-09-10 22:00,Line C - Assembly,19.1
+2026-09-10 22:00,Utilities - Compressed Air,41.1
+2026-09-10 22:00,Utilities - HVAC & Lighting,28.8
+2026-09-10 23:00,Line A - Injection Moulding,32.6
+2026-09-10 23:00,Line B - CNC Machining,15.1
+2026-09-10 23:00,Line C - Assembly,3.7
+2026-09-10 23:00,Utilities - Compressed Air,20.9
+2026-09-10 23:00,Utilities - HVAC & Lighting,13.3
+2026-09-11 00:00,Line A - Injection Moulding,33.4
+2026-09-11 00:00,Line B - CNC Machining,15.6
+2026-09-11 00:00,Line C - Assembly,2.9
+2026-09-11 00:00,Utilities - Compressed Air,21.9
+2026-09-11 00:00,Utilities - HVAC & Lighting,10.6
+2026-09-11 01:00,Line A - Injection Moulding,25.6
+2026-09-11 01:00,Line B - CNC Machining,15.2
+2026-09-11 01:00,Line C - Assembly,3.6
+2026-09-11 01:00,Utilities - Compressed Air,25.0
+2026-09-11 01:00,Utilities - HVAC & Lighting,13.2
+2026-09-11 02:00,Line A - Injection Moulding,30.9
+2026-09-11 02:00,Line B - CNC Machining,12.9
+2026-09-11 02:00,Line C - Assembly,2.9
+2026-09-11 02:00,Utilities - Compressed Air,21.1
+2026-09-11 02:00,Utilities - HVAC & Lighting,12.9
+2026-09-11 03:00,Line A - Injection Moulding,27.1
+2026-09-11 03:00,Line B - CNC Machining,13.0
+2026-09-11 03:00,Line C - Assembly,3.2
+2026-09-11 03:00,Utilities - Compressed Air,20.6
+2026-09-11 03:00,Utilities - HVAC & Lighting,11.1
+2026-09-11 04:00,Line A - Injection Moulding,27.8
+2026-09-11 04:00,Line B - CNC Machining,14.6
+2026-09-11 04:00,Line C - Assembly,3.2
+2026-09-11 04:00,Utilities - Compressed Air,22.7
+2026-09-11 04:00,Utilities - HVAC & Lighting,13.7
+2026-09-11 05:00,Line A - Injection Moulding,29.8
+2026-09-11 05:00,Line B - CNC Machining,15.2
+2026-09-11 05:00,Line C - Assembly,3.4
+2026-09-11 05:00,Utilities - Compressed Air,20.6
+2026-09-11 05:00,Utilities - HVAC & Lighting,11.7
+2026-09-11 06:00,Line A - Injection Moulding,29.2
+2026-09-11 06:00,Line B - CNC Machining,14.9
+2026-09-11 06:00,Line C - Assembly,3.1
+2026-09-11 06:00,Utilities - Compressed Air,25.5
+2026-09-11 06:00,Utilities - HVAC & Lighting,12.1
+2026-09-11 07:00,Line A - Injection Moulding,77.8
+2026-09-11 07:00,Line B - CNC Machining,61.0
+2026-09-11 07:00,Line C - Assembly,19.3
+2026-09-11 07:00,Utilities - Compressed Air,43.8
+2026-09-11 07:00,Utilities - HVAC & Lighting,27.0
+2026-09-11 08:00,Line A - Injection Moulding,72.3
+2026-09-11 08:00,Line B - CNC Machining,50.1
+2026-09-11 08:00,Line C - Assembly,23.7
+2026-09-11 08:00,Utilities - Compressed Air,45.7
+2026-09-11 08:00,Utilities - HVAC & Lighting,25.5
+2026-09-11 09:00,Line A - Injection Moulding,84.8
+2026-09-11 09:00,Line B - CNC Machining,54.9
+2026-09-11 09:00,Line C - Assembly,24.0
+2026-09-11 09:00,Utilities - Compressed Air,36.2
+2026-09-11 09:00,Utilities - HVAC & Lighting,30.0
+2026-09-11 10:00,Line A - Injection Moulding,81.1
+2026-09-11 10:00,Line B - CNC Machining,60.5
+2026-09-11 10:00,Line C - Assembly,20.4
+2026-09-11 10:00,Utilities - Compressed Air,45.3
+2026-09-11 10:00,Utilities - HVAC & Lighting,28.1
+2026-09-11 11:00,Line A - Injection Moulding,77.7
+2026-09-11 11:00,Line B - CNC Machining,58.3
+2026-09-11 11:00,Line C - Assembly,22.0
+2026-09-11 11:00,Utilities - Compressed Air,35.3
+2026-09-11 11:00,Utilities - HVAC & Lighting,31.2
+2026-09-11 12:00,Line A - Injection Moulding,74.3
+2026-09-11 12:00,Line B - CNC Machining,59.8
+2026-09-11 12:00,Line C - Assembly,23.3
+2026-09-11 12:00,Utilities - Compressed Air,43.4
+2026-09-11 12:00,Utilities - HVAC & Lighting,31.2
+2026-09-11 13:00,Line A - Injection Moulding,81.3
+2026-09-11 13:00,Line B - CNC Machining,53.4
+2026-09-11 13:00,Line C - Assembly,21.3
+2026-09-11 13:00,Utilities - Compressed Air,44.7
+2026-09-11 13:00,Utilities - HVAC & Lighting,26.3
+2026-09-11 14:00,Line A - Injection Moulding,94.9
+2026-09-11 14:00,Line B - CNC Machining,47.2
+2026-09-11 14:00,Line C - Assembly,20.1
+2026-09-11 14:00,Utilities - Compressed Air,37.2
+2026-09-11 14:00,Utilities - HVAC & Lighting,33.6
+2026-09-11 15:00,Line A - Injection Moulding,85.0
+2026-09-11 15:00,Line B - CNC Machining,53.0
+2026-09-11 15:00,Line C - Assembly,24.5
+2026-09-11 15:00,Utilities - Compressed Air,36.8
+2026-09-11 15:00,Utilities - HVAC & Lighting,29.6
+2026-09-11 16:00,Line A - Injection Moulding,85.8
+2026-09-11 16:00,Line B - CNC Machining,59.2
+2026-09-11 16:00,Line C - Assembly,23.7
+2026-09-11 16:00,Utilities - Compressed Air,41.8
+2026-09-11 16:00,Utilities - HVAC & Lighting,28.6
+2026-09-11 17:00,Line A - Injection Moulding,80.6
+2026-09-11 17:00,Line B - CNC Machining,49.3
+2026-09-11 17:00,Line C - Assembly,24.3
+2026-09-11 17:00,Utilities - Compressed Air,41.9
+2026-09-11 17:00,Utilities - HVAC & Lighting,32.2
+2026-09-11 18:00,Line A - Injection Moulding,76.6
+2026-09-11 18:00,Line B - CNC Machining,54.0
+2026-09-11 18:00,Line C - Assembly,23.8
+2026-09-11 18:00,Utilities - Compressed Air,41.0
+2026-09-11 18:00,Utilities - HVAC & Lighting,26.6
+2026-09-11 19:00,Line A - Injection Moulding,84.0
+2026-09-11 19:00,Line B - CNC Machining,61.4
+2026-09-11 19:00,Line C - Assembly,20.3
+2026-09-11 19:00,Utilities - Compressed Air,36.3
+2026-09-11 19:00,Utilities - HVAC & Lighting,28.2
+2026-09-11 20:00,Line A - Injection Moulding,90.2
+2026-09-11 20:00,Line B - CNC Machining,60.7
+2026-09-11 20:00,Line C - Assembly,19.7
+2026-09-11 20:00,Utilities - Compressed Air,35.9
+2026-09-11 20:00,Utilities - HVAC & Lighting,27.7
+2026-09-11 21:00,Line A - Injection Moulding,80.6
+2026-09-11 21:00,Line B - CNC Machining,55.4
+2026-09-11 21:00,Line C - Assembly,19.8
+2026-09-11 21:00,Utilities - Compressed Air,37.9
+2026-09-11 21:00,Utilities - HVAC & Lighting,27.2
+2026-09-11 22:00,Line A - Injection Moulding,97.1
+2026-09-11 22:00,Line B - CNC Machining,58.8
+2026-09-11 22:00,Line C - Assembly,19.4
+2026-09-11 22:00,Utilities - Compressed Air,45.5
+2026-09-11 22:00,Utilities - HVAC & Lighting,26.4
+2026-09-11 23:00,Line A - Injection Moulding,28.7
+2026-09-11 23:00,Line B - CNC Machining,15.7
+2026-09-11 23:00,Line C - Assembly,3.6
+2026-09-11 23:00,Utilities - Compressed Air,25.7
+2026-09-11 23:00,Utilities - HVAC & Lighting,11.8
+2026-09-12 00:00,Line A - Injection Moulding,27.0
+2026-09-12 00:00,Line B - CNC Machining,14.3
+2026-09-12 00:00,Line C - Assembly,2.9
+2026-09-12 00:00,Utilities - Compressed Air,21.9
+2026-09-12 00:00,Utilities - HVAC & Lighting,11.6
+2026-09-12 01:00,Line A - Injection Moulding,25.6
+2026-09-12 01:00,Line B - CNC Machining,13.3
+2026-09-12 01:00,Line C - Assembly,3.6
+2026-09-12 01:00,Utilities - Compressed Air,25.4
+2026-09-12 01:00,Utilities - HVAC & Lighting,12.0
+2026-09-12 02:00,Line A - Injection Moulding,30.9
+2026-09-12 02:00,Line B - CNC Machining,13.6
+2026-09-12 02:00,Line C - Assembly,2.9
+2026-09-12 02:00,Utilities - Compressed Air,24.7
+2026-09-12 02:00,Utilities - HVAC & Lighting,11.7
+2026-09-12 03:00,Line A - Injection Moulding,31.9
+2026-09-12 03:00,Line B - CNC Machining,15.4
+2026-09-12 03:00,Line C - Assembly,3.2
+2026-09-12 03:00,Utilities - Compressed Air,24.5
+2026-09-12 03:00,Utilities - HVAC & Lighting,12.9
+2026-09-12 04:00,Line A - Injection Moulding,29.0
+2026-09-12 04:00,Line B - CNC Machining,12.6
+2026-09-12 04:00,Line C - Assembly,3.5
+2026-09-12 04:00,Utilities - Compressed Air,26.7
+2026-09-12 04:00,Utilities - HVAC & Lighting,13.0
+2026-09-12 05:00,Line A - Injection Moulding,31.5
+2026-09-12 05:00,Line B - CNC Machining,15.2
+2026-09-12 05:00,Line C - Assembly,3.5
+2026-09-12 05:00,Utilities - Compressed Air,25.0
+2026-09-12 05:00,Utilities - HVAC & Lighting,11.8
+2026-09-12 06:00,Line A - Injection Moulding,28.1
+2026-09-12 06:00,Line B - CNC Machining,14.3
+2026-09-12 06:00,Line C - Assembly,2.9
+2026-09-12 06:00,Utilities - Compressed Air,23.4
+2026-09-12 06:00,Utilities - HVAC & Lighting,13.0
+2026-09-12 07:00,Line A - Injection Moulding,90.4
+2026-09-12 07:00,Line B - CNC Machining,57.1
+2026-09-12 07:00,Line C - Assembly,20.4
+2026-09-12 07:00,Utilities - Compressed Air,39.1
+2026-09-12 07:00,Utilities - HVAC & Lighting,29.6
+2026-09-12 08:00,Line A - Injection Moulding,88.1
+2026-09-12 08:00,Line B - CNC Machining,53.5
+2026-09-12 08:00,Line C - Assembly,23.2
+2026-09-12 08:00,Utilities - Compressed Air,45.2
+2026-09-12 08:00,Utilities - HVAC & Lighting,27.1
+2026-09-12 09:00,Line A - Injection Moulding,88.9
+2026-09-12 09:00,Line B - CNC Machining,59.6
+2026-09-12 09:00,Line C - Assembly,21.3
+2026-09-12 09:00,Utilities - Compressed Air,39.9
+2026-09-12 09:00,Utilities - HVAC & Lighting,34.3
+2026-09-12 10:00,Line A - Injection Moulding,73.2
+2026-09-12 10:00,Line B - CNC Machining,55.7
+2026-09-12 10:00,Line C - Assembly,19.8
+2026-09-12 10:00,Utilities - Compressed Air,43.4
+2026-09-12 10:00,Utilities - HVAC & Lighting,34.0
+2026-09-12 11:00,Line A - Injection Moulding,85.5
+2026-09-12 11:00,Line B - CNC Machining,48.4
+2026-09-12 11:00,Line C - Assembly,22.5
+2026-09-12 11:00,Utilities - Compressed Air,40.5
+2026-09-12 11:00,Utilities - HVAC & Lighting,32.0
+2026-09-12 12:00,Line A - Injection Moulding,85.3
+2026-09-12 12:00,Line B - CNC Machining,57.3
+2026-09-12 12:00,Line C - Assembly,24.2
+2026-09-12 12:00,Utilities - Compressed Air,40.3
+2026-09-12 12:00,Utilities - HVAC & Lighting,29.2
+2026-09-12 13:00,Line A - Injection Moulding,96.4
+2026-09-12 13:00,Line B - CNC Machining,50.2
+2026-09-12 13:00,Line C - Assembly,23.2
+2026-09-12 13:00,Utilities - Compressed Air,38.7
+2026-09-12 13:00,Utilities - HVAC & Lighting,32.4
+2026-09-12 14:00,Line A - Injection Moulding,75.4
+2026-09-12 14:00,Line B - CNC Machining,63.0
+2026-09-12 14:00,Line C - Assembly,21.0
+2026-09-12 14:00,Utilities - Compressed Air,34.7
+2026-09-12 14:00,Utilities - HVAC & Lighting,28.0
+2026-09-12 15:00,Line A - Injection Moulding,82.4
+2026-09-12 15:00,Line B - CNC Machining,47.0
+2026-09-12 15:00,Line C - Assembly,21.5
+2026-09-12 15:00,Utilities - Compressed Air,39.0
+2026-09-12 15:00,Utilities - HVAC & Lighting,31.8
+2026-09-12 16:00,Line A - Injection Moulding,81.2
+2026-09-12 16:00,Line B - CNC Machining,51.1
+2026-09-12 16:00,Line C - Assembly,20.2
+2026-09-12 16:00,Utilities - Compressed Air,42.9
+2026-09-12 16:00,Utilities - HVAC & Lighting,34.0
+2026-09-12 17:00,Line A - Injection Moulding,85.7
+2026-09-12 17:00,Line B - CNC Machining,50.4
+2026-09-12 17:00,Line C - Assembly,24.0
+2026-09-12 17:00,Utilities - Compressed Air,38.7
+2026-09-12 17:00,Utilities - HVAC & Lighting,27.4
+2026-09-12 18:00,Line A - Injection Moulding,75.5
+2026-09-12 18:00,Line B - CNC Machining,59.6
+2026-09-12 18:00,Line C - Assembly,24.0
+2026-09-12 18:00,Utilities - Compressed Air,41.6
+2026-09-12 18:00,Utilities - HVAC & Lighting,29.7
+2026-09-12 19:00,Line A - Injection Moulding,86.6
+2026-09-12 19:00,Line B - CNC Machining,50.5
+2026-09-12 19:00,Line C - Assembly,25.1
+2026-09-12 19:00,Utilities - Compressed Air,38.2
+2026-09-12 19:00,Utilities - HVAC & Lighting,31.2
+2026-09-12 20:00,Line A - Injection Moulding,93.1
+2026-09-12 20:00,Line B - CNC Machining,60.2
+2026-09-12 20:00,Line C - Assembly,21.8
+2026-09-12 20:00,Utilities - Compressed Air,37.5
+2026-09-12 20:00,Utilities - HVAC & Lighting,30.4
+2026-09-12 21:00,Line A - Injection Moulding,75.4
+2026-09-12 21:00,Line B - CNC Machining,60.5
+2026-09-12 21:00,Line C - Assembly,21.0
+2026-09-12 21:00,Utilities - Compressed Air,44.2
+2026-09-12 21:00,Utilities - HVAC & Lighting,27.9
+2026-09-12 22:00,Line A - Injection Moulding,81.8
+2026-09-12 22:00,Line B - CNC Machining,50.9
+2026-09-12 22:00,Line C - Assembly,21.5
+2026-09-12 22:00,Utilities - Compressed Air,36.2
+2026-09-12 22:00,Utilities - HVAC & Lighting,25.5
+2026-09-12 23:00,Line A - Injection Moulding,31.7
+2026-09-12 23:00,Line B - CNC Machining,12.8
+2026-09-12 23:00,Line C - Assembly,3.0
+2026-09-12 23:00,Utilities - Compressed Air,22.6
+2026-09-12 23:00,Utilities - HVAC & Lighting,11.9
+2026-09-13 00:00,Line A - Injection Moulding,29.1
+2026-09-13 00:00,Line B - CNC Machining,14.3
+2026-09-13 00:00,Line C - Assembly,3.5
+2026-09-13 00:00,Utilities - Compressed Air,23.0
+2026-09-13 00:00,Utilities - HVAC & Lighting,13.5
+2026-09-13 01:00,Line A - Injection Moulding,32.9
+2026-09-13 01:00,Line B - CNC Machining,11.9
+2026-09-13 01:00,Line C - Assembly,3.6
+2026-09-13 01:00,Utilities - Compressed Air,26.9
+2026-09-13 01:00,Utilities - HVAC & Lighting,13.0
+2026-09-13 02:00,Line A - Injection Moulding,26.5
+2026-09-13 02:00,Line B - CNC Machining,15.1
+2026-09-13 02:00,Line C - Assembly,3.4
+2026-09-13 02:00,Utilities - Compressed Air,20.5
+2026-09-13 02:00,Utilities - HVAC & Lighting,10.2
+2026-09-13 03:00,Line A - Injection Moulding,33.8
+2026-09-13 03:00,Line B - CNC Machining,14.4
+2026-09-13 03:00,Line C - Assembly,3.1
+2026-09-13 03:00,Utilities - Compressed Air,21.1
+2026-09-13 03:00,Utilities - HVAC & Lighting,10.7
+2026-09-13 04:00,Line A - Injection Moulding,27.4
+2026-09-13 04:00,Line B - CNC Machining,14.9
+2026-09-13 04:00,Line C - Assembly,3.1
+2026-09-13 04:00,Utilities - Compressed Air,21.5
+2026-09-13 04:00,Utilities - HVAC & Lighting,13.5
+2026-09-13 05:00,Line A - Injection Moulding,32.4
+2026-09-13 05:00,Line B - CNC Machining,12.4
+2026-09-13 05:00,Line C - Assembly,3.7
+2026-09-13 05:00,Utilities - Compressed Air,24.8
+2026-09-13 05:00,Utilities - HVAC & Lighting,13.0
+2026-09-13 06:00,Line A - Injection Moulding,31.3
+2026-09-13 06:00,Line B - CNC Machining,15.4
+2026-09-13 06:00,Line C - Assembly,3.6
+2026-09-13 06:00,Utilities - Compressed Air,26.4
+2026-09-13 06:00,Utilities - HVAC & Lighting,10.9
+2026-09-13 07:00,Line A - Injection Moulding,31.5
+2026-09-13 07:00,Line B - CNC Machining,13.9
+2026-09-13 07:00,Line C - Assembly,3.5
+2026-09-13 07:00,Utilities - Compressed Air,23.6
+2026-09-13 07:00,Utilities - HVAC & Lighting,13.4
+2026-09-13 08:00,Line A - Injection Moulding,30.2
+2026-09-13 08:00,Line B - CNC Machining,12.8
+2026-09-13 08:00,Line C - Assembly,3.0
+2026-09-13 08:00,Utilities - Compressed Air,21.4
+2026-09-13 08:00,Utilities - HVAC & Lighting,12.0
+2026-09-13 09:00,Line A - Injection Moulding,25.8
+2026-09-13 09:00,Line B - CNC Machining,13.6
+2026-09-13 09:00,Line C - Assembly,2.9
+2026-09-13 09:00,Utilities - Compressed Air,23.9
+2026-09-13 09:00,Utilities - HVAC & Lighting,12.0
+2026-09-13 10:00,Line A - Injection Moulding,30.1
+2026-09-13 10:00,Line B - CNC Machining,15.2
+2026-09-13 10:00,Line C - Assembly,2.8
+2026-09-13 10:00,Utilities - Compressed Air,26.5
+2026-09-13 10:00,Utilities - HVAC & Lighting,11.9
+2026-09-13 11:00,Line A - Injection Moulding,30.3
+2026-09-13 11:00,Line B - CNC Machining,14.4
+2026-09-13 11:00,Line C - Assembly,3.6
+2026-09-13 11:00,Utilities - Compressed Air,23.1
+2026-09-13 11:00,Utilities - HVAC & Lighting,11.7
+2026-09-13 12:00,Line A - Injection Moulding,33.9
+2026-09-13 12:00,Line B - CNC Machining,12.0
+2026-09-13 12:00,Line C - Assembly,3.4
+2026-09-13 12:00,Utilities - Compressed Air,25.0
+2026-09-13 12:00,Utilities - HVAC & Lighting,10.3
+2026-09-13 13:00,Line A - Injection Moulding,30.7
+2026-09-13 13:00,Line B - CNC Machining,14.5
+2026-09-13 13:00,Line C - Assembly,3.7
+2026-09-13 13:00,Utilities - Compressed Air,22.8
+2026-09-13 13:00,Utilities - HVAC & Lighting,13.7
+2026-09-13 14:00,Line A - Injection Moulding,29.8
+2026-09-13 14:00,Line B - CNC Machining,13.7
+2026-09-13 14:00,Line C - Assembly,3.7
+2026-09-13 14:00,Utilities - Compressed Air,20.6
+2026-09-13 14:00,Utilities - HVAC & Lighting,12.8
+2026-09-13 15:00,Line A - Injection Moulding,30.9
+2026-09-13 15:00,Line B - CNC Machining,13.1
+2026-09-13 15:00,Line C - Assembly,3.7
+2026-09-13 15:00,Utilities - Compressed Air,23.0
+2026-09-13 15:00,Utilities - HVAC & Lighting,11.9
+2026-09-13 16:00,Line A - Injection Moulding,30.0
+2026-09-13 16:00,Line B - CNC Machining,14.9
+2026-09-13 16:00,Line C - Assembly,3.0
+2026-09-13 16:00,Utilities - Compressed Air,23.5
+2026-09-13 16:00,Utilities - HVAC & Lighting,11.7
+2026-09-13 17:00,Line A - Injection Moulding,30.2
+2026-09-13 17:00,Line B - CNC Machining,15.1
+2026-09-13 17:00,Line C - Assembly,3.1
+2026-09-13 17:00,Utilities - Compressed Air,26.4
+2026-09-13 17:00,Utilities - HVAC & Lighting,11.7
+2026-09-13 18:00,Line A - Injection Moulding,29.8
+2026-09-13 18:00,Line B - CNC Machining,12.8
+2026-09-13 18:00,Line C - Assembly,3.3
+2026-09-13 18:00,Utilities - Compressed Air,27.4
+2026-09-13 18:00,Utilities - HVAC & Lighting,12.6
+2026-09-13 19:00,Line A - Injection Moulding,32.4
+2026-09-13 19:00,Line B - CNC Machining,13.1
+2026-09-13 19:00,Line C - Assembly,3.1
+2026-09-13 19:00,Utilities - Compressed Air,22.6
+2026-09-13 19:00,Utilities - HVAC & Lighting,12.3
+2026-09-13 20:00,Line A - Injection Moulding,31.0
+2026-09-13 20:00,Line B - CNC Machining,14.9
+2026-09-13 20:00,Line C - Assembly,2.8
+2026-09-13 20:00,Utilities - Compressed Air,25.6
+2026-09-13 20:00,Utilities - HVAC & Lighting,13.4
+2026-09-13 21:00,Line A - Injection Moulding,30.2
+2026-09-13 21:00,Line B - CNC Machining,11.9
+2026-09-13 21:00,Line C - Assembly,3.1
+2026-09-13 21:00,Utilities - Compressed Air,20.4
+2026-09-13 21:00,Utilities - HVAC & Lighting,10.9
+2026-09-13 22:00,Line A - Injection Moulding,33.5
+2026-09-13 22:00,Line B - CNC Machining,14.2
+2026-09-13 22:00,Line C - Assembly,3.5
+2026-09-13 22:00,Utilities - Compressed Air,26.1
+2026-09-13 22:00,Utilities - HVAC & Lighting,13.5
+2026-09-13 23:00,Line A - Injection Moulding,30.7
+2026-09-13 23:00,Line B - CNC Machining,14.2
+2026-09-13 23:00,Line C - Assembly,3.4
+2026-09-13 23:00,Utilities - Compressed Air,25.4
+2026-09-13 23:00,Utilities - HVAC & Lighting,12.3
+2026-09-14 00:00,Line A - Injection Moulding,31.4
+2026-09-14 00:00,Line B - CNC Machining,12.6
+2026-09-14 00:00,Line C - Assembly,3.5
+2026-09-14 00:00,Utilities - Compressed Air,23.7
+2026-09-14 00:00,Utilities - HVAC & Lighting,12.9
+2026-09-14 01:00,Line A - Injection Moulding,26.2
+2026-09-14 01:00,Line B - CNC Machining,12.4
+2026-09-14 01:00,Line C - Assembly,2.8
+2026-09-14 01:00,Utilities - Compressed Air,26.0
+2026-09-14 01:00,Utilities - HVAC & Lighting,13.5
+2026-09-14 02:00,Line A - Injection Moulding,31.1
+2026-09-14 02:00,Line B - CNC Machining,13.2
+2026-09-14 02:00,Line C - Assembly,3.6
+2026-09-14 02:00,Utilities - Compressed Air,26.1
+2026-09-14 02:00,Utilities - HVAC & Lighting,12.2
+2026-09-14 03:00,Line A - Injection Moulding,27.6
+2026-09-14 03:00,Line B - CNC Machining,12.9
+2026-09-14 03:00,Line C - Assembly,3.2
+2026-09-14 03:00,Utilities - Compressed Air,22.7
+2026-09-14 03:00,Utilities - HVAC & Lighting,11.8
+2026-09-14 04:00,Line A - Injection Moulding,31.0
+2026-09-14 04:00,Line B - CNC Machining,15.5
+2026-09-14 04:00,Line C - Assembly,2.9
+2026-09-14 04:00,Utilities - Compressed Air,24.5
+2026-09-14 04:00,Utilities - HVAC & Lighting,10.3
+2026-09-14 05:00,Line A - Injection Moulding,26.3
+2026-09-14 05:00,Line B - CNC Machining,15.0
+2026-09-14 05:00,Line C - Assembly,3.4
+2026-09-14 05:00,Utilities - Compressed Air,27.0
+2026-09-14 05:00,Utilities - HVAC & Lighting,11.8
+2026-09-14 06:00,Line A - Injection Moulding,25.4
+2026-09-14 06:00,Line B - CNC Machining,13.3
+2026-09-14 06:00,Line C - Assembly,3.4
+2026-09-14 06:00,Utilities - Compressed Air,27.2
+2026-09-14 06:00,Utilities - HVAC & Lighting,13.7
+2026-09-14 07:00,Line A - Injection Moulding,84.4
+2026-09-14 07:00,Line B - CNC Machining,53.6
+2026-09-14 07:00,Line C - Assembly,19.4
+2026-09-14 07:00,Utilities - Compressed Air,41.7
+2026-09-14 07:00,Utilities - HVAC & Lighting,27.4
+2026-09-14 08:00,Line A - Injection Moulding,76.1
+2026-09-14 08:00,Line B - CNC Machining,47.0
+2026-09-14 08:00,Line C - Assembly,18.7
+2026-09-14 08:00,Utilities - Compressed Air,42.2
+2026-09-14 08:00,Utilities - HVAC & Lighting,26.6
+2026-09-14 09:00,Line A - Injection Moulding,96.9
+2026-09-14 09:00,Line B - CNC Machining,48.2
+2026-09-14 09:00,Line C - Assembly,24.4
+2026-09-14 09:00,Utilities - Compressed Air,35.5
+2026-09-14 09:00,Utilities - HVAC & Lighting,25.7
+2026-09-14 10:00,Line A - Injection Moulding,90.6
+2026-09-14 10:00,Line B - CNC Machining,50.7
+2026-09-14 10:00,Line C - Assembly,23.5
+2026-09-14 10:00,Utilities - Compressed Air,36.2
+2026-09-14 10:00,Utilities - HVAC & Lighting,26.0
+2026-09-14 11:00,Line A - Injection Moulding,92.0
+2026-09-14 11:00,Line B - CNC Machining,58.5
+2026-09-14 11:00,Line C - Assembly,24.3
+2026-09-14 11:00,Utilities - Compressed Air,42.8
+2026-09-14 11:00,Utilities - HVAC & Lighting,26.3
+2026-09-14 12:00,Line A - Injection Moulding,88.3
+2026-09-14 12:00,Line B - CNC Machining,58.5
+2026-09-14 12:00,Line C - Assembly,21.7
+2026-09-14 12:00,Utilities - Compressed Air,45.2
+2026-09-14 12:00,Utilities - HVAC & Lighting,27.8
+2026-09-14 13:00,Line A - Injection Moulding,96.8
+2026-09-14 13:00,Line B - CNC Machining,58.6
+2026-09-14 13:00,Line C - Assembly,18.8
+2026-09-14 13:00,Utilities - Compressed Air,34.2
+2026-09-14 13:00,Utilities - HVAC & Lighting,31.4
+2026-09-14 14:00,Line A - Injection Moulding,93.1
+2026-09-14 14:00,Line B - CNC Machining,48.1
+2026-09-14 14:00,Line C - Assembly,20.8
+2026-09-14 14:00,Utilities - Compressed Air,42.8
+2026-09-14 14:00,Utilities - HVAC & Lighting,27.0
+2026-09-14 15:00,Line A - Injection Moulding,94.2
+2026-09-14 15:00,Line B - CNC Machining,54.8
+2026-09-14 15:00,Line C - Assembly,19.1
+2026-09-14 15:00,Utilities - Compressed Air,38.4
+2026-09-14 15:00,Utilities - HVAC & Lighting,30.7
+2026-09-14 16:00,Line A - Injection Moulding,83.4
+2026-09-14 16:00,Line B - CNC Machining,57.9
+2026-09-14 16:00,Line C - Assembly,19.7
+2026-09-14 16:00,Utilities - Compressed Air,43.6
+2026-09-14 16:00,Utilities - HVAC & Lighting,28.8
+2026-09-14 17:00,Line A - Injection Moulding,88.7
+2026-09-14 17:00,Line B - CNC Machining,57.1
+2026-09-14 17:00,Line C - Assembly,21.5
+2026-09-14 17:00,Utilities - Compressed Air,38.6
+2026-09-14 17:00,Utilities - HVAC & Lighting,32.6
+2026-09-14 18:00,Line A - Injection Moulding,96.3
+2026-09-14 18:00,Line B - CNC Machining,59.7
+2026-09-14 18:00,Line C - Assembly,22.4
+2026-09-14 18:00,Utilities - Compressed Air,37.5
+2026-09-14 18:00,Utilities - HVAC & Lighting,26.0
+2026-09-14 19:00,Line A - Injection Moulding,97.1
+2026-09-14 19:00,Line B - CNC Machining,58.4
+2026-09-14 19:00,Line C - Assembly,24.2
+2026-09-14 19:00,Utilities - Compressed Air,38.0
+2026-09-14 19:00,Utilities - HVAC & Lighting,31.0
+2026-09-14 20:00,Line A - Injection Moulding,97.2
+2026-09-14 20:00,Line B - CNC Machining,60.5
+2026-09-14 20:00,Line C - Assembly,22.7
+2026-09-14 20:00,Utilities - Compressed Air,37.7
+2026-09-14 20:00,Utilities - HVAC & Lighting,29.4
+2026-09-14 21:00,Line A - Injection Moulding,94.9
+2026-09-14 21:00,Line B - CNC Machining,53.0
+2026-09-14 21:00,Line C - Assembly,23.2
+2026-09-14 21:00,Utilities - Compressed Air,41.2
+2026-09-14 21:00,Utilities - HVAC & Lighting,33.6
+2026-09-14 22:00,Line A - Injection Moulding,92.8
+2026-09-14 22:00,Line B - CNC Machining,51.4
+2026-09-14 22:00,Line C - Assembly,18.7
+2026-09-14 22:00,Utilities - Compressed Air,37.2
+2026-09-14 22:00,Utilities - HVAC & Lighting,29.3
+2026-09-14 23:00,Line A - Injection Moulding,30.5
+2026-09-14 23:00,Line B - CNC Machining,15.1
+2026-09-14 23:00,Line C - Assembly,3.7
+2026-09-14 23:00,Utilities - Compressed Air,20.7
+2026-09-14 23:00,Utilities - HVAC & Lighting,13.2
+2026-09-15 00:00,Line A - Injection Moulding,32.5
+2026-09-15 00:00,Line B - CNC Machining,15.3
+2026-09-15 00:00,Line C - Assembly,3.4
+2026-09-15 00:00,Utilities - Compressed Air,22.4
+2026-09-15 00:00,Utilities - HVAC & Lighting,13.3
+2026-09-15 01:00,Line A - Injection Moulding,32.5
+2026-09-15 01:00,Line B - CNC Machining,14.5
+2026-09-15 01:00,Line C - Assembly,3.7
+2026-09-15 01:00,Utilities - Compressed Air,22.9
+2026-09-15 01:00,Utilities - HVAC & Lighting,10.5
+2026-09-15 02:00,Line A - Injection Moulding,30.2
+2026-09-15 02:00,Line B - CNC Machining,15.0
+2026-09-15 02:00,Line C - Assembly,3.0
+2026-09-15 02:00,Utilities - Compressed Air,25.8
+2026-09-15 02:00,Utilities - HVAC & Lighting,13.6
+2026-09-15 03:00,Line A - Injection Moulding,27.4
+2026-09-15 03:00,Line B - CNC Machining,14.2
+2026-09-15 03:00,Line C - Assembly,3.5
+2026-09-15 03:00,Utilities - Compressed Air,23.8
+2026-09-15 03:00,Utilities - HVAC & Lighting,10.9
+2026-09-15 04:00,Line A - Injection Moulding,27.6
+2026-09-15 04:00,Line B - CNC Machining,14.8
+2026-09-15 04:00,Line C - Assembly,3.6
+2026-09-15 04:00,Utilities - Compressed Air,23.7
+2026-09-15 04:00,Utilities - HVAC & Lighting,10.5
+2026-09-15 05:00,Line A - Injection Moulding,32.5
+2026-09-15 05:00,Line B - CNC Machining,14.9
+2026-09-15 05:00,Line C - Assembly,3.0
+2026-09-15 05:00,Utilities - Compressed Air,24.6
+2026-09-15 05:00,Utilities - HVAC & Lighting,13.4
+2026-09-15 06:00,Line A - Injection Moulding,33.2
+2026-09-15 06:00,Line B - CNC Machining,13.8
+2026-09-15 06:00,Line C - Assembly,3.3
+2026-09-15 06:00,Utilities - Compressed Air,24.6
+2026-09-15 06:00,Utilities - HVAC & Lighting,10.9
+2026-09-15 07:00,Line A - Injection Moulding,77.2
+2026-09-15 07:00,Line B - CNC Machining,49.7
+2026-09-15 07:00,Line C - Assembly,23.3
+2026-09-15 07:00,Utilities - Compressed Air,38.4
+2026-09-15 07:00,Utilities - HVAC & Lighting,30.6
+2026-09-15 08:00,Line A - Injection Moulding,82.5
+2026-09-15 08:00,Line B - CNC Machining,55.3
+2026-09-15 08:00,Line C - Assembly,19.7
+2026-09-15 08:00,Utilities - Compressed Air,34.5
+2026-09-15 08:00,Utilities - HVAC & Lighting,34.5
+2026-09-15 09:00,Line A - Injection Moulding,81.8
+2026-09-15 09:00,Line B - CNC Machining,48.5
+2026-09-15 09:00,Line C - Assembly,22.9
+2026-09-15 09:00,Utilities - Compressed Air,43.4
+2026-09-15 09:00,Utilities - HVAC & Lighting,26.9
+2026-09-15 10:00,Line A - Injection Moulding,87.5
+2026-09-15 10:00,Line B - CNC Machining,52.4
+2026-09-15 10:00,Line C - Assembly,22.1
+2026-09-15 10:00,Utilities - Compressed Air,34.2
+2026-09-15 10:00,Utilities - HVAC & Lighting,25.8
+2026-09-15 11:00,Line A - Injection Moulding,97.5
+2026-09-15 11:00,Line B - CNC Machining,61.0
+2026-09-15 11:00,Line C - Assembly,21.9
+2026-09-15 11:00,Utilities - Compressed Air,40.8
+2026-09-15 11:00,Utilities - HVAC & Lighting,27.9
+2026-09-15 12:00,Line A - Injection Moulding,92.1
+2026-09-15 12:00,Line B - CNC Machining,53.8
+2026-09-15 12:00,Line C - Assembly,24.9
+2026-09-15 12:00,Utilities - Compressed Air,43.2
+2026-09-15 12:00,Utilities - HVAC & Lighting,32.9
+2026-09-15 13:00,Line A - Injection Moulding,96.8
+2026-09-15 13:00,Line B - CNC Machining,50.9
+2026-09-15 13:00,Line C - Assembly,18.9
+2026-09-15 13:00,Utilities - Compressed Air,36.4
+2026-09-15 13:00,Utilities - HVAC & Lighting,27.1
+2026-09-15 14:00,Line A - Injection Moulding,74.4
+2026-09-15 14:00,Line B - CNC Machining,47.6
+2026-09-15 14:00,Line C - Assembly,22.4
+2026-09-15 14:00,Utilities - Compressed Air,44.4
+2026-09-15 14:00,Utilities - HVAC & Lighting,29.6
+2026-09-15 15:00,Line A - Injection Moulding,96.4
+2026-09-15 15:00,Line B - CNC Machining,61.8
+2026-09-15 15:00,Line C - Assembly,19.1
+2026-09-15 15:00,Utilities - Compressed Air,41.2
+2026-09-15 15:00,Utilities - HVAC & Lighting,29.1
+2026-09-15 16:00,Line A - Injection Moulding,75.3
+2026-09-15 16:00,Line B - CNC Machining,62.6
+2026-09-15 16:00,Line C - Assembly,20.4
+2026-09-15 16:00,Utilities - Compressed Air,40.8
+2026-09-15 16:00,Utilities - HVAC & Lighting,31.3
+2026-09-15 17:00,Line A - Injection Moulding,96.6
+2026-09-15 17:00,Line B - CNC Machining,57.8
+2026-09-15 17:00,Line C - Assembly,21.3
+2026-09-15 17:00,Utilities - Compressed Air,39.4
+2026-09-15 17:00,Utilities - HVAC & Lighting,26.9
+2026-09-15 18:00,Line A - Injection Moulding,96.9
+2026-09-15 18:00,Line B - CNC Machining,63.1
+2026-09-15 18:00,Line C - Assembly,20.2
+2026-09-15 18:00,Utilities - Compressed Air,34.5
+2026-09-15 18:00,Utilities - HVAC & Lighting,27.8
+2026-09-15 19:00,Line A - Injection Moulding,81.2
+2026-09-15 19:00,Line B - CNC Machining,61.6
+2026-09-15 19:00,Line C - Assembly,24.7
+2026-09-15 19:00,Utilities - Compressed Air,44.0
+2026-09-15 19:00,Utilities - HVAC & Lighting,25.9
+2026-09-15 20:00,Line A - Injection Moulding,92.3
+2026-09-15 20:00,Line B - CNC Machining,58.5
+2026-09-15 20:00,Line C - Assembly,23.0
+2026-09-15 20:00,Utilities - Compressed Air,45.8
+2026-09-15 20:00,Utilities - HVAC & Lighting,26.0
+2026-09-15 21:00,Line A - Injection Moulding,75.9
+2026-09-15 21:00,Line B - CNC Machining,59.2
+2026-09-15 21:00,Line C - Assembly,24.9
+2026-09-15 21:00,Utilities - Compressed Air,42.1
+2026-09-15 21:00,Utilities - HVAC & Lighting,28.2
+2026-09-15 22:00,Line A - Injection Moulding,87.3
+2026-09-15 22:00,Line B - CNC Machining,59.3
+2026-09-15 22:00,Line C - Assembly,19.4
+2026-09-15 22:00,Utilities - Compressed Air,37.9
+2026-09-15 22:00,Utilities - HVAC & Lighting,27.8
+2026-09-15 23:00,Line A - Injection Moulding,26.4
+2026-09-15 23:00,Line B - CNC Machining,13.7
+2026-09-15 23:00,Line C - Assembly,3.0
+2026-09-15 23:00,Utilities - Compressed Air,22.1
+2026-09-15 23:00,Utilities - HVAC & Lighting,10.7
+2026-09-16 00:00,Line A - Injection Moulding,31.3
+2026-09-16 00:00,Line B - CNC Machining,11.7
+2026-09-16 00:00,Line C - Assembly,3.5
+2026-09-16 00:00,Utilities - Compressed Air,21.8
+2026-09-16 00:00,Utilities - HVAC & Lighting,10.3
+2026-09-16 01:00,Line A - Injection Moulding,33.6
+2026-09-16 01:00,Line B - CNC Machining,12.6
+2026-09-16 01:00,Line C - Assembly,3.7
+2026-09-16 01:00,Utilities - Compressed Air,26.6
+2026-09-16 01:00,Utilities - HVAC & Lighting,13.4
+2026-09-16 02:00,Line A - Injection Moulding,26.5
+2026-09-16 02:00,Line B - CNC Machining,13.5
+2026-09-16 02:00,Line C - Assembly,2.9
+2026-09-16 02:00,Utilities - Compressed Air,27.1
+2026-09-16 02:00,Utilities - HVAC & Lighting,13.2
+2026-09-16 03:00,Line A - Injection Moulding,30.9
+2026-09-16 03:00,Line B - CNC Machining,13.6
+2026-09-16 03:00,Line C - Assembly,3.1
+2026-09-16 03:00,Utilities - Compressed Air,26.3
+2026-09-16 03:00,Utilities - HVAC & Lighting,11.9
+2026-09-16 04:00,Line A - Injection Moulding,30.9
+2026-09-16 04:00,Line B - CNC Machining,12.3
+2026-09-16 04:00,Line C - Assembly,3.0
+2026-09-16 04:00,Utilities - Compressed Air,20.8
+2026-09-16 04:00,Utilities - HVAC & Lighting,12.8
+2026-09-16 05:00,Line A - Injection Moulding,30.2
+2026-09-16 05:00,Line B - CNC Machining,12.3
+2026-09-16 05:00,Line C - Assembly,3.7
+2026-09-16 05:00,Utilities - Compressed Air,22.3
+2026-09-16 05:00,Utilities - HVAC & Lighting,11.7
+2026-09-16 06:00,Line A - Injection Moulding,26.7
+2026-09-16 06:00,Line B - CNC Machining,12.8
+2026-09-16 06:00,Line C - Assembly,3.6
+2026-09-16 06:00,Utilities - Compressed Air,22.8
+2026-09-16 06:00,Utilities - HVAC & Lighting,10.8
+2026-09-16 07:00,Line A - Injection Moulding,84.8
+2026-09-16 07:00,Line B - CNC Machining,52.0
+2026-09-16 07:00,Line C - Assembly,24.7
+2026-09-16 07:00,Utilities - Compressed Air,35.4
+2026-09-16 07:00,Utilities - HVAC & Lighting,34.3
+2026-09-16 08:00,Line A - Injection Moulding,73.7
+2026-09-16 08:00,Line B - CNC Machining,61.5
+2026-09-16 08:00,Line C - Assembly,23.1
+2026-09-16 08:00,Utilities - Compressed Air,36.5
+2026-09-16 08:00,Utilities - HVAC & Lighting,29.8
+2026-09-16 09:00,Line A - Injection Moulding,79.5
+2026-09-16 09:00,Line B - CNC Machining,51.0
+2026-09-16 09:00,Line C - Assembly,20.0
+2026-09-16 09:00,Utilities - Compressed Air,38.4
+2026-09-16 09:00,Utilities - HVAC & Lighting,34.4
+2026-09-16 10:00,Line A - Injection Moulding,97.7
+2026-09-16 10:00,Line B - CNC Machining,62.0
+2026-09-16 10:00,Line C - Assembly,19.3
+2026-09-16 10:00,Utilities - Compressed Air,37.5
+2026-09-16 10:00,Utilities - HVAC & Lighting,33.6
+2026-09-16 11:00,Line A - Injection Moulding,73.7
+2026-09-16 11:00,Line B - CNC Machining,58.7
+2026-09-16 11:00,Line C - Assembly,20.6
+2026-09-16 11:00,Utilities - Compressed Air,45.7
+2026-09-16 11:00,Utilities - HVAC & Lighting,25.6
+2026-09-16 12:00,Line A - Injection Moulding,92.8
+2026-09-16 12:00,Line B - CNC Machining,52.4
+2026-09-16 12:00,Line C - Assembly,19.6
+2026-09-16 12:00,Utilities - Compressed Air,34.0
+2026-09-16 12:00,Utilities - HVAC & Lighting,33.0
+2026-09-16 13:00,Line A - Injection Moulding,85.7
+2026-09-16 13:00,Line B - CNC Machining,49.8
+2026-09-16 13:00,Line C - Assembly,21.6
+2026-09-16 13:00,Utilities - Compressed Air,44.9
+2026-09-16 13:00,Utilities - HVAC & Lighting,27.5
+2026-09-16 14:00,Line A - Injection Moulding,86.8
+2026-09-16 14:00,Line B - CNC Machining,49.0
+2026-09-16 14:00,Line C - Assembly,19.9
+2026-09-16 14:00,Utilities - Compressed Air,43.2
+2026-09-16 14:00,Utilities - HVAC & Lighting,31.9
+2026-09-16 15:00,Line A - Injection Moulding,77.3
+2026-09-16 15:00,Line B - CNC Machining,48.1
+2026-09-16 15:00,Line C - Assembly,19.3
+2026-09-16 15:00,Utilities - Compressed Air,41.3
+2026-09-16 15:00,Utilities - HVAC & Lighting,30.0
+2026-09-16 16:00,Line A - Injection Moulding,79.2
+2026-09-16 16:00,Line B - CNC Machining,50.1
+2026-09-16 16:00,Line C - Assembly,22.7
+2026-09-16 16:00,Utilities - Compressed Air,42.5
+2026-09-16 16:00,Utilities - HVAC & Lighting,32.8
+2026-09-16 17:00,Line A - Injection Moulding,87.1
+2026-09-16 17:00,Line B - CNC Machining,50.1
+2026-09-16 17:00,Line C - Assembly,19.1
+2026-09-16 17:00,Utilities - Compressed Air,42.8
+2026-09-16 17:00,Utilities - HVAC & Lighting,29.2
+2026-09-16 18:00,Line A - Injection Moulding,90.7
+2026-09-16 18:00,Line B - CNC Machining,47.7
+2026-09-16 18:00,Line C - Assembly,24.1
+2026-09-16 18:00,Utilities - Compressed Air,38.0
+2026-09-16 18:00,Utilities - HVAC & Lighting,33.1
+2026-09-16 19:00,Line A - Injection Moulding,94.3
+2026-09-16 19:00,Line B - CNC Machining,54.9
+2026-09-16 19:00,Line C - Assembly,18.8
+2026-09-16 19:00,Utilities - Compressed Air,44.9
+2026-09-16 19:00,Utilities - HVAC & Lighting,29.8
+2026-09-16 20:00,Line A - Injection Moulding,94.5
+2026-09-16 20:00,Line B - CNC Machining,51.1
+2026-09-16 20:00,Line C - Assembly,19.9
+2026-09-16 20:00,Utilities - Compressed Air,44.0
+2026-09-16 20:00,Utilities - HVAC & Lighting,28.8
+2026-09-16 21:00,Line A - Injection Moulding,76.4
+2026-09-16 21:00,Line B - CNC Machining,52.9
+2026-09-16 21:00,Line C - Assembly,22.6
+2026-09-16 21:00,Utilities - Compressed Air,34.1
+2026-09-16 21:00,Utilities - HVAC & Lighting,30.2
+2026-09-16 22:00,Line A - Injection Moulding,83.6
+2026-09-16 22:00,Line B - CNC Machining,55.3
+2026-09-16 22:00,Line C - Assembly,19.5
+2026-09-16 22:00,Utilities - Compressed Air,42.6
+2026-09-16 22:00,Utilities - HVAC & Lighting,32.8
+2026-09-16 23:00,Line A - Injection Moulding,33.0
+2026-09-16 23:00,Line B - CNC Machining,13.0
+2026-09-16 23:00,Line C - Assembly,3.5
+2026-09-16 23:00,Utilities - Compressed Air,23.1
+2026-09-16 23:00,Utilities - HVAC & Lighting,12.9
+2026-09-17 00:00,Line A - Injection Moulding,25.8
+2026-09-17 00:00,Line B - CNC Machining,15.3
+2026-09-17 00:00,Line C - Assembly,3.7
+2026-09-17 00:00,Utilities - Compressed Air,24.0
+2026-09-17 00:00,Utilities - HVAC & Lighting,12.0
+2026-09-17 01:00,Line A - Injection Moulding,30.0
+2026-09-17 01:00,Line B - CNC Machining,13.9
+2026-09-17 01:00,Line C - Assembly,2.8
+2026-09-17 01:00,Utilities - Compressed Air,27.4
+2026-09-17 01:00,Utilities - HVAC & Lighting,11.0
+2026-09-17 02:00,Line A - Injection Moulding,26.9
+2026-09-17 02:00,Line B - CNC Machining,12.1
+2026-09-17 02:00,Line C - Assembly,3.1
+2026-09-17 02:00,Utilities - Compressed Air,26.3
+2026-09-17 02:00,Utilities - HVAC & Lighting,10.3
+2026-09-17 03:00,Line A - Injection Moulding,26.1
+2026-09-17 03:00,Line B - CNC Machining,14.6
+2026-09-17 03:00,Line C - Assembly,3.0
+2026-09-17 03:00,Utilities - Compressed Air,20.5
+2026-09-17 03:00,Utilities - HVAC & Lighting,12.4
+2026-09-17 04:00,Line A - Injection Moulding,30.4
+2026-09-17 04:00,Line B - CNC Machining,13.8
+2026-09-17 04:00,Line C - Assembly,3.5
+2026-09-17 04:00,Utilities - Compressed Air,21.1
+2026-09-17 04:00,Utilities - HVAC & Lighting,13.3
+2026-09-17 05:00,Line A - Injection Moulding,31.7
+2026-09-17 05:00,Line B - CNC Machining,11.9
+2026-09-17 05:00,Line C - Assembly,2.9
+2026-09-17 05:00,Utilities - Compressed Air,24.0
+2026-09-17 05:00,Utilities - HVAC & Lighting,12.0
+2026-09-17 06:00,Line A - Injection Moulding,27.8
+2026-09-17 06:00,Line B - CNC Machining,12.2
+2026-09-17 06:00,Line C - Assembly,3.2
+2026-09-17 06:00,Utilities - Compressed Air,21.4
+2026-09-17 06:00,Utilities - HVAC & Lighting,12.3
+2026-09-17 07:00,Line A - Injection Moulding,94.2
+2026-09-17 07:00,Line B - CNC Machining,49.2
+2026-09-17 07:00,Line C - Assembly,22.5
+2026-09-17 07:00,Utilities - Compressed Air,43.0
+2026-09-17 07:00,Utilities - HVAC & Lighting,27.0
+2026-09-17 08:00,Line A - Injection Moulding,93.3
+2026-09-17 08:00,Line B - CNC Machining,62.2
+2026-09-17 08:00,Line C - Assembly,21.3
+2026-09-17 08:00,Utilities - Compressed Air,39.0
+2026-09-17 08:00,Utilities - HVAC & Lighting,33.1
+2026-09-17 09:00,Line A - Injection Moulding,85.7
+2026-09-17 09:00,Line B - CNC Machining,53.3
+2026-09-17 09:00,Line C - Assembly,24.9
+2026-09-17 09:00,Utilities - Compressed Air,43.3
+2026-09-17 09:00,Utilities - HVAC & Lighting,28.5
+2026-09-17 10:00,Line A - Injection Moulding,78.4
+2026-09-17 10:00,Line B - CNC Machining,52.3
+2026-09-17 10:00,Line C - Assembly,21.6
+2026-09-17 10:00,Utilities - Compressed Air,45.8
+2026-09-17 10:00,Utilities - HVAC & Lighting,32.7
+2026-09-17 11:00,Line A - Injection Moulding,95.5
+2026-09-17 11:00,Line B - CNC Machining,60.2
+2026-09-17 11:00,Line C - Assembly,24.3
+2026-09-17 11:00,Utilities - Compressed Air,34.6
+2026-09-17 11:00,Utilities - HVAC & Lighting,30.2
+2026-09-17 12:00,Line A - Injection Moulding,174.0
+2026-09-17 12:00,Line B - CNC Machining,62.2
+2026-09-17 12:00,Line C - Assembly,20.3
+2026-09-17 12:00,Utilities - Compressed Air,39.1
+2026-09-17 12:00,Utilities - HVAC & Lighting,31.2
+2026-09-17 13:00,Line A - Injection Moulding,146.8
+2026-09-17 13:00,Line B - CNC Machining,55.5
+2026-09-17 13:00,Line C - Assembly,19.2
+2026-09-17 13:00,Utilities - Compressed Air,39.2
+2026-09-17 13:00,Utilities - HVAC & Lighting,30.0
+2026-09-17 14:00,Line A - Injection Moulding,131.0
+2026-09-17 14:00,Line B - CNC Machining,49.1
+2026-09-17 14:00,Line C - Assembly,25.1
+2026-09-17 14:00,Utilities - Compressed Air,43.3
+2026-09-17 14:00,Utilities - HVAC & Lighting,33.9
+2026-09-17 15:00,Line A - Injection Moulding,88.4
+2026-09-17 15:00,Line B - CNC Machining,60.1
+2026-09-17 15:00,Line C - Assembly,24.5
+2026-09-17 15:00,Utilities - Compressed Air,44.6
+2026-09-17 15:00,Utilities - HVAC & Lighting,25.8
+2026-09-17 16:00,Line A - Injection Moulding,88.6
+2026-09-17 16:00,Line B - CNC Machining,51.1
+2026-09-17 16:00,Line C - Assembly,23.2
+2026-09-17 16:00,Utilities - Compressed Air,37.3
+2026-09-17 16:00,Utilities - HVAC & Lighting,30.4
+2026-09-17 17:00,Line A - Injection Moulding,95.8
+2026-09-17 17:00,Line B - CNC Machining,57.0
+2026-09-17 17:00,Line C - Assembly,20.4
+2026-09-17 17:00,Utilities - Compressed Air,40.2
+2026-09-17 17:00,Utilities - HVAC & Lighting,29.4
+2026-09-17 18:00,Line A - Injection Moulding,96.5
+2026-09-17 18:00,Line B - CNC Machining,51.5
+2026-09-17 18:00,Line C - Assembly,20.7
+2026-09-17 18:00,Utilities - Compressed Air,41.8
+2026-09-17 18:00,Utilities - HVAC & Lighting,26.6
+2026-09-17 19:00,Line A - Injection Moulding,87.4
+2026-09-17 19:00,Line B - CNC Machining,62.5
+2026-09-17 19:00,Line C - Assembly,22.1
+2026-09-17 19:00,Utilities - Compressed Air,37.2
+2026-09-17 19:00,Utilities - HVAC & Lighting,29.7
+2026-09-17 20:00,Line A - Injection Moulding,85.9
+2026-09-17 20:00,Line B - CNC Machining,49.2
+2026-09-17 20:00,Line C - Assembly,19.5
+2026-09-17 20:00,Utilities - Compressed Air,35.6
+2026-09-17 20:00,Utilities - HVAC & Lighting,28.1
+2026-09-17 21:00,Line A - Injection Moulding,82.6
+2026-09-17 21:00,Line B - CNC Machining,51.5
+2026-09-17 21:00,Line C - Assembly,20.3
+2026-09-17 21:00,Utilities - Compressed Air,35.1
+2026-09-17 21:00,Utilities - HVAC & Lighting,30.4
+2026-09-17 22:00,Line A - Injection Moulding,93.7
+2026-09-17 22:00,Line B - CNC Machining,56.8
+2026-09-17 22:00,Line C - Assembly,22.5
+2026-09-17 22:00,Utilities - Compressed Air,41.8
+2026-09-17 22:00,Utilities - HVAC & Lighting,27.3
+2026-09-17 23:00,Line A - Injection Moulding,31.6
+2026-09-17 23:00,Line B - CNC Machining,13.6
+2026-09-17 23:00,Line C - Assembly,3.3
+2026-09-17 23:00,Utilities - Compressed Air,24.8
+2026-09-17 23:00,Utilities - HVAC & Lighting,11.9
+2026-09-18 00:00,Line A - Injection Moulding,28.1
+2026-09-18 00:00,Line B - CNC Machining,12.7
+2026-09-18 00:00,Line C - Assembly,3.0
+2026-09-18 00:00,Utilities - Compressed Air,24.1
+2026-09-18 00:00,Utilities - HVAC & Lighting,11.6
+2026-09-18 01:00,Line A - Injection Moulding,30.5
+2026-09-18 01:00,Line B - CNC Machining,11.7
+2026-09-18 01:00,Line C - Assembly,3.2
+2026-09-18 01:00,Utilities - Compressed Air,26.6
+2026-09-18 01:00,Utilities - HVAC & Lighting,11.1
+2026-09-18 02:00,Line A - Injection Moulding,30.3
+2026-09-18 02:00,Line B - CNC Machining,13.7
+2026-09-18 02:00,Line C - Assembly,3.1
+2026-09-18 02:00,Utilities - Compressed Air,27.5
+2026-09-18 02:00,Utilities - HVAC & Lighting,11.3
+2026-09-18 03:00,Line A - Injection Moulding,32.2
+2026-09-18 03:00,Line B - CNC Machining,12.3
+2026-09-18 03:00,Line C - Assembly,2.9
+2026-09-18 03:00,Utilities - Compressed Air,26.7
+2026-09-18 03:00,Utilities - HVAC & Lighting,11.8
+2026-09-18 04:00,Line A - Injection Moulding,25.8
+2026-09-18 04:00,Line B - CNC Machining,13.3
+2026-09-18 04:00,Line C - Assembly,3.2
+2026-09-18 04:00,Utilities - Compressed Air,25.7
+2026-09-18 04:00,Utilities - HVAC & Lighting,10.6
+2026-09-18 05:00,Line A - Injection Moulding,27.3
+2026-09-18 05:00,Line B - CNC Machining,15.6
+2026-09-18 05:00,Line C - Assembly,3.5
+2026-09-18 05:00,Utilities - Compressed Air,21.5
+2026-09-18 05:00,Utilities - HVAC & Lighting,11.4
+2026-09-18 06:00,Line A - Injection Moulding,28.4
+2026-09-18 06:00,Line B - CNC Machining,14.5
+2026-09-18 06:00,Line C - Assembly,3.4
+2026-09-18 06:00,Utilities - Compressed Air,26.5
+2026-09-18 06:00,Utilities - HVAC & Lighting,13.2
+2026-09-18 07:00,Line A - Injection Moulding,85.5
+2026-09-18 07:00,Line B - CNC Machining,58.9
+2026-09-18 07:00,Line C - Assembly,23.6
+2026-09-18 07:00,Utilities - Compressed Air,43.1
+2026-09-18 07:00,Utilities - HVAC & Lighting,29.8
+2026-09-18 08:00,Line A - Injection Moulding,92.3
+2026-09-18 08:00,Line B - CNC Machining,58.4
+2026-09-18 08:00,Line C - Assembly,24.7
+2026-09-18 08:00,Utilities - Compressed Air,35.5
+2026-09-18 08:00,Utilities - HVAC & Lighting,33.3
+2026-09-18 09:00,Line A - Injection Moulding,72.4
+2026-09-18 09:00,Line B - CNC Machining,59.4
+2026-09-18 09:00,Line C - Assembly,22.6
+2026-09-18 09:00,Utilities - Compressed Air,40.0
+2026-09-18 09:00,Utilities - HVAC & Lighting,34.2
+2026-09-18 10:00,Line A - Injection Moulding,86.8
+2026-09-18 10:00,Line B - CNC Machining,53.6
+2026-09-18 10:00,Line C - Assembly,23.9
+2026-09-18 10:00,Utilities - Compressed Air,44.5
+2026-09-18 10:00,Utilities - HVAC & Lighting,31.0
+2026-09-18 11:00,Line A - Injection Moulding,81.9
+2026-09-18 11:00,Line B - CNC Machining,54.2
+2026-09-18 11:00,Line C - Assembly,21.7
+2026-09-18 11:00,Utilities - Compressed Air,42.7
+2026-09-18 11:00,Utilities - HVAC & Lighting,28.1
+2026-09-18 12:00,Line A - Injection Moulding,82.2
+2026-09-18 12:00,Line B - CNC Machining,55.9
+2026-09-18 12:00,Line C - Assembly,21.2
+2026-09-18 12:00,Utilities - Compressed Air,37.9
+2026-09-18 12:00,Utilities - HVAC & Lighting,32.6
+2026-09-18 13:00,Line A - Injection Moulding,93.9
+2026-09-18 13:00,Line B - CNC Machining,55.0
+2026-09-18 13:00,Line C - Assembly,21.6
+2026-09-18 13:00,Utilities - Compressed Air,36.2
+2026-09-18 13:00,Utilities - HVAC & Lighting,28.2
+2026-09-18 14:00,Line A - Injection Moulding,75.9
+2026-09-18 14:00,Line B - CNC Machining,56.2
+2026-09-18 14:00,Line C - Assembly,22.5
+2026-09-18 14:00,Utilities - Compressed Air,35.1
+2026-09-18 14:00,Utilities - HVAC & Lighting,33.8
+2026-09-18 15:00,Line A - Injection Moulding,80.5
+2026-09-18 15:00,Line B - CNC Machining,60.7
+2026-09-18 15:00,Line C - Assembly,24.2
+2026-09-18 15:00,Utilities - Compressed Air,45.5
+2026-09-18 15:00,Utilities - HVAC & Lighting,27.3
+2026-09-18 16:00,Line A - Injection Moulding,83.1
+2026-09-18 16:00,Line B - CNC Machining,61.8
+2026-09-18 16:00,Line C - Assembly,18.8
+2026-09-18 16:00,Utilities - Compressed Air,34.6
+2026-09-18 16:00,Utilities - HVAC & Lighting,30.6
+2026-09-18 17:00,Line A - Injection Moulding,84.9
+2026-09-18 17:00,Line B - CNC Machining,61.9
+2026-09-18 17:00,Line C - Assembly,23.8
+2026-09-18 17:00,Utilities - Compressed Air,40.5
+2026-09-18 17:00,Utilities - HVAC & Lighting,34.5
+2026-09-18 18:00,Line A - Injection Moulding,85.4
+2026-09-18 18:00,Line B - CNC Machining,55.3
+2026-09-18 18:00,Line C - Assembly,23.2
+2026-09-18 18:00,Utilities - Compressed Air,38.7
+2026-09-18 18:00,Utilities - HVAC & Lighting,28.7
+2026-09-18 19:00,Line A - Injection Moulding,87.4
+2026-09-18 19:00,Line B - CNC Machining,52.5
+2026-09-18 19:00,Line C - Assembly,25.0
+2026-09-18 19:00,Utilities - Compressed Air,42.1
+2026-09-18 19:00,Utilities - HVAC & Lighting,30.2
+2026-09-18 20:00,Line A - Injection Moulding,74.8
+2026-09-18 20:00,Line B - CNC Machining,52.9
+2026-09-18 20:00,Line C - Assembly,21.3
+2026-09-18 20:00,Utilities - Compressed Air,40.7
+2026-09-18 20:00,Utilities - HVAC & Lighting,30.7
+2026-09-18 21:00,Line A - Injection Moulding,94.7
+2026-09-18 21:00,Line B - CNC Machining,62.7
+2026-09-18 21:00,Line C - Assembly,21.9
+2026-09-18 21:00,Utilities - Compressed Air,39.3
+2026-09-18 21:00,Utilities - HVAC & Lighting,31.1
+2026-09-18 22:00,Line A - Injection Moulding,97.7
+2026-09-18 22:00,Line B - CNC Machining,52.4
+2026-09-18 22:00,Line C - Assembly,22.2
+2026-09-18 22:00,Utilities - Compressed Air,43.8
+2026-09-18 22:00,Utilities - HVAC & Lighting,27.0
+2026-09-18 23:00,Line A - Injection Moulding,28.1
+2026-09-18 23:00,Line B - CNC Machining,15.7
+2026-09-18 23:00,Line C - Assembly,3.6
+2026-09-18 23:00,Utilities - Compressed Air,24.1
+2026-09-18 23:00,Utilities - HVAC & Lighting,10.6
+2026-09-19 00:00,Line A - Injection Moulding,33.3
+2026-09-19 00:00,Line B - CNC Machining,14.5
+2026-09-19 00:00,Line C - Assembly,3.6
+2026-09-19 00:00,Utilities - Compressed Air,27.5
+2026-09-19 00:00,Utilities - HVAC & Lighting,13.4
+2026-09-19 01:00,Line A - Injection Moulding,29.0
+2026-09-19 01:00,Line B - CNC Machining,12.3
+2026-09-19 01:00,Line C - Assembly,3.1
+2026-09-19 01:00,Utilities - Compressed Air,24.1
+2026-09-19 01:00,Utilities - HVAC & Lighting,12.0
+2026-09-19 02:00,Line A - Injection Moulding,27.0
+2026-09-19 02:00,Line B - CNC Machining,12.4
+2026-09-19 02:00,Line C - Assembly,3.4
+2026-09-19 02:00,Utilities - Compressed Air,24.7
+2026-09-19 02:00,Utilities - HVAC & Lighting,11.5
+2026-09-19 03:00,Line A - Injection Moulding,34.2
+2026-09-19 03:00,Line B - CNC Machining,14.3
+2026-09-19 03:00,Line C - Assembly,2.8
+2026-09-19 03:00,Utilities - Compressed Air,23.4
+2026-09-19 03:00,Utilities - HVAC & Lighting,13.0
+2026-09-19 04:00,Line A - Injection Moulding,28.0
+2026-09-19 04:00,Line B - CNC Machining,14.5
+2026-09-19 04:00,Line C - Assembly,2.8
+2026-09-19 04:00,Utilities - Compressed Air,22.6
+2026-09-19 04:00,Utilities - HVAC & Lighting,13.2
+2026-09-19 05:00,Line A - Injection Moulding,30.5
+2026-09-19 05:00,Line B - CNC Machining,14.4
+2026-09-19 05:00,Line C - Assembly,3.0
+2026-09-19 05:00,Utilities - Compressed Air,24.0
+2026-09-19 05:00,Utilities - HVAC & Lighting,12.2
+2026-09-19 06:00,Line A - Injection Moulding,27.7
+2026-09-19 06:00,Line B - CNC Machining,14.4
+2026-09-19 06:00,Line C - Assembly,3.3
+2026-09-19 06:00,Utilities - Compressed Air,27.6
+2026-09-19 06:00,Utilities - HVAC & Lighting,12.3
+2026-09-19 07:00,Line A - Injection Moulding,82.7
+2026-09-19 07:00,Line B - CNC Machining,48.8
+2026-09-19 07:00,Line C - Assembly,19.7
+2026-09-19 07:00,Utilities - Compressed Air,43.1
+2026-09-19 07:00,Utilities - HVAC & Lighting,26.5
+2026-09-19 08:00,Line A - Injection Moulding,74.8
+2026-09-19 08:00,Line B - CNC Machining,49.6
+2026-09-19 08:00,Line C - Assembly,22.1
+2026-09-19 08:00,Utilities - Compressed Air,43.9
+2026-09-19 08:00,Utilities - HVAC & Lighting,31.0
+2026-09-19 09:00,Line A - Injection Moulding,92.8
+2026-09-19 09:00,Line B - CNC Machining,47.8
+2026-09-19 09:00,Line C - Assembly,18.8
+2026-09-19 09:00,Utilities - Compressed Air,43.2
+2026-09-19 09:00,Utilities - HVAC & Lighting,28.4
+2026-09-19 10:00,Line A - Injection Moulding,90.5
+2026-09-19 10:00,Line B - CNC Machining,52.6
+2026-09-19 10:00,Line C - Assembly,19.8
+2026-09-19 10:00,Utilities - Compressed Air,37.2
+2026-09-19 10:00,Utilities - HVAC & Lighting,26.4
+2026-09-19 11:00,Line A - Injection Moulding,95.3
+2026-09-19 11:00,Line B - CNC Machining,56.4
+2026-09-19 11:00,Line C - Assembly,21.0
+2026-09-19 11:00,Utilities - Compressed Air,39.4
+2026-09-19 11:00,Utilities - HVAC & Lighting,29.0
+2026-09-19 12:00,Line A - Injection Moulding,73.6
+2026-09-19 12:00,Line B - CNC Machining,61.4
+2026-09-19 12:00,Line C - Assembly,22.5
+2026-09-19 12:00,Utilities - Compressed Air,45.5
+2026-09-19 12:00,Utilities - HVAC & Lighting,29.5
+2026-09-19 13:00,Line A - Injection Moulding,88.1
+2026-09-19 13:00,Line B - CNC Machining,50.9
+2026-09-19 13:00,Line C - Assembly,19.0
+2026-09-19 13:00,Utilities - Compressed Air,45.2
+2026-09-19 13:00,Utilities - HVAC & Lighting,33.2
+2026-09-19 14:00,Line A - Injection Moulding,80.3
+2026-09-19 14:00,Line B - CNC Machining,61.6
+2026-09-19 14:00,Line C - Assembly,24.1
+2026-09-19 14:00,Utilities - Compressed Air,37.6
+2026-09-19 14:00,Utilities - HVAC & Lighting,30.9
+2026-09-19 15:00,Line A - Injection Moulding,96.7
+2026-09-19 15:00,Line B - CNC Machining,54.9
+2026-09-19 15:00,Line C - Assembly,25.0
+2026-09-19 15:00,Utilities - Compressed Air,36.9
+2026-09-19 15:00,Utilities - HVAC & Lighting,29.0
+2026-09-19 16:00,Line A - Injection Moulding,90.6
+2026-09-19 16:00,Line B - CNC Machining,50.4
+2026-09-19 16:00,Line C - Assembly,20.7
+2026-09-19 16:00,Utilities - Compressed Air,44.5
+2026-09-19 16:00,Utilities - HVAC & Lighting,29.9
+2026-09-19 17:00,Line A - Injection Moulding,92.5
+2026-09-19 17:00,Line B - CNC Machining,50.8
+2026-09-19 17:00,Line C - Assembly,19.8
+2026-09-19 17:00,Utilities - Compressed Air,38.3
+2026-09-19 17:00,Utilities - HVAC & Lighting,27.2
+2026-09-19 18:00,Line A - Injection Moulding,97.0
+2026-09-19 18:00,Line B - CNC Machining,51.5
+2026-09-19 18:00,Line C - Assembly,22.4
+2026-09-19 18:00,Utilities - Compressed Air,35.4
+2026-09-19 18:00,Utilities - HVAC & Lighting,30.3
+2026-09-19 19:00,Line A - Injection Moulding,82.1
+2026-09-19 19:00,Line B - CNC Machining,53.4
+2026-09-19 19:00,Line C - Assembly,19.1
+2026-09-19 19:00,Utilities - Compressed Air,35.5
+2026-09-19 19:00,Utilities - HVAC & Lighting,32.9
+2026-09-19 20:00,Line A - Injection Moulding,81.2
+2026-09-19 20:00,Line B - CNC Machining,50.8
+2026-09-19 20:00,Line C - Assembly,20.0
+2026-09-19 20:00,Utilities - Compressed Air,37.4
+2026-09-19 20:00,Utilities - HVAC & Lighting,27.6
+2026-09-19 21:00,Line A - Injection Moulding,73.1
+2026-09-19 21:00,Line B - CNC Machining,57.7
+2026-09-19 21:00,Line C - Assembly,21.0
+2026-09-19 21:00,Utilities - Compressed Air,35.9
+2026-09-19 21:00,Utilities - HVAC & Lighting,31.9
+2026-09-19 22:00,Line A - Injection Moulding,74.6
+2026-09-19 22:00,Line B - CNC Machining,51.2
+2026-09-19 22:00,Line C - Assembly,24.2
+2026-09-19 22:00,Utilities - Compressed Air,35.5
+2026-09-19 22:00,Utilities - HVAC & Lighting,29.5
+2026-09-19 23:00,Line A - Injection Moulding,32.8
+2026-09-19 23:00,Line B - CNC Machining,15.0
+2026-09-19 23:00,Line C - Assembly,3.0
+2026-09-19 23:00,Utilities - Compressed Air,22.9
+2026-09-19 23:00,Utilities - HVAC & Lighting,12.8
+2026-09-20 00:00,Line A - Injection Moulding,28.7
+2026-09-20 00:00,Line B - CNC Machining,15.6
+2026-09-20 00:00,Line C - Assembly,3.0
+2026-09-20 00:00,Utilities - Compressed Air,27.2
+2026-09-20 00:00,Utilities - HVAC & Lighting,12.0
+2026-09-20 01:00,Line A - Injection Moulding,27.3
+2026-09-20 01:00,Line B - CNC Machining,13.6
+2026-09-20 01:00,Line C - Assembly,2.9
+2026-09-20 01:00,Utilities - Compressed Air,25.5
+2026-09-20 01:00,Utilities - HVAC & Lighting,11.1
+2026-09-20 02:00,Line A - Injection Moulding,33.3
+2026-09-20 02:00,Line B - CNC Machining,14.1
+2026-09-20 02:00,Line C - Assembly,3.2
+2026-09-20 02:00,Utilities - Compressed Air,22.2
+2026-09-20 02:00,Utilities - HVAC & Lighting,12.4
+2026-09-20 03:00,Line A - Injection Moulding,27.2
+2026-09-20 03:00,Line B - CNC Machining,15.3
+2026-09-20 03:00,Line C - Assembly,2.9
+2026-09-20 03:00,Utilities - Compressed Air,24.1
+2026-09-20 03:00,Utilities - HVAC & Lighting,12.2
+2026-09-20 04:00,Line A - Injection Moulding,27.7
+2026-09-20 04:00,Line B - CNC Machining,14.9
+2026-09-20 04:00,Line C - Assembly,3.2
+2026-09-20 04:00,Utilities - Compressed Air,25.1
+2026-09-20 04:00,Utilities - HVAC & Lighting,12.2
+2026-09-20 05:00,Line A - Injection Moulding,28.1
+2026-09-20 05:00,Line B - CNC Machining,13.3
+2026-09-20 05:00,Line C - Assembly,2.9
+2026-09-20 05:00,Utilities - Compressed Air,21.7
+2026-09-20 05:00,Utilities - HVAC & Lighting,13.3
+2026-09-20 06:00,Line A - Injection Moulding,28.2
+2026-09-20 06:00,Line B - CNC Machining,14.4
+2026-09-20 06:00,Line C - Assembly,2.9
+2026-09-20 06:00,Utilities - Compressed Air,24.4
+2026-09-20 06:00,Utilities - HVAC & Lighting,11.5
+2026-09-20 07:00,Line A - Injection Moulding,29.8
+2026-09-20 07:00,Line B - CNC Machining,12.9
+2026-09-20 07:00,Line C - Assembly,2.9
+2026-09-20 07:00,Utilities - Compressed Air,22.6
+2026-09-20 07:00,Utilities - HVAC & Lighting,11.0
+2026-09-20 08:00,Line A - Injection Moulding,26.4
+2026-09-20 08:00,Line B - CNC Machining,14.6
+2026-09-20 08:00,Line C - Assembly,3.1
+2026-09-20 08:00,Utilities - Compressed Air,23.3
+2026-09-20 08:00,Utilities - HVAC & Lighting,13.5
+2026-09-20 09:00,Line A - Injection Moulding,32.2
+2026-09-20 09:00,Line B - CNC Machining,15.3
+2026-09-20 09:00,Line C - Assembly,3.7
+2026-09-20 09:00,Utilities - Compressed Air,21.4
+2026-09-20 09:00,Utilities - HVAC & Lighting,11.2
+2026-09-20 10:00,Line A - Injection Moulding,25.6
+2026-09-20 10:00,Line B - CNC Machining,14.5
+2026-09-20 10:00,Line C - Assembly,3.5
+2026-09-20 10:00,Utilities - Compressed Air,22.9
+2026-09-20 10:00,Utilities - HVAC & Lighting,11.7
+2026-09-20 11:00,Line A - Injection Moulding,31.2
+2026-09-20 11:00,Line B - CNC Machining,14.6
+2026-09-20 11:00,Line C - Assembly,3.1
+2026-09-20 11:00,Utilities - Compressed Air,26.5
+2026-09-20 11:00,Utilities - HVAC & Lighting,11.5
+2026-09-20 12:00,Line A - Injection Moulding,30.9
+2026-09-20 12:00,Line B - CNC Machining,12.4
+2026-09-20 12:00,Line C - Assembly,2.9
+2026-09-20 12:00,Utilities - Compressed Air,27.0
+2026-09-20 12:00,Utilities - HVAC & Lighting,12.8
+2026-09-20 13:00,Line A - Injection Moulding,31.6
+2026-09-20 13:00,Line B - CNC Machining,11.9
+2026-09-20 13:00,Line C - Assembly,2.8
+2026-09-20 13:00,Utilities - Compressed Air,21.6
+2026-09-20 13:00,Utilities - HVAC & Lighting,10.9
+2026-09-20 14:00,Line A - Injection Moulding,28.0
+2026-09-20 14:00,Line B - CNC Machining,13.3
+2026-09-20 14:00,Line C - Assembly,2.8
+2026-09-20 14:00,Utilities - Compressed Air,22.6
+2026-09-20 14:00,Utilities - HVAC & Lighting,12.5
+2026-09-20 15:00,Line A - Injection Moulding,26.9
+2026-09-20 15:00,Line B - CNC Machining,15.2
+2026-09-20 15:00,Line C - Assembly,3.4
+2026-09-20 15:00,Utilities - Compressed Air,25.6
+2026-09-20 15:00,Utilities - HVAC & Lighting,11.1
+2026-09-20 16:00,Line A - Injection Moulding,29.2
+2026-09-20 16:00,Line B - CNC Machining,14.5
+2026-09-20 16:00,Line C - Assembly,3.2
+2026-09-20 16:00,Utilities - Compressed Air,20.4
+2026-09-20 16:00,Utilities - HVAC & Lighting,13.2
+2026-09-20 17:00,Line A - Injection Moulding,32.2
+2026-09-20 17:00,Line B - CNC Machining,12.9
+2026-09-20 17:00,Line C - Assembly,2.8
+2026-09-20 17:00,Utilities - Compressed Air,26.5
+2026-09-20 17:00,Utilities - HVAC & Lighting,12.4
+2026-09-20 18:00,Line A - Injection Moulding,25.7
+2026-09-20 18:00,Line B - CNC Machining,12.7
+2026-09-20 18:00,Line C - Assembly,2.9
+2026-09-20 18:00,Utilities - Compressed Air,26.1
+2026-09-20 18:00,Utilities - HVAC & Lighting,11.0
+2026-09-20 19:00,Line A - Injection Moulding,33.4
+2026-09-20 19:00,Line B - CNC Machining,14.8
+2026-09-20 19:00,Line C - Assembly,2.9
+2026-09-20 19:00,Utilities - Compressed Air,25.4
+2026-09-20 19:00,Utilities - HVAC & Lighting,11.6
+2026-09-20 20:00,Line A - Injection Moulding,32.0
+2026-09-20 20:00,Line B - CNC Machining,15.1
+2026-09-20 20:00,Line C - Assembly,3.1
+2026-09-20 20:00,Utilities - Compressed Air,21.0
+2026-09-20 20:00,Utilities - HVAC & Lighting,13.6
+2026-09-20 21:00,Line A - Injection Moulding,29.1
+2026-09-20 21:00,Line B - CNC Machining,15.5
+2026-09-20 21:00,Line C - Assembly,3.5
+2026-09-20 21:00,Utilities - Compressed Air,25.7
+2026-09-20 21:00,Utilities - HVAC & Lighting,13.2
+2026-09-20 22:00,Line A - Injection Moulding,30.9
+2026-09-20 22:00,Line B - CNC Machining,13.6
+2026-09-20 22:00,Line C - Assembly,2.9
+2026-09-20 22:00,Utilities - Compressed Air,25.4
+2026-09-20 22:00,Utilities - HVAC & Lighting,11.7
+2026-09-20 23:00,Line A - Injection Moulding,29.9
+2026-09-20 23:00,Line B - CNC Machining,15.5
+2026-09-20 23:00,Line C - Assembly,2.9
+2026-09-20 23:00,Utilities - Compressed Air,25.9
+2026-09-20 23:00,Utilities - HVAC & Lighting,10.4
+2026-09-21 00:00,Line A - Injection Moulding,31.6
+2026-09-21 00:00,Line B - CNC Machining,15.0
+2026-09-21 00:00,Line C - Assembly,3.1
+2026-09-21 00:00,Utilities - Compressed Air,24.3
+2026-09-21 00:00,Utilities - HVAC & Lighting,13.7
+2026-09-21 01:00,Line A - Injection Moulding,31.0
+2026-09-21 01:00,Line B - CNC Machining,13.9
+2026-09-21 01:00,Line C - Assembly,3.1
+2026-09-21 01:00,Utilities - Compressed Air,20.8
+2026-09-21 01:00,Utilities - HVAC & Lighting,11.5
+2026-09-21 02:00,Line A - Injection Moulding,29.0
+2026-09-21 02:00,Line B - CNC Machining,12.5
+2026-09-21 02:00,Line C - Assembly,3.1
+2026-09-21 02:00,Utilities - Compressed Air,21.4
+2026-09-21 02:00,Utilities - HVAC & Lighting,12.7
+2026-09-21 03:00,Line A - Injection Moulding,31.3
+2026-09-21 03:00,Line B - CNC Machining,12.7
+2026-09-21 03:00,Line C - Assembly,3.0
+2026-09-21 03:00,Utilities - Compressed Air,24.1
+2026-09-21 03:00,Utilities - HVAC & Lighting,11.8
+2026-09-21 04:00,Line A - Injection Moulding,33.6
+2026-09-21 04:00,Line B - CNC Machining,13.1
+2026-09-21 04:00,Line C - Assembly,3.1
+2026-09-21 04:00,Utilities - Compressed Air,26.8
+2026-09-21 04:00,Utilities - HVAC & Lighting,10.7
+2026-09-21 05:00,Line A - Injection Moulding,30.3
+2026-09-21 05:00,Line B - CNC Machining,13.1
+2026-09-21 05:00,Line C - Assembly,3.6
+2026-09-21 05:00,Utilities - Compressed Air,24.3
+2026-09-21 05:00,Utilities - HVAC & Lighting,12.9
+2026-09-21 06:00,Line A - Injection Moulding,26.8
+2026-09-21 06:00,Line B - CNC Machining,14.4
+2026-09-21 06:00,Line C - Assembly,3.4
+2026-09-21 06:00,Utilities - Compressed Air,23.7
+2026-09-21 06:00,Utilities - HVAC & Lighting,13.0
+2026-09-21 07:00,Line A - Injection Moulding,93.4
+2026-09-21 07:00,Line B - CNC Machining,48.6
+2026-09-21 07:00,Line C - Assembly,20.6
+2026-09-21 07:00,Utilities - Compressed Air,38.3
+2026-09-21 07:00,Utilities - HVAC & Lighting,27.4
+2026-09-21 08:00,Line A - Injection Moulding,73.8
+2026-09-21 08:00,Line B - CNC Machining,51.4
+2026-09-21 08:00,Line C - Assembly,20.0
+2026-09-21 08:00,Utilities - Compressed Air,42.4
+2026-09-21 08:00,Utilities - HVAC & Lighting,29.5
+2026-09-21 09:00,Line A - Injection Moulding,75.1
+2026-09-21 09:00,Line B - CNC Machining,52.1
+2026-09-21 09:00,Line C - Assembly,21.8
+2026-09-21 09:00,Utilities - Compressed Air,38.4
+2026-09-21 09:00,Utilities - HVAC & Lighting,27.0
+2026-09-21 10:00,Line A - Injection Moulding,74.1
+2026-09-21 10:00,Line B - CNC Machining,46.9
+2026-09-21 10:00,Line C - Assembly,25.2
+2026-09-21 10:00,Utilities - Compressed Air,43.0
+2026-09-21 10:00,Utilities - HVAC & Lighting,26.3
+2026-09-21 11:00,Line A - Injection Moulding,90.5
+2026-09-21 11:00,Line B - CNC Machining,62.9
+2026-09-21 11:00,Line C - Assembly,22.4
+2026-09-21 11:00,Utilities - Compressed Air,35.3
+2026-09-21 11:00,Utilities - HVAC & Lighting,29.9
+2026-09-21 12:00,Line A - Injection Moulding,83.3
+2026-09-21 12:00,Line B - CNC Machining,49.9
+2026-09-21 12:00,Line C - Assembly,22.3
+2026-09-21 12:00,Utilities - Compressed Air,34.1
+2026-09-21 12:00,Utilities - HVAC & Lighting,33.8
+2026-09-21 13:00,Line A - Injection Moulding,88.7
+2026-09-21 13:00,Line B - CNC Machining,57.1
+2026-09-21 13:00,Line C - Assembly,24.9
+2026-09-21 13:00,Utilities - Compressed Air,41.8
+2026-09-21 13:00,Utilities - HVAC & Lighting,27.8
+2026-09-21 14:00,Line A - Injection Moulding,78.5
+2026-09-21 14:00,Line B - CNC Machining,49.0
+2026-09-21 14:00,Line C - Assembly,18.9
+2026-09-21 14:00,Utilities - Compressed Air,43.3
+2026-09-21 14:00,Utilities - HVAC & Lighting,33.1
+2026-09-21 15:00,Line A - Injection Moulding,79.8
+2026-09-21 15:00,Line B - CNC Machining,49.8
+2026-09-21 15:00,Line C - Assembly,22.9
+2026-09-21 15:00,Utilities - Compressed Air,44.1
+2026-09-21 15:00,Utilities - HVAC & Lighting,33.8
+2026-09-21 16:00,Line A - Injection Moulding,76.5
+2026-09-21 16:00,Line B - CNC Machining,59.7
+2026-09-21 16:00,Line C - Assembly,24.2
+2026-09-21 16:00,Utilities - Compressed Air,42.9
+2026-09-21 16:00,Utilities - HVAC & Lighting,28.4
+2026-09-21 17:00,Line A - Injection Moulding,77.0
+2026-09-21 17:00,Line B - CNC Machining,60.4
+2026-09-21 17:00,Line C - Assembly,20.8
+2026-09-21 17:00,Utilities - Compressed Air,38.4
+2026-09-21 17:00,Utilities - HVAC & Lighting,30.5
+2026-09-21 18:00,Line A - Injection Moulding,81.7
+2026-09-21 18:00,Line B - CNC Machining,60.5
+2026-09-21 18:00,Line C - Assembly,20.3
+2026-09-21 18:00,Utilities - Compressed Air,34.5
+2026-09-21 18:00,Utilities - HVAC & Lighting,30.6
+2026-09-21 19:00,Line A - Injection Moulding,88.3
+2026-09-21 19:00,Line B - CNC Machining,60.3
+2026-09-21 19:00,Line C - Assembly,23.4
+2026-09-21 19:00,Utilities - Compressed Air,44.9
+2026-09-21 19:00,Utilities - HVAC & Lighting,34.0
+2026-09-21 20:00,Line A - Injection Moulding,84.9
+2026-09-21 20:00,Line B - CNC Machining,55.0
+2026-09-21 20:00,Line C - Assembly,19.7
+2026-09-21 20:00,Utilities - Compressed Air,37.6
+2026-09-21 20:00,Utilities - HVAC & Lighting,30.7
+2026-09-21 21:00,Line A - Injection Moulding,74.3
+2026-09-21 21:00,Line B - CNC Machining,58.1
+2026-09-21 21:00,Line C - Assembly,19.8
+2026-09-21 21:00,Utilities - Compressed Air,39.3
+2026-09-21 21:00,Utilities - HVAC & Lighting,34.2
+2026-09-21 22:00,Line A - Injection Moulding,74.5
+2026-09-21 22:00,Line B - CNC Machining,47.4
+2026-09-21 22:00,Line C - Assembly,21.6
+2026-09-21 22:00,Utilities - Compressed Air,36.3
+2026-09-21 22:00,Utilities - HVAC & Lighting,32.0
+2026-09-21 23:00,Line A - Injection Moulding,25.3
+2026-09-21 23:00,Line B - CNC Machining,15.2
+2026-09-21 23:00,Line C - Assembly,3.7
+2026-09-21 23:00,Utilities - Compressed Air,26.1
+2026-09-21 23:00,Utilities - HVAC & Lighting,11.7
+2026-09-22 00:00,Line A - Injection Moulding,27.8
+2026-09-22 00:00,Line B - CNC Machining,14.4
+2026-09-22 00:00,Line C - Assembly,3.3
+2026-09-22 00:00,Utilities - Compressed Air,23.4
+2026-09-22 00:00,Utilities - HVAC & Lighting,11.4
+2026-09-22 01:00,Line A - Injection Moulding,29.2
+2026-09-22 01:00,Line B - CNC Machining,14.4
+2026-09-22 01:00,Line C - Assembly,3.6
+2026-09-22 01:00,Utilities - Compressed Air,26.9
+2026-09-22 01:00,Utilities - HVAC & Lighting,10.8
+2026-09-22 02:00,Line A - Injection Moulding,27.9
+2026-09-22 02:00,Line B - CNC Machining,13.5
+2026-09-22 02:00,Line C - Assembly,3.4
+2026-09-22 02:00,Utilities - Compressed Air,22.9
+2026-09-22 02:00,Utilities - HVAC & Lighting,10.9
+2026-09-22 03:00,Line A - Injection Moulding,26.0
+2026-09-22 03:00,Line B - CNC Machining,13.0
+2026-09-22 03:00,Line C - Assembly,3.3
+2026-09-22 03:00,Utilities - Compressed Air,27.4
+2026-09-22 03:00,Utilities - HVAC & Lighting,13.5
+2026-09-22 04:00,Line A - Injection Moulding,33.0
+2026-09-22 04:00,Line B - CNC Machining,15.7
+2026-09-22 04:00,Line C - Assembly,3.8
+2026-09-22 04:00,Utilities - Compressed Air,24.9
+2026-09-22 04:00,Utilities - HVAC & Lighting,13.1
+2026-09-22 05:00,Line A - Injection Moulding,25.8
+2026-09-22 05:00,Line B - CNC Machining,14.5
+2026-09-22 05:00,Line C - Assembly,3.4
+2026-09-22 05:00,Utilities - Compressed Air,22.5
+2026-09-22 05:00,Utilities - HVAC & Lighting,12.3
+2026-09-22 06:00,Line A - Injection Moulding,33.8
+2026-09-22 06:00,Line B - CNC Machining,13.7
+2026-09-22 06:00,Line C - Assembly,3.4
+2026-09-22 06:00,Utilities - Compressed Air,22.6
+2026-09-22 06:00,Utilities - HVAC & Lighting,11.4
+2026-09-22 07:00,Line A - Injection Moulding,94.8
+2026-09-22 07:00,Line B - CNC Machining,47.2
+2026-09-22 07:00,Line C - Assembly,19.9
+2026-09-22 07:00,Utilities - Compressed Air,42.1
+2026-09-22 07:00,Utilities - HVAC & Lighting,29.5
+2026-09-22 08:00,Line A - Injection Moulding,74.4
+2026-09-22 08:00,Line B - CNC Machining,57.6
+2026-09-22 08:00,Line C - Assembly,21.2
+2026-09-22 08:00,Utilities - Compressed Air,41.0
+2026-09-22 08:00,Utilities - HVAC & Lighting,29.2
+2026-09-22 09:00,Line A - Injection Moulding,85.8
+2026-09-22 09:00,Line B - CNC Machining,56.1
+2026-09-22 09:00,Line C - Assembly,21.3
+2026-09-22 09:00,Utilities - Compressed Air,35.4
+2026-09-22 09:00,Utilities - HVAC & Lighting,27.1
+2026-09-22 10:00,Line A - Injection Moulding,94.9
+2026-09-22 10:00,Line B - CNC Machining,55.8
+2026-09-22 10:00,Line C - Assembly,19.4
+2026-09-22 10:00,Utilities - Compressed Air,44.3
+2026-09-22 10:00,Utilities - HVAC & Lighting,27.8
+2026-09-22 11:00,Line A - Injection Moulding,74.7
+2026-09-22 11:00,Line B - CNC Machining,55.5
+2026-09-22 11:00,Line C - Assembly,20.4
+2026-09-22 11:00,Utilities - Compressed Air,39.9
+2026-09-22 11:00,Utilities - HVAC & Lighting,30.5
+2026-09-22 12:00,Line A - Injection Moulding,78.0
+2026-09-22 12:00,Line B - CNC Machining,56.2
+2026-09-22 12:00,Line C - Assembly,19.4
+2026-09-22 12:00,Utilities - Compressed Air,40.2
+2026-09-22 12:00,Utilities - HVAC & Lighting,30.8
+2026-09-22 13:00,Line A - Injection Moulding,74.3
+2026-09-22 13:00,Line B - CNC Machining,53.5
+2026-09-22 13:00,Line C - Assembly,19.2
+2026-09-22 13:00,Utilities - Compressed Air,39.3
+2026-09-22 13:00,Utilities - HVAC & Lighting,33.3
+2026-09-22 14:00,Line A - Injection Moulding,86.3
+2026-09-22 14:00,Line B - CNC Machining,58.5
+2026-09-22 14:00,Line C - Assembly,23.7
+2026-09-22 14:00,Utilities - Compressed Air,35.4
+2026-09-22 14:00,Utilities - HVAC & Lighting,34.4
+2026-09-22 15:00,Line A - Injection Moulding,90.7
+2026-09-22 15:00,Line B - CNC Machining,48.4
+2026-09-22 15:00,Line C - Assembly,24.2
+2026-09-22 15:00,Utilities - Compressed Air,38.7
+2026-09-22 15:00,Utilities - HVAC & Lighting,27.0
+2026-09-22 16:00,Line A - Injection Moulding,96.7
+2026-09-22 16:00,Line B - CNC Machining,56.0
+2026-09-22 16:00,Line C - Assembly,23.8
+2026-09-22 16:00,Utilities - Compressed Air,35.6
+2026-09-22 16:00,Utilities - HVAC & Lighting,32.5
+2026-09-22 17:00,Line A - Injection Moulding,73.7
+2026-09-22 17:00,Line B - CNC Machining,50.7
+2026-09-22 17:00,Line C - Assembly,21.2
+2026-09-22 17:00,Utilities - Compressed Air,34.2
+2026-09-22 17:00,Utilities - HVAC & Lighting,30.8
+2026-09-22 18:00,Line A - Injection Moulding,77.7
+2026-09-22 18:00,Line B - CNC Machining,51.7
+2026-09-22 18:00,Line C - Assembly,23.4
+2026-09-22 18:00,Utilities - Compressed Air,39.1
+2026-09-22 18:00,Utilities - HVAC & Lighting,33.5
+2026-09-22 19:00,Line A - Injection Moulding,88.1
+2026-09-22 19:00,Line B - CNC Machining,61.1
+2026-09-22 19:00,Line C - Assembly,22.4
+2026-09-22 19:00,Utilities - Compressed Air,45.0
+2026-09-22 19:00,Utilities - HVAC & Lighting,33.3
+2026-09-22 20:00,Line A - Injection Moulding,76.5
+2026-09-22 20:00,Line B - CNC Machining,59.0
+2026-09-22 20:00,Line C - Assembly,21.0
+2026-09-22 20:00,Utilities - Compressed Air,43.2
+2026-09-22 20:00,Utilities - HVAC & Lighting,31.6
+2026-09-22 21:00,Line A - Injection Moulding,93.3
+2026-09-22 21:00,Line B - CNC Machining,48.8
+2026-09-22 21:00,Line C - Assembly,21.2
+2026-09-22 21:00,Utilities - Compressed Air,42.8
+2026-09-22 21:00,Utilities - HVAC & Lighting,34.0
+2026-09-22 22:00,Line A - Injection Moulding,90.7
+2026-09-22 22:00,Line B - CNC Machining,47.5
+2026-09-22 22:00,Line C - Assembly,22.7
+2026-09-22 22:00,Utilities - Compressed Air,35.2
+2026-09-22 22:00,Utilities - HVAC & Lighting,30.4
+2026-09-22 23:00,Line A - Injection Moulding,32.5
+2026-09-22 23:00,Line B - CNC Machining,12.2
+2026-09-22 23:00,Line C - Assembly,3.7
+2026-09-22 23:00,Utilities - Compressed Air,25.3
+2026-09-22 23:00,Utilities - HVAC & Lighting,11.1
+2026-09-23 00:00,Line A - Injection Moulding,27.0
+2026-09-23 00:00,Line B - CNC Machining,13.5
+2026-09-23 00:00,Line C - Assembly,3.6
+2026-09-23 00:00,Utilities - Compressed Air,24.6
+2026-09-23 00:00,Utilities - HVAC & Lighting,10.6
+2026-09-23 01:00,Line A - Injection Moulding,25.5
+2026-09-23 01:00,Line B - CNC Machining,12.1
+2026-09-23 01:00,Line C - Assembly,3.6
+2026-09-23 01:00,Utilities - Compressed Air,21.7
+2026-09-23 01:00,Utilities - HVAC & Lighting,12.2
+2026-09-23 02:00,Line A - Injection Moulding,27.9
+2026-09-23 02:00,Line B - CNC Machining,14.5
+2026-09-23 02:00,Line C - Assembly,3.2
+2026-09-23 02:00,Utilities - Compressed Air,21.4
+2026-09-23 02:00,Utilities - HVAC & Lighting,13.4
+2026-09-23 03:00,Line A - Injection Moulding,30.1
+2026-09-23 03:00,Line B - CNC Machining,14.5
+2026-09-23 03:00,Line C - Assembly,3.6
+2026-09-23 03:00,Utilities - Compressed Air,27.2
+2026-09-23 03:00,Utilities - HVAC & Lighting,10.2
+2026-09-23 04:00,Line A - Injection Moulding,28.3
+2026-09-23 04:00,Line B - CNC Machining,12.3
+2026-09-23 04:00,Line C - Assembly,3.3
+2026-09-23 04:00,Utilities - Compressed Air,26.7
+2026-09-23 04:00,Utilities - HVAC & Lighting,13.1
+2026-09-23 05:00,Line A - Injection Moulding,25.6
+2026-09-23 05:00,Line B - CNC Machining,12.4
+2026-09-23 05:00,Line C - Assembly,3.6
+2026-09-23 05:00,Utilities - Compressed Air,25.3
+2026-09-23 05:00,Utilities - HVAC & Lighting,11.6
+2026-09-23 06:00,Line A - Injection Moulding,29.5
+2026-09-23 06:00,Line B - CNC Machining,12.3
+2026-09-23 06:00,Line C - Assembly,3.6
+2026-09-23 06:00,Utilities - Compressed Air,23.2
+2026-09-23 06:00,Utilities - HVAC & Lighting,13.3
+2026-09-23 07:00,Line A - Injection Moulding,87.8
+2026-09-23 07:00,Line B - CNC Machining,48.0
+2026-09-23 07:00,Line C - Assembly,20.9
+2026-09-23 07:00,Utilities - Compressed Air,36.6
+2026-09-23 07:00,Utilities - HVAC & Lighting,33.5
+2026-09-23 08:00,Line A - Injection Moulding,87.3
+2026-09-23 08:00,Line B - CNC Machining,47.5
+2026-09-23 08:00,Line C - Assembly,19.8
+2026-09-23 08:00,Utilities - Compressed Air,38.3
+2026-09-23 08:00,Utilities - HVAC & Lighting,29.7
+2026-09-23 09:00,Line A - Injection Moulding,87.0
+2026-09-23 09:00,Line B - CNC Machining,53.2
+2026-09-23 09:00,Line C - Assembly,21.0
+2026-09-23 09:00,Utilities - Compressed Air,34.1
+2026-09-23 09:00,Utilities - HVAC & Lighting,30.7
+2026-09-23 10:00,Line A - Injection Moulding,80.8
+2026-09-23 10:00,Line B - CNC Machining,47.1
+2026-09-23 10:00,Line C - Assembly,21.7
+2026-09-23 10:00,Utilities - Compressed Air,45.8
+2026-09-23 10:00,Utilities - HVAC & Lighting,25.9
+2026-09-23 11:00,Line A - Injection Moulding,76.0
+2026-09-23 11:00,Line B - CNC Machining,57.8
+2026-09-23 11:00,Line C - Assembly,20.5
+2026-09-23 11:00,Utilities - Compressed Air,37.3
+2026-09-23 11:00,Utilities - HVAC & Lighting,30.0
+2026-09-23 12:00,Line A - Injection Moulding,78.9
+2026-09-23 12:00,Line B - CNC Machining,56.1
+2026-09-23 12:00,Line C - Assembly,22.2
+2026-09-23 12:00,Utilities - Compressed Air,45.5
+2026-09-23 12:00,Utilities - HVAC & Lighting,34.4
+2026-09-23 13:00,Line A - Injection Moulding,73.1
+2026-09-23 13:00,Line B - CNC Machining,56.0
+2026-09-23 13:00,Line C - Assembly,23.8
+2026-09-23 13:00,Utilities - Compressed Air,44.5
+2026-09-23 13:00,Utilities - HVAC & Lighting,32.5
+2026-09-23 14:00,Line A - Injection Moulding,88.4
+2026-09-23 14:00,Line B - CNC Machining,57.2
+2026-09-23 14:00,Line C - Assembly,21.1
+2026-09-23 14:00,Utilities - Compressed Air,37.4
+2026-09-23 14:00,Utilities - HVAC & Lighting,32.7
+2026-09-23 15:00,Line A - Injection Moulding,94.5
+2026-09-23 15:00,Line B - CNC Machining,62.2
+2026-09-23 15:00,Line C - Assembly,23.2
+2026-09-23 15:00,Utilities - Compressed Air,37.6
+2026-09-23 15:00,Utilities - HVAC & Lighting,32.4
+2026-09-23 16:00,Line A - Injection Moulding,91.1
+2026-09-23 16:00,Line B - CNC Machining,55.1
+2026-09-23 16:00,Line C - Assembly,22.9
+2026-09-23 16:00,Utilities - Compressed Air,38.2
+2026-09-23 16:00,Utilities - HVAC & Lighting,30.5
+2026-09-23 17:00,Line A - Injection Moulding,82.6
+2026-09-23 17:00,Line B - CNC Machining,47.7
+2026-09-23 17:00,Line C - Assembly,20.9
+2026-09-23 17:00,Utilities - Compressed Air,37.9
+2026-09-23 17:00,Utilities - HVAC & Lighting,34.4
+2026-09-23 18:00,Line A - Injection Moulding,84.5
+2026-09-23 18:00,Line B - CNC Machining,52.8
+2026-09-23 18:00,Line C - Assembly,20.3
+2026-09-23 18:00,Utilities - Compressed Air,36.8
+2026-09-23 18:00,Utilities - HVAC & Lighting,28.6
+2026-09-23 19:00,Line A - Injection Moulding,75.7
+2026-09-23 19:00,Line B - CNC Machining,46.9
+2026-09-23 19:00,Line C - Assembly,24.4
+2026-09-23 19:00,Utilities - Compressed Air,39.4
+2026-09-23 19:00,Utilities - HVAC & Lighting,29.5
+2026-09-23 20:00,Line A - Injection Moulding,86.8
+2026-09-23 20:00,Line B - CNC Machining,51.7
+2026-09-23 20:00,Line C - Assembly,19.8
+2026-09-23 20:00,Utilities - Compressed Air,34.8
+2026-09-23 20:00,Utilities - HVAC & Lighting,28.2
+2026-09-23 21:00,Line A - Injection Moulding,80.1
+2026-09-23 21:00,Line B - CNC Machining,58.7
+2026-09-23 21:00,Line C - Assembly,22.3
+2026-09-23 21:00,Utilities - Compressed Air,45.2
+2026-09-23 21:00,Utilities - HVAC & Lighting,28.6
+2026-09-23 22:00,Line A - Injection Moulding,95.7
+2026-09-23 22:00,Line B - CNC Machining,56.4
+2026-09-23 22:00,Line C - Assembly,19.2
+2026-09-23 22:00,Utilities - Compressed Air,36.1
+2026-09-23 22:00,Utilities - HVAC & Lighting,30.7
+2026-09-23 23:00,Line A - Injection Moulding,34.1
+2026-09-23 23:00,Line B - CNC Machining,13.2
+2026-09-23 23:00,Line C - Assembly,3.6
+2026-09-23 23:00,Utilities - Compressed Air,23.5
+2026-09-23 23:00,Utilities - HVAC & Lighting,13.3
+2026-09-24 00:00,Line A - Injection Moulding,25.9
+2026-09-24 00:00,Line B - CNC Machining,13.7
+2026-09-24 00:00,Line C - Assembly,3.7
+2026-09-24 00:00,Utilities - Compressed Air,22.4
+2026-09-24 00:00,Utilities - HVAC & Lighting,11.1
+2026-09-24 01:00,Line A - Injection Moulding,25.5
+2026-09-24 01:00,Line B - CNC Machining,12.4
+2026-09-24 01:00,Line C - Assembly,3.1
+2026-09-24 01:00,Utilities - Compressed Air,25.5
+2026-09-24 01:00,Utilities - HVAC & Lighting,11.0
+2026-09-24 02:00,Line A - Injection Moulding,28.9
+2026-09-24 02:00,Line B - CNC Machining,12.5
+2026-09-24 02:00,Line C - Assembly,3.4
+2026-09-24 02:00,Utilities - Compressed Air,26.6
+2026-09-24 02:00,Utilities - HVAC & Lighting,12.5
+2026-09-24 03:00,Line A - Injection Moulding,27.0
+2026-09-24 03:00,Line B - CNC Machining,14.7
+2026-09-24 03:00,Line C - Assembly,3.8
+2026-09-24 03:00,Utilities - Compressed Air,24.7
+2026-09-24 03:00,Utilities - HVAC & Lighting,10.5
+2026-09-24 04:00,Line A - Injection Moulding,32.5
+2026-09-24 04:00,Line B - CNC Machining,15.3
+2026-09-24 04:00,Line C - Assembly,3.1
+2026-09-24 04:00,Utilities - Compressed Air,21.4
+2026-09-24 04:00,Utilities - HVAC & Lighting,10.9
+2026-09-24 05:00,Line A - Injection Moulding,30.1
+2026-09-24 05:00,Line B - CNC Machining,15.3
+2026-09-24 05:00,Line C - Assembly,3.4
+2026-09-24 05:00,Utilities - Compressed Air,27.0
+2026-09-24 05:00,Utilities - HVAC & Lighting,11.0
+2026-09-24 06:00,Line A - Injection Moulding,28.2
+2026-09-24 06:00,Line B - CNC Machining,14.8
+2026-09-24 06:00,Line C - Assembly,3.4
+2026-09-24 06:00,Utilities - Compressed Air,23.3
+2026-09-24 06:00,Utilities - HVAC & Lighting,12.6
+2026-09-24 07:00,Line A - Injection Moulding,80.9
+2026-09-24 07:00,Line B - CNC Machining,47.7
+2026-09-24 07:00,Line C - Assembly,21.4
+2026-09-24 07:00,Utilities - Compressed Air,34.5
+2026-09-24 07:00,Utilities - HVAC & Lighting,31.1
+2026-09-24 08:00,Line A - Injection Moulding,80.8
+2026-09-24 08:00,Line B - CNC Machining,54.9
+2026-09-24 08:00,Line C - Assembly,22.6
+2026-09-24 08:00,Utilities - Compressed Air,37.1
+2026-09-24 08:00,Utilities - HVAC & Lighting,29.7
+2026-09-24 09:00,Line A - Injection Moulding,72.6
+2026-09-24 09:00,Line B - CNC Machining,62.0
+2026-09-24 09:00,Line C - Assembly,22.4
+2026-09-24 09:00,Utilities - Compressed Air,45.9
+2026-09-24 09:00,Utilities - HVAC & Lighting,26.0
+2026-09-24 10:00,Line A - Injection Moulding,87.9
+2026-09-24 10:00,Line B - CNC Machining,58.7
+2026-09-24 10:00,Line C - Assembly,20.9
+2026-09-24 10:00,Utilities - Compressed Air,35.1
+2026-09-24 10:00,Utilities - HVAC & Lighting,26.9
+2026-09-24 11:00,Line A - Injection Moulding,75.9
+2026-09-24 11:00,Line B - CNC Machining,59.4
+2026-09-24 11:00,Line C - Assembly,19.3
+2026-09-24 11:00,Utilities - Compressed Air,43.8
+2026-09-24 11:00,Utilities - HVAC & Lighting,29.3
+2026-09-24 12:00,Line A - Injection Moulding,86.0
+2026-09-24 12:00,Line B - CNC Machining,56.5
+2026-09-24 12:00,Line C - Assembly,22.4
+2026-09-24 12:00,Utilities - Compressed Air,41.9
+2026-09-24 12:00,Utilities - HVAC & Lighting,30.9
+2026-09-24 13:00,Line A - Injection Moulding,80.7
+2026-09-24 13:00,Line B - CNC Machining,59.0
+2026-09-24 13:00,Line C - Assembly,20.4
+2026-09-24 13:00,Utilities - Compressed Air,42.5
+2026-09-24 13:00,Utilities - HVAC & Lighting,32.4
+2026-09-24 14:00,Line A - Injection Moulding,92.0
+2026-09-24 14:00,Line B - CNC Machining,51.9
+2026-09-24 14:00,Line C - Assembly,23.8
+2026-09-24 14:00,Utilities - Compressed Air,45.7
+2026-09-24 14:00,Utilities - HVAC & Lighting,29.6
+2026-09-24 15:00,Line A - Injection Moulding,79.3
+2026-09-24 15:00,Line B - CNC Machining,55.4
+2026-09-24 15:00,Line C - Assembly,24.9
+2026-09-24 15:00,Utilities - Compressed Air,35.6
+2026-09-24 15:00,Utilities - HVAC & Lighting,25.6
+2026-09-24 16:00,Line A - Injection Moulding,84.4
+2026-09-24 16:00,Line B - CNC Machining,57.6
+2026-09-24 16:00,Line C - Assembly,23.8
+2026-09-24 16:00,Utilities - Compressed Air,38.3
+2026-09-24 16:00,Utilities - HVAC & Lighting,34.4
+2026-09-24 17:00,Line A - Injection Moulding,78.1
+2026-09-24 17:00,Line B - CNC Machining,59.2
+2026-09-24 17:00,Line C - Assembly,19.3
+2026-09-24 17:00,Utilities - Compressed Air,34.3
+2026-09-24 17:00,Utilities - HVAC & Lighting,26.7
+2026-09-24 18:00,Line A - Injection Moulding,73.8
+2026-09-24 18:00,Line B - CNC Machining,55.0
+2026-09-24 18:00,Line C - Assembly,22.4
+2026-09-24 18:00,Utilities - Compressed Air,36.2
+2026-09-24 18:00,Utilities - HVAC & Lighting,34.0
+2026-09-24 19:00,Line A - Injection Moulding,81.6
+2026-09-24 19:00,Line B - CNC Machining,49.2
+2026-09-24 19:00,Line C - Assembly,19.9
+2026-09-24 19:00,Utilities - Compressed Air,42.9
+2026-09-24 19:00,Utilities - HVAC & Lighting,33.8
+2026-09-24 20:00,Line A - Injection Moulding,76.4
+2026-09-24 20:00,Line B - CNC Machining,47.2
+2026-09-24 20:00,Line C - Assembly,23.8
+2026-09-24 20:00,Utilities - Compressed Air,36.9
+2026-09-24 20:00,Utilities - HVAC & Lighting,34.3
+2026-09-24 21:00,Line A - Injection Moulding,85.0
+2026-09-24 21:00,Line B - CNC Machining,57.2
+2026-09-24 21:00,Line C - Assembly,21.0
+2026-09-24 21:00,Utilities - Compressed Air,43.6
+2026-09-24 21:00,Utilities - HVAC & Lighting,29.6
+2026-09-24 22:00,Line A - Injection Moulding,80.5
+2026-09-24 22:00,Line B - CNC Machining,61.7
+2026-09-24 22:00,Line C - Assembly,19.4
+2026-09-24 22:00,Utilities - Compressed Air,42.8
+2026-09-24 22:00,Utilities - HVAC & Lighting,26.1
+2026-09-24 23:00,Line A - Injection Moulding,31.0
+2026-09-24 23:00,Line B - CNC Machining,13.3
+2026-09-24 23:00,Line C - Assembly,3.7
+2026-09-24 23:00,Utilities - Compressed Air,20.8
+2026-09-24 23:00,Utilities - HVAC & Lighting,12.2
+2026-09-25 00:00,Line A - Injection Moulding,28.9
+2026-09-25 00:00,Line B - CNC Machining,15.5
+2026-09-25 00:00,Line C - Assembly,3.7
+2026-09-25 00:00,Utilities - Compressed Air,24.9
+2026-09-25 00:00,Utilities - HVAC & Lighting,11.0
+2026-09-25 01:00,Line A - Injection Moulding,27.5
+2026-09-25 01:00,Line B - CNC Machining,12.8
+2026-09-25 01:00,Line C - Assembly,3.2
+2026-09-25 01:00,Utilities - Compressed Air,22.1
+2026-09-25 01:00,Utilities - HVAC & Lighting,10.9
+2026-09-25 02:00,Line A - Injection Moulding,32.1
+2026-09-25 02:00,Line B - CNC Machining,14.3
+2026-09-25 02:00,Line C - Assembly,3.1
+2026-09-25 02:00,Utilities - Compressed Air,27.6
+2026-09-25 02:00,Utilities - HVAC & Lighting,11.0
+2026-09-25 03:00,Line A - Injection Moulding,30.4
+2026-09-25 03:00,Line B - CNC Machining,12.3
+2026-09-25 03:00,Line C - Assembly,3.7
+2026-09-25 03:00,Utilities - Compressed Air,26.7
+2026-09-25 03:00,Utilities - HVAC & Lighting,11.2
+2026-09-25 04:00,Line A - Injection Moulding,32.0
+2026-09-25 04:00,Line B - CNC Machining,15.1
+2026-09-25 04:00,Line C - Assembly,3.1
+2026-09-25 04:00,Utilities - Compressed Air,22.8
+2026-09-25 04:00,Utilities - HVAC & Lighting,11.9
+2026-09-25 05:00,Line A - Injection Moulding,33.2
+2026-09-25 05:00,Line B - CNC Machining,12.4
+2026-09-25 05:00,Line C - Assembly,3.5
+2026-09-25 05:00,Utilities - Compressed Air,24.7
+2026-09-25 05:00,Utilities - HVAC & Lighting,11.8
+2026-09-25 06:00,Line A - Injection Moulding,30.5
+2026-09-25 06:00,Line B - CNC Machining,15.3
+2026-09-25 06:00,Line C - Assembly,3.0
+2026-09-25 06:00,Utilities - Compressed Air,26.8
+2026-09-25 06:00,Utilities - HVAC & Lighting,11.5
+2026-09-25 07:00,Line A - Injection Moulding,92.1
+2026-09-25 07:00,Line B - CNC Machining,61.0
+2026-09-25 07:00,Line C - Assembly,19.9
+2026-09-25 07:00,Utilities - Compressed Air,44.4
+2026-09-25 07:00,Utilities - HVAC & Lighting,34.5
+2026-09-25 08:00,Line A - Injection Moulding,79.8
+2026-09-25 08:00,Line B - CNC Machining,47.2
+2026-09-25 08:00,Line C - Assembly,19.4
+2026-09-25 08:00,Utilities - Compressed Air,45.7
+2026-09-25 08:00,Utilities - HVAC & Lighting,25.6
+2026-09-25 09:00,Line A - Injection Moulding,95.5
+2026-09-25 09:00,Line B - CNC Machining,49.2
+2026-09-25 09:00,Line C - Assembly,23.6
+2026-09-25 09:00,Utilities - Compressed Air,35.2
+2026-09-25 09:00,Utilities - HVAC & Lighting,27.0
+2026-09-25 10:00,Line A - Injection Moulding,89.7
+2026-09-25 10:00,Line B - CNC Machining,48.2
+2026-09-25 10:00,Line C - Assembly,20.9
+2026-09-25 10:00,Utilities - Compressed Air,45.0
+2026-09-25 10:00,Utilities - HVAC & Lighting,31.9
+2026-09-25 11:00,Line A - Injection Moulding,94.7
+2026-09-25 11:00,Line B - CNC Machining,62.9
+2026-09-25 11:00,Line C - Assembly,18.9
+2026-09-25 11:00,Utilities - Compressed Air,36.8
+2026-09-25 11:00,Utilities - HVAC & Lighting,32.6
+2026-09-25 12:00,Line A - Injection Moulding,89.8
+2026-09-25 12:00,Line B - CNC Machining,47.4
+2026-09-25 12:00,Line C - Assembly,22.0
+2026-09-25 12:00,Utilities - Compressed Air,36.8
+2026-09-25 12:00,Utilities - HVAC & Lighting,29.4
+2026-09-25 13:00,Line A - Injection Moulding,74.9
+2026-09-25 13:00,Line B - CNC Machining,47.1
+2026-09-25 13:00,Line C - Assembly,25.2
+2026-09-25 13:00,Utilities - Compressed Air,37.8
+2026-09-25 13:00,Utilities - HVAC & Lighting,33.4
+2026-09-25 14:00,Line A - Injection Moulding,75.3
+2026-09-25 14:00,Line B - CNC Machining,54.8
+2026-09-25 14:00,Line C - Assembly,19.6
+2026-09-25 14:00,Utilities - Compressed Air,39.1
+2026-09-25 14:00,Utilities - HVAC & Lighting,27.1
+2026-09-25 15:00,Line A - Injection Moulding,89.7
+2026-09-25 15:00,Line B - CNC Machining,49.2
+2026-09-25 15:00,Line C - Assembly,23.6
+2026-09-25 15:00,Utilities - Compressed Air,40.0
+2026-09-25 15:00,Utilities - HVAC & Lighting,26.5
+2026-09-25 16:00,Line A - Injection Moulding,81.3
+2026-09-25 16:00,Line B - CNC Machining,54.9
+2026-09-25 16:00,Line C - Assembly,24.8
+2026-09-25 16:00,Utilities - Compressed Air,38.2
+2026-09-25 16:00,Utilities - HVAC & Lighting,27.4
+2026-09-25 17:00,Line A - Injection Moulding,96.9
+2026-09-25 17:00,Line B - CNC Machining,61.3
+2026-09-25 17:00,Line C - Assembly,23.5
+2026-09-25 17:00,Utilities - Compressed Air,37.3
+2026-09-25 17:00,Utilities - HVAC & Lighting,27.1
+2026-09-25 18:00,Line A - Injection Moulding,79.0
+2026-09-25 18:00,Line B - CNC Machining,47.9
+2026-09-25 18:00,Line C - Assembly,19.0
+2026-09-25 18:00,Utilities - Compressed Air,40.1
+2026-09-25 18:00,Utilities - HVAC & Lighting,29.2
+2026-09-25 19:00,Line A - Injection Moulding,86.4
+2026-09-25 19:00,Line B - CNC Machining,52.7
+2026-09-25 19:00,Line C - Assembly,18.8
+2026-09-25 19:00,Utilities - Compressed Air,42.3
+2026-09-25 19:00,Utilities - HVAC & Lighting,31.4
+2026-09-25 20:00,Line A - Injection Moulding,86.1
+2026-09-25 20:00,Line B - CNC Machining,55.8
+2026-09-25 20:00,Line C - Assembly,23.3
+2026-09-25 20:00,Utilities - Compressed Air,45.8
+2026-09-25 20:00,Utilities - HVAC & Lighting,33.4
+2026-09-25 21:00,Line A - Injection Moulding,90.6
+2026-09-25 21:00,Line B - CNC Machining,53.3
+2026-09-25 21:00,Line C - Assembly,20.8
+2026-09-25 21:00,Utilities - Compressed Air,39.0
+2026-09-25 21:00,Utilities - HVAC & Lighting,34.3
+2026-09-25 22:00,Line A - Injection Moulding,82.1
+2026-09-25 22:00,Line B - CNC Machining,53.1
+2026-09-25 22:00,Line C - Assembly,21.4
+2026-09-25 22:00,Utilities - Compressed Air,35.7
+2026-09-25 22:00,Utilities - HVAC & Lighting,34.5
+2026-09-25 23:00,Line A - Injection Moulding,25.3
+2026-09-25 23:00,Line B - CNC Machining,14.2
+2026-09-25 23:00,Line C - Assembly,3.7
+2026-09-25 23:00,Utilities - Compressed Air,22.2
+2026-09-25 23:00,Utilities - HVAC & Lighting,12.4
+2026-09-26 00:00,Line A - Injection Moulding,28.7
+2026-09-26 00:00,Line B - CNC Machining,12.7
+2026-09-26 00:00,Line C - Assembly,3.0
+2026-09-26 00:00,Utilities - Compressed Air,21.2
+2026-09-26 00:00,Utilities - HVAC & Lighting,13.2
+2026-09-26 01:00,Line A - Injection Moulding,32.3
+2026-09-26 01:00,Line B - CNC Machining,15.4
+2026-09-26 01:00,Line C - Assembly,2.9
+2026-09-26 01:00,Utilities - Compressed Air,25.4
+2026-09-26 01:00,Utilities - HVAC & Lighting,11.4
+2026-09-26 02:00,Line A - Injection Moulding,31.1
+2026-09-26 02:00,Line B - CNC Machining,14.0
+2026-09-26 02:00,Line C - Assembly,3.1
+2026-09-26 02:00,Utilities - Compressed Air,27.4
+2026-09-26 02:00,Utilities - HVAC & Lighting,10.2
+2026-09-26 03:00,Line A - Injection Moulding,31.9
+2026-09-26 03:00,Line B - CNC Machining,15.2
+2026-09-26 03:00,Line C - Assembly,3.3
+2026-09-26 03:00,Utilities - Compressed Air,24.7
+2026-09-26 03:00,Utilities - HVAC & Lighting,13.8
+2026-09-26 04:00,Line A - Injection Moulding,27.4
+2026-09-26 04:00,Line B - CNC Machining,14.3
+2026-09-26 04:00,Line C - Assembly,3.5
+2026-09-26 04:00,Utilities - Compressed Air,23.1
+2026-09-26 04:00,Utilities - HVAC & Lighting,12.8
+2026-09-26 05:00,Line A - Injection Moulding,28.8
+2026-09-26 05:00,Line B - CNC Machining,13.9
+2026-09-26 05:00,Line C - Assembly,3.4
+2026-09-26 05:00,Utilities - Compressed Air,25.3
+2026-09-26 05:00,Utilities - HVAC & Lighting,11.4
+2026-09-26 06:00,Line A - Injection Moulding,30.9
+2026-09-26 06:00,Line B - CNC Machining,13.9
+2026-09-26 06:00,Line C - Assembly,3.0
+2026-09-26 06:00,Utilities - Compressed Air,24.8
+2026-09-26 06:00,Utilities - HVAC & Lighting,11.2
+2026-09-26 07:00,Line A - Injection Moulding,95.4
+2026-09-26 07:00,Line B - CNC Machining,54.6
+2026-09-26 07:00,Line C - Assembly,23.5
+2026-09-26 07:00,Utilities - Compressed Air,40.3
+2026-09-26 07:00,Utilities - HVAC & Lighting,29.8
+2026-09-26 08:00,Line A - Injection Moulding,77.9
+2026-09-26 08:00,Line B - CNC Machining,49.1
+2026-09-26 08:00,Line C - Assembly,24.8
+2026-09-26 08:00,Utilities - Compressed Air,40.3
+2026-09-26 08:00,Utilities - HVAC & Lighting,30.2
+2026-09-26 09:00,Line A - Injection Moulding,85.7
+2026-09-26 09:00,Line B - CNC Machining,60.2
+2026-09-26 09:00,Line C - Assembly,20.3
+2026-09-26 09:00,Utilities - Compressed Air,36.1
+2026-09-26 09:00,Utilities - HVAC & Lighting,32.9
+2026-09-26 10:00,Line A - Injection Moulding,84.0
+2026-09-26 10:00,Line B - CNC Machining,57.3
+2026-09-26 10:00,Line C - Assembly,24.2
+2026-09-26 10:00,Utilities - Compressed Air,44.7
+2026-09-26 10:00,Utilities - HVAC & Lighting,33.3
+2026-09-26 11:00,Line A - Injection Moulding,73.4
+2026-09-26 11:00,Line B - CNC Machining,53.0
+2026-09-26 11:00,Line C - Assembly,24.2
+2026-09-26 11:00,Utilities - Compressed Air,43.8
+2026-09-26 11:00,Utilities - HVAC & Lighting,26.6
+2026-09-26 12:00,Line A - Injection Moulding,76.2
+2026-09-26 12:00,Line B - CNC Machining,50.9
+2026-09-26 12:00,Line C - Assembly,19.4
+2026-09-26 12:00,Utilities - Compressed Air,38.3
+2026-09-26 12:00,Utilities - HVAC & Lighting,32.7
+2026-09-26 13:00,Line A - Injection Moulding,85.5
+2026-09-26 13:00,Line B - CNC Machining,54.2
+2026-09-26 13:00,Line C - Assembly,19.3
+2026-09-26 13:00,Utilities - Compressed Air,38.7
+2026-09-26 13:00,Utilities - HVAC & Lighting,34.5
+2026-09-26 14:00,Line A - Injection Moulding,90.0
+2026-09-26 14:00,Line B - CNC Machining,54.2
+2026-09-26 14:00,Line C - Assembly,21.9
+2026-09-26 14:00,Utilities - Compressed Air,43.6
+2026-09-26 14:00,Utilities - HVAC & Lighting,32.3
+2026-09-26 15:00,Line A - Injection Moulding,76.1
+2026-09-26 15:00,Line B - CNC Machining,58.0
+2026-09-26 15:00,Line C - Assembly,21.1
+2026-09-26 15:00,Utilities - Compressed Air,40.2
+2026-09-26 15:00,Utilities - HVAC & Lighting,27.6
+2026-09-26 16:00,Line A - Injection Moulding,81.7
+2026-09-26 16:00,Line B - CNC Machining,52.4
+2026-09-26 16:00,Line C - Assembly,21.2
+2026-09-26 16:00,Utilities - Compressed Air,34.2
+2026-09-26 16:00,Utilities - HVAC & Lighting,27.3
+2026-09-26 17:00,Line A - Injection Moulding,86.8
+2026-09-26 17:00,Line B - CNC Machining,47.7
+2026-09-26 17:00,Line C - Assembly,19.9
+2026-09-26 17:00,Utilities - Compressed Air,42.6
+2026-09-26 17:00,Utilities - HVAC & Lighting,28.0
+2026-09-26 18:00,Line A - Injection Moulding,80.5
+2026-09-26 18:00,Line B - CNC Machining,50.7
+2026-09-26 18:00,Line C - Assembly,24.2
+2026-09-26 18:00,Utilities - Compressed Air,35.1
+2026-09-26 18:00,Utilities - HVAC & Lighting,31.2
+2026-09-26 19:00,Line A - Injection Moulding,94.2
+2026-09-26 19:00,Line B - CNC Machining,50.1
+2026-09-26 19:00,Line C - Assembly,21.5
+2026-09-26 19:00,Utilities - Compressed Air,43.5
+2026-09-26 19:00,Utilities - HVAC & Lighting,31.1
+2026-09-26 20:00,Line A - Injection Moulding,81.7
+2026-09-26 20:00,Line B - CNC Machining,47.5
+2026-09-26 20:00,Line C - Assembly,21.6
+2026-09-26 20:00,Utilities - Compressed Air,38.4
+2026-09-26 20:00,Utilities - HVAC & Lighting,31.9
+2026-09-26 21:00,Line A - Injection Moulding,79.8
+2026-09-26 21:00,Line B - CNC Machining,53.5
+2026-09-26 21:00,Line C - Assembly,23.0
+2026-09-26 21:00,Utilities - Compressed Air,43.7
+2026-09-26 21:00,Utilities - HVAC & Lighting,28.7
+2026-09-26 22:00,Line A - Injection Moulding,82.1
+2026-09-26 22:00,Line B - CNC Machining,56.3
+2026-09-26 22:00,Line C - Assembly,24.8
+2026-09-26 22:00,Utilities - Compressed Air,36.3
+2026-09-26 22:00,Utilities - HVAC & Lighting,34.2
+2026-09-26 23:00,Line A - Injection Moulding,31.6
+2026-09-26 23:00,Line B - CNC Machining,13.2
+2026-09-26 23:00,Line C - Assembly,3.5
+2026-09-26 23:00,Utilities - Compressed Air,22.8
+2026-09-26 23:00,Utilities - HVAC & Lighting,10.5
+2026-09-27 00:00,Line A - Injection Moulding,32.0
+2026-09-27 00:00,Line B - CNC Machining,13.3
+2026-09-27 00:00,Line C - Assembly,3.3
+2026-09-27 00:00,Utilities - Compressed Air,24.0
+2026-09-27 00:00,Utilities - HVAC & Lighting,13.4
+2026-09-27 01:00,Line A - Injection Moulding,32.0
+2026-09-27 01:00,Line B - CNC Machining,11.8
+2026-09-27 01:00,Line C - Assembly,3.4
+2026-09-27 01:00,Utilities - Compressed Air,23.7
+2026-09-27 01:00,Utilities - HVAC & Lighting,11.9
+2026-09-27 02:00,Line A - Injection Moulding,32.8
+2026-09-27 02:00,Line B - CNC Machining,13.4
+2026-09-27 02:00,Line C - Assembly,3.3
+2026-09-27 02:00,Utilities - Compressed Air,26.8
+2026-09-27 02:00,Utilities - HVAC & Lighting,11.8
+2026-09-27 03:00,Line A - Injection Moulding,29.7
+2026-09-27 03:00,Line B - CNC Machining,13.8
+2026-09-27 03:00,Line C - Assembly,3.6
+2026-09-27 03:00,Utilities - Compressed Air,25.2
+2026-09-27 03:00,Utilities - HVAC & Lighting,12.9
+2026-09-27 04:00,Line A - Injection Moulding,28.9
+2026-09-27 04:00,Line B - CNC Machining,11.9
+2026-09-27 04:00,Line C - Assembly,3.5
+2026-09-27 04:00,Utilities - Compressed Air,24.4
+2026-09-27 04:00,Utilities - HVAC & Lighting,13.0
+2026-09-27 05:00,Line A - Injection Moulding,32.2
+2026-09-27 05:00,Line B - CNC Machining,12.2
+2026-09-27 05:00,Line C - Assembly,3.0
+2026-09-27 05:00,Utilities - Compressed Air,21.0
+2026-09-27 05:00,Utilities - HVAC & Lighting,13.1
+2026-09-27 06:00,Line A - Injection Moulding,26.2
+2026-09-27 06:00,Line B - CNC Machining,12.1
+2026-09-27 06:00,Line C - Assembly,3.6
+2026-09-27 06:00,Utilities - Compressed Air,24.5
+2026-09-27 06:00,Utilities - HVAC & Lighting,10.4
+2026-09-27 07:00,Line A - Injection Moulding,31.4
+2026-09-27 07:00,Line B - CNC Machining,14.6
+2026-09-27 07:00,Line C - Assembly,3.3
+2026-09-27 07:00,Utilities - Compressed Air,20.8
+2026-09-27 07:00,Utilities - HVAC & Lighting,12.7
+2026-09-27 08:00,Line A - Injection Moulding,29.0
+2026-09-27 08:00,Line B - CNC Machining,14.1
+2026-09-27 08:00,Line C - Assembly,3.8
+2026-09-27 08:00,Utilities - Compressed Air,26.3
+2026-09-27 08:00,Utilities - HVAC & Lighting,13.3
+2026-09-27 09:00,Line A - Injection Moulding,26.6
+2026-09-27 09:00,Line B - CNC Machining,13.1
+2026-09-27 09:00,Line C - Assembly,3.3
+2026-09-27 09:00,Utilities - Compressed Air,20.4
+2026-09-27 09:00,Utilities - HVAC & Lighting,13.8
+2026-09-27 10:00,Line A - Injection Moulding,27.7
+2026-09-27 10:00,Line B - CNC Machining,12.8
+2026-09-27 10:00,Line C - Assembly,3.1
+2026-09-27 10:00,Utilities - Compressed Air,22.2
+2026-09-27 10:00,Utilities - HVAC & Lighting,13.3
+2026-09-27 11:00,Line A - Injection Moulding,30.2
+2026-09-27 11:00,Line B - CNC Machining,13.8
+2026-09-27 11:00,Line C - Assembly,3.2
+2026-09-27 11:00,Utilities - Compressed Air,20.8
+2026-09-27 11:00,Utilities - HVAC & Lighting,11.3
+2026-09-27 12:00,Line A - Injection Moulding,33.0
+2026-09-27 12:00,Line B - CNC Machining,15.0
+2026-09-27 12:00,Line C - Assembly,3.7
+2026-09-27 12:00,Utilities - Compressed Air,22.3
+2026-09-27 12:00,Utilities - HVAC & Lighting,10.9
+2026-09-27 13:00,Line A - Injection Moulding,25.8
+2026-09-27 13:00,Line B - CNC Machining,13.9
+2026-09-27 13:00,Line C - Assembly,3.2
+2026-09-27 13:00,Utilities - Compressed Air,23.7
+2026-09-27 13:00,Utilities - HVAC & Lighting,12.0
+2026-09-27 14:00,Line A - Injection Moulding,30.5
+2026-09-27 14:00,Line B - CNC Machining,13.2
+2026-09-27 14:00,Line C - Assembly,3.6
+2026-09-27 14:00,Utilities - Compressed Air,21.8
+2026-09-27 14:00,Utilities - HVAC & Lighting,13.5
+2026-09-27 15:00,Line A - Injection Moulding,30.3
+2026-09-27 15:00,Line B - CNC Machining,11.9
+2026-09-27 15:00,Line C - Assembly,3.1
+2026-09-27 15:00,Utilities - Compressed Air,24.2
+2026-09-27 15:00,Utilities - HVAC & Lighting,11.7
+2026-09-27 16:00,Line A - Injection Moulding,30.3
+2026-09-27 16:00,Line B - CNC Machining,13.0
+2026-09-27 16:00,Line C - Assembly,3.1
+2026-09-27 16:00,Utilities - Compressed Air,26.1
+2026-09-27 16:00,Utilities - HVAC & Lighting,11.2
+2026-09-27 17:00,Line A - Injection Moulding,31.6
+2026-09-27 17:00,Line B - CNC Machining,15.0
+2026-09-27 17:00,Line C - Assembly,3.4
+2026-09-27 17:00,Utilities - Compressed Air,23.7
+2026-09-27 17:00,Utilities - HVAC & Lighting,13.6
+2026-09-27 18:00,Line A - Injection Moulding,29.3
+2026-09-27 18:00,Line B - CNC Machining,15.3
+2026-09-27 18:00,Line C - Assembly,2.9
+2026-09-27 18:00,Utilities - Compressed Air,23.5
+2026-09-27 18:00,Utilities - HVAC & Lighting,12.5
+2026-09-27 19:00,Line A - Injection Moulding,25.7
+2026-09-27 19:00,Line B - CNC Machining,15.2
+2026-09-27 19:00,Line C - Assembly,2.9
+2026-09-27 19:00,Utilities - Compressed Air,24.7
+2026-09-27 19:00,Utilities - HVAC & Lighting,10.8
+2026-09-27 20:00,Line A - Injection Moulding,33.5
+2026-09-27 20:00,Line B - CNC Machining,14.0
+2026-09-27 20:00,Line C - Assembly,3.6
+2026-09-27 20:00,Utilities - Compressed Air,24.0
+2026-09-27 20:00,Utilities - HVAC & Lighting,12.6
+2026-09-27 21:00,Line A - Injection Moulding,31.3
+2026-09-27 21:00,Line B - CNC Machining,12.9
+2026-09-27 21:00,Line C - Assembly,3.0
+2026-09-27 21:00,Utilities - Compressed Air,26.4
+2026-09-27 21:00,Utilities - HVAC & Lighting,10.7
+2026-09-27 22:00,Line A - Injection Moulding,33.5
+2026-09-27 22:00,Line B - CNC Machining,12.5
+2026-09-27 22:00,Line C - Assembly,2.9
+2026-09-27 22:00,Utilities - Compressed Air,21.1
+2026-09-27 22:00,Utilities - HVAC & Lighting,13.0
+2026-09-27 23:00,Line A - Injection Moulding,33.8
+2026-09-27 23:00,Line B - CNC Machining,13.4
+2026-09-27 23:00,Line C - Assembly,3.5
+2026-09-27 23:00,Utilities - Compressed Air,22.3
+2026-09-27 23:00,Utilities - HVAC & Lighting,13.5
+2026-09-28 00:00,Line A - Injection Moulding,31.4
+2026-09-28 00:00,Line B - CNC Machining,12.3
+2026-09-28 00:00,Line C - Assembly,2.9
+2026-09-28 00:00,Utilities - Compressed Air,25.4
+2026-09-28 00:00,Utilities - HVAC & Lighting,10.4
+2026-09-28 01:00,Line A - Injection Moulding,32.7
+2026-09-28 01:00,Line B - CNC Machining,12.9
+2026-09-28 01:00,Line C - Assembly,3.0
+2026-09-28 01:00,Utilities - Compressed Air,24.6
+2026-09-28 01:00,Utilities - HVAC & Lighting,11.3
+2026-09-28 02:00,Line A - Injection Moulding,30.3
+2026-09-28 02:00,Line B - CNC Machining,12.3
+2026-09-28 02:00,Line C - Assembly,3.7
+2026-09-28 02:00,Utilities - Compressed Air,22.7
+2026-09-28 02:00,Utilities - HVAC & Lighting,13.2
+2026-09-28 03:00,Line A - Injection Moulding,26.6
+2026-09-28 03:00,Line B - CNC Machining,15.0
+2026-09-28 03:00,Line C - Assembly,3.8
+2026-09-28 03:00,Utilities - Compressed Air,23.2
+2026-09-28 03:00,Utilities - HVAC & Lighting,10.3
+2026-09-28 04:00,Line A - Injection Moulding,28.7
+2026-09-28 04:00,Line B - CNC Machining,14.3
+2026-09-28 04:00,Line C - Assembly,3.0
+2026-09-28 04:00,Utilities - Compressed Air,24.3
+2026-09-28 04:00,Utilities - HVAC & Lighting,10.5
+2026-09-28 05:00,Line A - Injection Moulding,29.4
+2026-09-28 05:00,Line B - CNC Machining,14.7
+2026-09-28 05:00,Line C - Assembly,3.2
+2026-09-28 05:00,Utilities - Compressed Air,25.3
+2026-09-28 05:00,Utilities - HVAC & Lighting,10.6
+2026-09-28 06:00,Line A - Injection Moulding,32.7
+2026-09-28 06:00,Line B - CNC Machining,12.2
+2026-09-28 06:00,Line C - Assembly,3.7
+2026-09-28 06:00,Utilities - Compressed Air,27.6
+2026-09-28 06:00,Utilities - HVAC & Lighting,13.6
+2026-09-28 07:00,Line A - Injection Moulding,85.7
+2026-09-28 07:00,Line B - CNC Machining,51.5
+2026-09-28 07:00,Line C - Assembly,21.0
+2026-09-28 07:00,Utilities - Compressed Air,43.0
+2026-09-28 07:00,Utilities - HVAC & Lighting,30.0
+2026-09-28 08:00,Line A - Injection Moulding,96.0
+2026-09-28 08:00,Line B - CNC Machining,48.3
+2026-09-28 08:00,Line C - Assembly,21.9
+2026-09-28 08:00,Utilities - Compressed Air,44.4
+2026-09-28 08:00,Utilities - HVAC & Lighting,30.9
+2026-09-28 09:00,Line A - Injection Moulding,86.0
+2026-09-28 09:00,Line B - CNC Machining,48.2
+2026-09-28 09:00,Line C - Assembly,19.6
+2026-09-28 09:00,Utilities - Compressed Air,37.3
+2026-09-28 09:00,Utilities - HVAC & Lighting,33.5
+2026-09-28 10:00,Line A - Injection Moulding,93.8
+2026-09-28 10:00,Line B - CNC Machining,50.5
+2026-09-28 10:00,Line C - Assembly,24.8
+2026-09-28 10:00,Utilities - Compressed Air,34.4
+2026-09-28 10:00,Utilities - HVAC & Lighting,30.9
+2026-09-28 11:00,Line A - Injection Moulding,96.9
+2026-09-28 11:00,Line B - CNC Machining,52.4
+2026-09-28 11:00,Line C - Assembly,24.9
+2026-09-28 11:00,Utilities - Compressed Air,41.9
+2026-09-28 11:00,Utilities - HVAC & Lighting,26.0
+2026-09-28 12:00,Line A - Injection Moulding,80.7
+2026-09-28 12:00,Line B - CNC Machining,54.2
+2026-09-28 12:00,Line C - Assembly,20.3
+2026-09-28 12:00,Utilities - Compressed Air,42.9
+2026-09-28 12:00,Utilities - HVAC & Lighting,27.1
+2026-09-28 13:00,Line A - Injection Moulding,92.3
+2026-09-28 13:00,Line B - CNC Machining,51.7
+2026-09-28 13:00,Line C - Assembly,19.2
+2026-09-28 13:00,Utilities - Compressed Air,40.7
+2026-09-28 13:00,Utilities - HVAC & Lighting,26.4
+2026-09-28 14:00,Line A - Injection Moulding,86.3
+2026-09-28 14:00,Line B - CNC Machining,59.8
+2026-09-28 14:00,Line C - Assembly,22.6
+2026-09-28 14:00,Utilities - Compressed Air,39.5
+2026-09-28 14:00,Utilities - HVAC & Lighting,25.8
+2026-09-28 15:00,Line A - Injection Moulding,85.3
+2026-09-28 15:00,Line B - CNC Machining,48.4
+2026-09-28 15:00,Line C - Assembly,23.0
+2026-09-28 15:00,Utilities - Compressed Air,35.6
+2026-09-28 15:00,Utilities - HVAC & Lighting,30.7
+2026-09-28 16:00,Line A - Injection Moulding,81.2
+2026-09-28 16:00,Line B - CNC Machining,52.9
+2026-09-28 16:00,Line C - Assembly,23.1
+2026-09-28 16:00,Utilities - Compressed Air,36.0
+2026-09-28 16:00,Utilities - HVAC & Lighting,27.0
+2026-09-28 17:00,Line A - Injection Moulding,96.3
+2026-09-28 17:00,Line B - CNC Machining,52.2
+2026-09-28 17:00,Line C - Assembly,24.3
+2026-09-28 17:00,Utilities - Compressed Air,44.5
+2026-09-28 17:00,Utilities - HVAC & Lighting,29.8
+2026-09-28 18:00,Line A - Injection Moulding,76.1
+2026-09-28 18:00,Line B - CNC Machining,48.3
+2026-09-28 18:00,Line C - Assembly,24.5
+2026-09-28 18:00,Utilities - Compressed Air,35.4
+2026-09-28 18:00,Utilities - HVAC & Lighting,30.0
+2026-09-28 19:00,Line A - Injection Moulding,85.9
+2026-09-28 19:00,Line B - CNC Machining,48.7
+2026-09-28 19:00,Line C - Assembly,21.8
+2026-09-28 19:00,Utilities - Compressed Air,36.0
+2026-09-28 19:00,Utilities - HVAC & Lighting,30.3
+2026-09-28 20:00,Line A - Injection Moulding,85.2
+2026-09-28 20:00,Line B - CNC Machining,52.8
+2026-09-28 20:00,Line C - Assembly,20.0
+2026-09-28 20:00,Utilities - Compressed Air,38.8
+2026-09-28 20:00,Utilities - HVAC & Lighting,27.3
+2026-09-28 21:00,Line A - Injection Moulding,75.5
+2026-09-28 21:00,Line B - CNC Machining,50.7
+2026-09-28 21:00,Line C - Assembly,24.5
+2026-09-28 21:00,Utilities - Compressed Air,40.0
+2026-09-28 21:00,Utilities - HVAC & Lighting,33.5
+2026-09-28 22:00,Line A - Injection Moulding,72.6
+2026-09-28 22:00,Line B - CNC Machining,62.3
+2026-09-28 22:00,Line C - Assembly,21.9
+2026-09-28 22:00,Utilities - Compressed Air,43.5
+2026-09-28 22:00,Utilities - HVAC & Lighting,30.6
+2026-09-28 23:00,Line A - Injection Moulding,31.4
+2026-09-28 23:00,Line B - CNC Machining,12.6
+2026-09-28 23:00,Line C - Assembly,3.5
+2026-09-28 23:00,Utilities - Compressed Air,21.5
+2026-09-28 23:00,Utilities - HVAC & Lighting,11.2
+2026-09-29 00:00,Line A - Injection Moulding,25.6
+2026-09-29 00:00,Line B - CNC Machining,13.3
+2026-09-29 00:00,Line C - Assembly,3.3
+2026-09-29 00:00,Utilities - Compressed Air,22.5
+2026-09-29 00:00,Utilities - HVAC & Lighting,13.4
+2026-09-29 01:00,Line A - Injection Moulding,26.0
+2026-09-29 01:00,Line B - CNC Machining,14.1
+2026-09-29 01:00,Line C - Assembly,3.0
+2026-09-29 01:00,Utilities - Compressed Air,24.7
+2026-09-29 01:00,Utilities - HVAC & Lighting,13.0
+2026-09-29 02:00,Line A - Injection Moulding,31.6
+2026-09-29 02:00,Line B - CNC Machining,11.9
+2026-09-29 02:00,Line C - Assembly,3.0
+2026-09-29 02:00,Utilities - Compressed Air,24.7
+2026-09-29 02:00,Utilities - HVAC & Lighting,13.7
+2026-09-29 03:00,Line A - Injection Moulding,25.7
+2026-09-29 03:00,Line B - CNC Machining,14.2
+2026-09-29 03:00,Line C - Assembly,3.5
+2026-09-29 03:00,Utilities - Compressed Air,26.3
+2026-09-29 03:00,Utilities - HVAC & Lighting,11.4
+2026-09-29 04:00,Line A - Injection Moulding,32.5
+2026-09-29 04:00,Line B - CNC Machining,13.6
+2026-09-29 04:00,Line C - Assembly,3.7
+2026-09-29 04:00,Utilities - Compressed Air,20.5
+2026-09-29 04:00,Utilities - HVAC & Lighting,13.6
+2026-09-29 05:00,Line A - Injection Moulding,29.0
+2026-09-29 05:00,Line B - CNC Machining,13.4
+2026-09-29 05:00,Line C - Assembly,2.9
+2026-09-29 05:00,Utilities - Compressed Air,22.2
+2026-09-29 05:00,Utilities - HVAC & Lighting,12.8
+2026-09-29 06:00,Line A - Injection Moulding,31.3
+2026-09-29 06:00,Line B - CNC Machining,12.3
+2026-09-29 06:00,Line C - Assembly,3.1
+2026-09-29 06:00,Utilities - Compressed Air,21.4
+2026-09-29 06:00,Utilities - HVAC & Lighting,10.9
+2026-09-29 07:00,Line A - Injection Moulding,77.9
+2026-09-29 07:00,Line B - CNC Machining,52.2
+2026-09-29 07:00,Line C - Assembly,25.1
+2026-09-29 07:00,Utilities - Compressed Air,46.0
+2026-09-29 07:00,Utilities - HVAC & Lighting,32.6
+2026-09-29 08:00,Line A - Injection Moulding,84.5
+2026-09-29 08:00,Line B - CNC Machining,55.0
+2026-09-29 08:00,Line C - Assembly,23.8
+2026-09-29 08:00,Utilities - Compressed Air,44.9
+2026-09-29 08:00,Utilities - HVAC & Lighting,32.3
+2026-09-29 09:00,Line A - Injection Moulding,88.5
+2026-09-29 09:00,Line B - CNC Machining,50.0
+2026-09-29 09:00,Line C - Assembly,22.8
+2026-09-29 09:00,Utilities - Compressed Air,44.1
+2026-09-29 09:00,Utilities - HVAC & Lighting,32.6
+2026-09-29 10:00,Line A - Injection Moulding,74.6
+2026-09-29 10:00,Line B - CNC Machining,58.6
+2026-09-29 10:00,Line C - Assembly,21.0
+2026-09-29 10:00,Utilities - Compressed Air,35.9
+2026-09-29 10:00,Utilities - HVAC & Lighting,34.2
+2026-09-29 11:00,Line A - Injection Moulding,89.4
+2026-09-29 11:00,Line B - CNC Machining,59.1
+2026-09-29 11:00,Line C - Assembly,19.6
+2026-09-29 11:00,Utilities - Compressed Air,43.9
+2026-09-29 11:00,Utilities - HVAC & Lighting,33.9
+2026-09-29 12:00,Line A - Injection Moulding,95.3
+2026-09-29 12:00,Line B - CNC Machining,59.0
+2026-09-29 12:00,Line C - Assembly,24.2
+2026-09-29 12:00,Utilities - Compressed Air,43.6
+2026-09-29 12:00,Utilities - HVAC & Lighting,30.8
+2026-09-29 13:00,Line A - Injection Moulding,83.4
+2026-09-29 13:00,Line B - CNC Machining,60.4
+2026-09-29 13:00,Line C - Assembly,23.9
+2026-09-29 13:00,Utilities - Compressed Air,44.4
+2026-09-29 13:00,Utilities - HVAC & Lighting,28.2
+2026-09-29 14:00,Line A - Injection Moulding,96.8
+2026-09-29 14:00,Line B - CNC Machining,55.5
+2026-09-29 14:00,Line C - Assembly,24.9
+2026-09-29 14:00,Utilities - Compressed Air,35.4
+2026-09-29 14:00,Utilities - HVAC & Lighting,34.2
+2026-09-29 15:00,Line A - Injection Moulding,92.3
+2026-09-29 15:00,Line B - CNC Machining,50.9
+2026-09-29 15:00,Line C - Assembly,24.2
+2026-09-29 15:00,Utilities - Compressed Air,36.8
+2026-09-29 15:00,Utilities - HVAC & Lighting,27.3
+2026-09-29 16:00,Line A - Injection Moulding,83.9
+2026-09-29 16:00,Line B - CNC Machining,50.7
+2026-09-29 16:00,Line C - Assembly,22.0
+2026-09-29 16:00,Utilities - Compressed Air,44.9
+2026-09-29 16:00,Utilities - HVAC & Lighting,31.7
+2026-09-29 17:00,Line A - Injection Moulding,90.4
+2026-09-29 17:00,Line B - CNC Machining,53.2
+2026-09-29 17:00,Line C - Assembly,23.9
+2026-09-29 17:00,Utilities - Compressed Air,43.5
+2026-09-29 17:00,Utilities - HVAC & Lighting,31.6
+2026-09-29 18:00,Line A - Injection Moulding,96.3
+2026-09-29 18:00,Line B - CNC Machining,60.4
+2026-09-29 18:00,Line C - Assembly,21.4
+2026-09-29 18:00,Utilities - Compressed Air,35.0
+2026-09-29 18:00,Utilities - HVAC & Lighting,31.4
+2026-09-29 19:00,Line A - Injection Moulding,93.6
+2026-09-29 19:00,Line B - CNC Machining,52.4
+2026-09-29 19:00,Line C - Assembly,22.6
+2026-09-29 19:00,Utilities - Compressed Air,44.0
+2026-09-29 19:00,Utilities - HVAC & Lighting,32.6
+2026-09-29 20:00,Line A - Injection Moulding,72.4
+2026-09-29 20:00,Line B - CNC Machining,54.8
+2026-09-29 20:00,Line C - Assembly,18.8
+2026-09-29 20:00,Utilities - Compressed Air,35.3
+2026-09-29 20:00,Utilities - HVAC & Lighting,32.8
+2026-09-29 21:00,Line A - Injection Moulding,82.9
+2026-09-29 21:00,Line B - CNC Machining,56.7
+2026-09-29 21:00,Line C - Assembly,21.7
+2026-09-29 21:00,Utilities - Compressed Air,38.0
+2026-09-29 21:00,Utilities - HVAC & Lighting,27.4
+2026-09-29 22:00,Line A - Injection Moulding,81.3
+2026-09-29 22:00,Line B - CNC Machining,60.7
+2026-09-29 22:00,Line C - Assembly,22.8
+2026-09-29 22:00,Utilities - Compressed Air,37.5
+2026-09-29 22:00,Utilities - HVAC & Lighting,26.3
+2026-09-29 23:00,Line A - Injection Moulding,27.7
+2026-09-29 23:00,Line B - CNC Machining,14.6
+2026-09-29 23:00,Line C - Assembly,3.2
+2026-09-29 23:00,Utilities - Compressed Air,25.2
+2026-09-29 23:00,Utilities - HVAC & Lighting,13.1
+2026-09-30 00:00,Line A - Injection Moulding,26.4
+2026-09-30 00:00,Line B - CNC Machining,14.5
+2026-09-30 00:00,Line C - Assembly,2.8
+2026-09-30 00:00,Utilities - Compressed Air,26.3
+2026-09-30 00:00,Utilities - HVAC & Lighting,10.9
+2026-09-30 01:00,Line A - Injection Moulding,27.7
+2026-09-30 01:00,Line B - CNC Machining,15.6
+2026-09-30 01:00,Line C - Assembly,3.2
+2026-09-30 01:00,Utilities - Compressed Air,22.0
+2026-09-30 01:00,Utilities - HVAC & Lighting,13.4
+2026-09-30 02:00,Line A - Injection Moulding,30.7
+2026-09-30 02:00,Line B - CNC Machining,15.4
+2026-09-30 02:00,Line C - Assembly,3.2
+2026-09-30 02:00,Utilities - Compressed Air,24.0
+2026-09-30 02:00,Utilities - HVAC & Lighting,13.6
+2026-09-30 03:00,Line A - Injection Moulding,29.8
+2026-09-30 03:00,Line B - CNC Machining,15.8
+2026-09-30 03:00,Line C - Assembly,3.0
+2026-09-30 03:00,Utilities - Compressed Air,26.4
+2026-09-30 03:00,Utilities - HVAC & Lighting,10.8
+2026-09-30 04:00,Line A - Injection Moulding,30.0
+2026-09-30 04:00,Line B - CNC Machining,11.7
+2026-09-30 04:00,Line C - Assembly,3.0
+2026-09-30 04:00,Utilities - Compressed Air,27.2
+2026-09-30 04:00,Utilities - HVAC & Lighting,11.8
+2026-09-30 05:00,Line A - Injection Moulding,32.5
+2026-09-30 05:00,Line B - CNC Machining,12.7
+2026-09-30 05:00,Line C - Assembly,3.2
+2026-09-30 05:00,Utilities - Compressed Air,21.1
+2026-09-30 05:00,Utilities - HVAC & Lighting,12.2
+2026-09-30 06:00,Line A - Injection Moulding,33.0
+2026-09-30 06:00,Line B - CNC Machining,13.8
+2026-09-30 06:00,Line C - Assembly,3.2
+2026-09-30 06:00,Utilities - Compressed Air,27.1
+2026-09-30 06:00,Utilities - HVAC & Lighting,13.4
+2026-09-30 07:00,Line A - Injection Moulding,89.2
+2026-09-30 07:00,Line B - CNC Machining,48.0
+2026-09-30 07:00,Line C - Assembly,22.8
+2026-09-30 07:00,Utilities - Compressed Air,39.3
+2026-09-30 07:00,Utilities - HVAC & Lighting,34.1
+2026-09-30 08:00,Line A - Injection Moulding,81.5
+2026-09-30 08:00,Line B - CNC Machining,57.7
+2026-09-30 08:00,Line C - Assembly,22.9
+2026-09-30 08:00,Utilities - Compressed Air,38.5
+2026-09-30 08:00,Utilities - HVAC & Lighting,30.2
+2026-09-30 09:00,Line A - Injection Moulding,89.5
+2026-09-30 09:00,Line B - CNC Machining,61.7
+2026-09-30 09:00,Line C - Assembly,22.0
+2026-09-30 09:00,Utilities - Compressed Air,38.4
+2026-09-30 09:00,Utilities - HVAC & Lighting,34.3
+2026-09-30 10:00,Line A - Injection Moulding,73.7
+2026-09-30 10:00,Line B - CNC Machining,60.5
+2026-09-30 10:00,Line C - Assembly,23.2
+2026-09-30 10:00,Utilities - Compressed Air,40.7
+2026-09-30 10:00,Utilities - HVAC & Lighting,29.5
+2026-09-30 11:00,Line A - Injection Moulding,91.4
+2026-09-30 11:00,Line B - CNC Machining,61.5
+2026-09-30 11:00,Line C - Assembly,23.5
+2026-09-30 11:00,Utilities - Compressed Air,43.0
+2026-09-30 11:00,Utilities - HVAC & Lighting,25.8
+2026-09-30 12:00,Line A - Injection Moulding,80.5
+2026-09-30 12:00,Line B - CNC Machining,49.0
+2026-09-30 12:00,Line C - Assembly,25.0
+2026-09-30 12:00,Utilities - Compressed Air,44.7
+2026-09-30 12:00,Utilities - HVAC & Lighting,26.8
+2026-09-30 13:00,Line A - Injection Moulding,87.2
+2026-09-30 13:00,Line B - CNC Machining,56.3
+2026-09-30 13:00,Line C - Assembly,19.0
+2026-09-30 13:00,Utilities - Compressed Air,38.7
+2026-09-30 13:00,Utilities - HVAC & Lighting,32.2
+2026-09-30 14:00,Line A - Injection Moulding,88.6
+2026-09-30 14:00,Line B - CNC Machining,51.4
+2026-09-30 14:00,Line C - Assembly,23.7
+2026-09-30 14:00,Utilities - Compressed Air,37.5
+2026-09-30 14:00,Utilities - HVAC & Lighting,30.4
+2026-09-30 15:00,Line A - Injection Moulding,83.0
+2026-09-30 15:00,Line B - CNC Machining,62.9
+2026-09-30 15:00,Line C - Assembly,23.0
+2026-09-30 15:00,Utilities - Compressed Air,43.7
+2026-09-30 15:00,Utilities - HVAC & Lighting,31.6
+2026-09-30 16:00,Line A - Injection Moulding,82.0
+2026-09-30 16:00,Line B - CNC Machining,62.6
+2026-09-30 16:00,Line C - Assembly,23.4
+2026-09-30 16:00,Utilities - Compressed Air,42.3
+2026-09-30 16:00,Utilities - HVAC & Lighting,28.0
+2026-09-30 17:00,Line A - Injection Moulding,76.4
+2026-09-30 17:00,Line B - CNC Machining,56.2
+2026-09-30 17:00,Line C - Assembly,24.2
+2026-09-30 17:00,Utilities - Compressed Air,43.5
+2026-09-30 17:00,Utilities - HVAC & Lighting,28.6
+2026-09-30 18:00,Line A - Injection Moulding,75.8
+2026-09-30 18:00,Line B - CNC Machining,55.3
+2026-09-30 18:00,Line C - Assembly,24.5
+2026-09-30 18:00,Utilities - Compressed Air,35.9
+2026-09-30 18:00,Utilities - HVAC & Lighting,32.1
+2026-09-30 19:00,Line A - Injection Moulding,76.6
+2026-09-30 19:00,Line B - CNC Machining,51.9
+2026-09-30 19:00,Line C - Assembly,19.1
+2026-09-30 19:00,Utilities - Compressed Air,37.6
+2026-09-30 19:00,Utilities - HVAC & Lighting,28.9
+2026-09-30 20:00,Line A - Injection Moulding,96.9
+2026-09-30 20:00,Line B - CNC Machining,62.6
+2026-09-30 20:00,Line C - Assembly,19.9
+2026-09-30 20:00,Utilities - Compressed Air,37.7
+2026-09-30 20:00,Utilities - HVAC & Lighting,34.0
+2026-09-30 21:00,Line A - Injection Moulding,77.3
+2026-09-30 21:00,Line B - CNC Machining,52.0
+2026-09-30 21:00,Line C - Assembly,21.6
+2026-09-30 21:00,Utilities - Compressed Air,35.3
+2026-09-30 21:00,Utilities - HVAC & Lighting,27.8
+2026-09-30 22:00,Line A - Injection Moulding,82.3
+2026-09-30 22:00,Line B - CNC Machining,53.1
+2026-09-30 22:00,Line C - Assembly,25.1
+2026-09-30 22:00,Utilities - Compressed Air,37.2
+2026-09-30 22:00,Utilities - HVAC & Lighting,27.3
+2026-09-30 23:00,Line A - Injection Moulding,33.4
+2026-09-30 23:00,Line B - CNC Machining,13.5
+2026-09-30 23:00,Line C - Assembly,3.6
+2026-09-30 23:00,Utilities - Compressed Air,25.0
+2026-09-30 23:00,Utilities - HVAC & Lighting,13.0

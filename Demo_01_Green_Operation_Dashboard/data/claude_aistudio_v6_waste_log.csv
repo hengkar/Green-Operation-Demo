@@ -1,0 +1,361 @@
+date,shift,waste_type,kg,disposal_route
+2026-09-01,Morning,Plastic regrind,51.1,Recycle
+2026-09-01,Morning,Metal swarf,32.5,Recycle
+2026-09-01,Morning,Cardboard,30.1,Recycle
+2026-09-01,Morning,General waste,34.2,Landfill
+2026-09-01,Morning,Used oil (scheduled),6.3,Licensed contractor
+2026-09-01,Morning,Contaminated rags (scheduled),4.5,Licensed contractor
+2026-09-01,Night,Plastic regrind,93.8,Recycle
+2026-09-01,Night,Metal swarf,36.9,Recycle
+2026-09-01,Night,Cardboard,22.3,Recycle
+2026-09-01,Night,General waste,46.7,Landfill
+2026-09-01,Night,Used oil (scheduled),6.1,Licensed contractor
+2026-09-01,Night,Contaminated rags (scheduled),3.3,Licensed contractor
+2026-09-02,Morning,Plastic regrind,66.2,Recycle
+2026-09-02,Morning,Metal swarf,36.4,Recycle
+2026-09-02,Morning,Cardboard,30.4,Recycle
+2026-09-02,Morning,General waste,22.2,Landfill
+2026-09-02,Morning,Used oil (scheduled),7.6,Licensed contractor
+2026-09-02,Morning,Contaminated rags (scheduled),4.2,Licensed contractor
+2026-09-02,Night,Plastic regrind,68.9,Recycle
+2026-09-02,Night,Metal swarf,60.8,Recycle
+2026-09-02,Night,Cardboard,20.3,Recycle
+2026-09-02,Night,General waste,27.8,Landfill
+2026-09-02,Night,Used oil (scheduled),3.9,Licensed contractor
+2026-09-02,Night,Contaminated rags (scheduled),4.2,Licensed contractor
+2026-09-03,Morning,Plastic regrind,72.2,Recycle
+2026-09-03,Morning,Metal swarf,51.4,Recycle
+2026-09-03,Morning,Cardboard,23.3,Recycle
+2026-09-03,Morning,General waste,43.6,Landfill
+2026-09-03,Morning,Used oil (scheduled),4.1,Licensed contractor
+2026-09-03,Morning,Contaminated rags (scheduled),3.4,Licensed contractor
+2026-09-03,Night,Plastic regrind,87.0,Recycle
+2026-09-03,Night,Metal swarf,61.8,Recycle
+2026-09-03,Night,Cardboard,27.7,Recycle
+2026-09-03,Night,General waste,40.4,Landfill
+2026-09-03,Night,Used oil (scheduled),7.3,Licensed contractor
+2026-09-03,Night,Contaminated rags (scheduled),3.7,Licensed contractor
+2026-09-04,Morning,Plastic regrind,81.1,Recycle
+2026-09-04,Morning,Metal swarf,53.7,Recycle
+2026-09-04,Morning,Cardboard,21.8,Recycle
+2026-09-04,Morning,General waste,32.0,Landfill
+2026-09-04,Morning,Used oil (scheduled),7.5,Licensed contractor
+2026-09-04,Morning,Contaminated rags (scheduled),3.5,Licensed contractor
+2026-09-04,Night,Plastic regrind,58.4,Recycle
+2026-09-04,Night,Metal swarf,58.4,Recycle
+2026-09-04,Night,Cardboard,25.6,Recycle
+2026-09-04,Night,General waste,35.6,Landfill
+2026-09-04,Night,Used oil (scheduled),6.8,Licensed contractor
+2026-09-04,Night,Contaminated rags (scheduled),5.3,Licensed contractor
+2026-09-05,Morning,Plastic regrind,42.4,Recycle
+2026-09-05,Morning,Metal swarf,39.2,Recycle
+2026-09-05,Morning,Cardboard,16.3,Recycle
+2026-09-05,Morning,General waste,32.6,Landfill
+2026-09-05,Morning,Used oil (scheduled),6.0,Licensed contractor
+2026-09-05,Morning,Contaminated rags (scheduled),5.1,Licensed contractor
+2026-09-05,Night,Plastic regrind,88.5,Recycle
+2026-09-05,Night,Metal swarf,47.8,Recycle
+2026-09-05,Night,Cardboard,23.1,Recycle
+2026-09-05,Night,General waste,37.1,Landfill
+2026-09-05,Night,Used oil (scheduled),4.9,Licensed contractor
+2026-09-05,Night,Contaminated rags (scheduled),5.1,Licensed contractor
+2026-09-06,Morning,Plastic regrind,73.8,Recycle
+2026-09-06,Morning,Metal swarf,57.2,Recycle
+2026-09-06,Morning,Cardboard,18.0,Recycle
+2026-09-06,Morning,General waste,39.8,Landfill
+2026-09-06,Morning,Used oil (scheduled),7.2,Licensed contractor
+2026-09-06,Morning,Contaminated rags (scheduled),4.0,Licensed contractor
+2026-09-06,Night,Plastic regrind,102.9,Recycle
+2026-09-06,Night,Metal swarf,59.4,Recycle
+2026-09-06,Night,Cardboard,29.9,Recycle
+2026-09-06,Night,General waste,44.0,Landfill
+2026-09-06,Night,Used oil (scheduled),6.7,Licensed contractor
+2026-09-06,Night,Contaminated rags (scheduled),5.2,Licensed contractor
+2026-09-07,Morning,Plastic regrind,42.3,Recycle
+2026-09-07,Morning,Metal swarf,52.3,Recycle
+2026-09-07,Morning,Cardboard,29.1,Recycle
+2026-09-07,Morning,General waste,38.1,Landfill
+2026-09-07,Morning,Used oil (scheduled),4.9,Licensed contractor
+2026-09-07,Morning,Contaminated rags (scheduled),2.6,Licensed contractor
+2026-09-07,Night,Plastic regrind,84.4,Recycle
+2026-09-07,Night,Metal swarf,56.7,Recycle
+2026-09-07,Night,Cardboard,20.5,Recycle
+2026-09-07,Night,General waste,27.0,Landfill
+2026-09-07,Night,Used oil (scheduled),4.7,Licensed contractor
+2026-09-07,Night,Contaminated rags (scheduled),2.7,Licensed contractor
+2026-09-08,Morning,Plastic regrind,68.4,Recycle
+2026-09-08,Morning,Metal swarf,62.1,Recycle
+2026-09-08,Morning,Cardboard,31.0,Recycle
+2026-09-08,Morning,General waste,31.1,Landfill
+2026-09-08,Morning,Used oil (scheduled),7.0,Licensed contractor
+2026-09-08,Morning,Contaminated rags (scheduled),2.6,Licensed contractor
+2026-09-08,Night,Plastic regrind,99.1,Recycle
+2026-09-08,Night,Metal swarf,38.7,Recycle
+2026-09-08,Night,Cardboard,15.1,Recycle
+2026-09-08,Night,General waste,38.6,Landfill
+2026-09-08,Night,Used oil (scheduled),4.3,Licensed contractor
+2026-09-08,Night,Contaminated rags (scheduled),3.3,Licensed contractor
+2026-09-09,Morning,Plastic regrind,38.8,Recycle
+2026-09-09,Morning,Metal swarf,43.0,Recycle
+2026-09-09,Morning,Cardboard,26.1,Recycle
+2026-09-09,Morning,General waste,43.6,Landfill
+2026-09-09,Morning,Used oil (scheduled),3.8,Licensed contractor
+2026-09-09,Morning,Contaminated rags (scheduled),5.0,Licensed contractor
+2026-09-09,Night,Plastic regrind,53.7,Recycle
+2026-09-09,Night,Metal swarf,35.1,Recycle
+2026-09-09,Night,Cardboard,27.6,Recycle
+2026-09-09,Night,General waste,30.5,Landfill
+2026-09-09,Night,Used oil (scheduled),5.2,Licensed contractor
+2026-09-09,Night,Contaminated rags (scheduled),4.2,Licensed contractor
+2026-09-10,Morning,Plastic regrind,46.5,Recycle
+2026-09-10,Morning,Metal swarf,55.6,Recycle
+2026-09-10,Morning,Cardboard,19.2,Recycle
+2026-09-10,Morning,General waste,44.5,Landfill
+2026-09-10,Morning,Used oil (scheduled),7.5,Licensed contractor
+2026-09-10,Morning,Contaminated rags (scheduled),4.1,Licensed contractor
+2026-09-10,Night,Plastic regrind,48.7,Recycle
+2026-09-10,Night,Metal swarf,55.0,Recycle
+2026-09-10,Night,Cardboard,15.6,Recycle
+2026-09-10,Night,General waste,35.1,Landfill
+2026-09-10,Night,Used oil (scheduled),5.6,Licensed contractor
+2026-09-10,Night,Contaminated rags (scheduled),2.6,Licensed contractor
+2026-09-11,Morning,Plastic regrind,66.2,Recycle
+2026-09-11,Morning,Metal swarf,53.1,Recycle
+2026-09-11,Morning,Cardboard,26.7,Recycle
+2026-09-11,Morning,General waste,32.2,Landfill
+2026-09-11,Morning,Used oil (scheduled),6.1,Licensed contractor
+2026-09-11,Morning,Contaminated rags (scheduled),4.3,Licensed contractor
+2026-09-11,Night,Plastic regrind,60.9,Recycle
+2026-09-11,Night,Metal swarf,58.2,Recycle
+2026-09-11,Night,Cardboard,34.9,Recycle
+2026-09-11,Night,General waste,43.5,Landfill
+2026-09-11,Night,Used oil (scheduled),8.2,Licensed contractor
+2026-09-11,Night,Contaminated rags (scheduled),3.5,Licensed contractor
+2026-09-12,Morning,Plastic regrind,83.3,Recycle
+2026-09-12,Morning,Metal swarf,29.6,Recycle
+2026-09-12,Morning,Cardboard,24.6,Recycle
+2026-09-12,Morning,General waste,24.7,Landfill
+2026-09-12,Morning,Used oil (scheduled),5.8,Licensed contractor
+2026-09-12,Morning,Contaminated rags (scheduled),4.6,Licensed contractor
+2026-09-12,Night,Plastic regrind,91.0,Recycle
+2026-09-12,Night,Metal swarf,43.4,Recycle
+2026-09-12,Night,Cardboard,21.8,Recycle
+2026-09-12,Night,General waste,26.3,Landfill
+2026-09-12,Night,Used oil (scheduled),5.5,Licensed contractor
+2026-09-12,Night,Contaminated rags (scheduled),3.3,Licensed contractor
+2026-09-13,Morning,Plastic regrind,45.3,Recycle
+2026-09-13,Morning,Metal swarf,53.5,Recycle
+2026-09-13,Morning,Cardboard,25.3,Recycle
+2026-09-13,Morning,General waste,33.3,Landfill
+2026-09-13,Morning,Used oil (scheduled),4.5,Licensed contractor
+2026-09-13,Morning,Contaminated rags (scheduled),4.7,Licensed contractor
+2026-09-13,Night,Plastic regrind,59.1,Recycle
+2026-09-13,Night,Metal swarf,36.6,Recycle
+2026-09-13,Night,Cardboard,26.2,Recycle
+2026-09-13,Night,General waste,40.6,Landfill
+2026-09-13,Night,Used oil (scheduled),8.3,Licensed contractor
+2026-09-13,Night,Contaminated rags (scheduled),4.8,Licensed contractor
+2026-09-14,Morning,Plastic regrind,81.5,Recycle
+2026-09-14,Morning,Metal swarf,60.1,Recycle
+2026-09-14,Morning,Cardboard,29.5,Recycle
+2026-09-14,Morning,General waste,41.1,Landfill
+2026-09-14,Morning,Used oil (scheduled),3.9,Licensed contractor
+2026-09-14,Morning,Contaminated rags (scheduled),3.1,Licensed contractor
+2026-09-14,Night,Plastic regrind,47.6,Recycle
+2026-09-14,Night,Metal swarf,58.1,Recycle
+2026-09-14,Night,Cardboard,29.4,Recycle
+2026-09-14,Night,General waste,38.6,Landfill
+2026-09-14,Night,Used oil (scheduled),4.9,Licensed contractor
+2026-09-14,Night,Contaminated rags (scheduled),3.5,Licensed contractor
+2026-09-15,Morning,Plastic regrind,43.9,Recycle
+2026-09-15,Morning,Metal swarf,49.8,Recycle
+2026-09-15,Morning,Cardboard,34.8,Recycle
+2026-09-15,Morning,General waste,29.6,Landfill
+2026-09-15,Morning,Used oil (scheduled),3.8,Licensed contractor
+2026-09-15,Morning,Contaminated rags (scheduled),3.0,Licensed contractor
+2026-09-15,Night,Plastic regrind,69.0,Recycle
+2026-09-15,Night,Metal swarf,59.4,Recycle
+2026-09-15,Night,Cardboard,31.1,Recycle
+2026-09-15,Night,General waste,33.7,Landfill
+2026-09-15,Night,Used oil (scheduled),4.1,Licensed contractor
+2026-09-15,Night,Contaminated rags (scheduled),2.7,Licensed contractor
+2026-09-16,Morning,Plastic regrind,43.4,Recycle
+2026-09-16,Morning,Metal swarf,55.0,Recycle
+2026-09-16,Morning,Cardboard,24.4,Recycle
+2026-09-16,Morning,General waste,48.7,Landfill
+2026-09-16,Morning,Used oil (scheduled),8.0,Licensed contractor
+2026-09-16,Morning,Contaminated rags (scheduled),4.9,Licensed contractor
+2026-09-16,Night,Plastic regrind,76.5,Recycle
+2026-09-16,Night,Metal swarf,56.6,Recycle
+2026-09-16,Night,Cardboard,17.6,Recycle
+2026-09-16,Night,General waste,24.0,Landfill
+2026-09-16,Night,Used oil (scheduled),6.3,Licensed contractor
+2026-09-16,Night,Contaminated rags (scheduled),4.0,Licensed contractor
+2026-09-17,Morning,Plastic regrind,46.0,Recycle
+2026-09-17,Morning,Metal swarf,36.1,Recycle
+2026-09-17,Morning,Cardboard,15.4,Recycle
+2026-09-17,Morning,General waste,46.4,Landfill
+2026-09-17,Morning,Used oil (scheduled),7.0,Licensed contractor
+2026-09-17,Morning,Contaminated rags (scheduled),5.4,Licensed contractor
+2026-09-17,Night,Plastic regrind,108.0,Recycle
+2026-09-17,Night,Metal swarf,42.7,Recycle
+2026-09-17,Night,Cardboard,29.6,Recycle
+2026-09-17,Night,General waste,31.8,Landfill
+2026-09-17,Night,Used oil (scheduled),7.5,Licensed contractor
+2026-09-17,Night,Contaminated rags (scheduled),5.1,Licensed contractor
+2026-09-18,Morning,Plastic regrind,42.4,Recycle
+2026-09-18,Morning,Metal swarf,27.5,Recycle
+2026-09-18,Morning,Cardboard,19.3,Recycle
+2026-09-18,Morning,General waste,37.4,Landfill
+2026-09-18,Morning,Used oil (scheduled),5.4,Licensed contractor
+2026-09-18,Morning,Contaminated rags (scheduled),2.4,Licensed contractor
+2026-09-18,Night,Plastic regrind,98.6,Recycle
+2026-09-18,Night,Metal swarf,55.3,Recycle
+2026-09-18,Night,Cardboard,24.3,Recycle
+2026-09-18,Night,General waste,22.2,Landfill
+2026-09-18,Night,Used oil (scheduled),7.9,Licensed contractor
+2026-09-18,Night,Contaminated rags (scheduled),4.1,Licensed contractor
+2026-09-19,Morning,Plastic regrind,39.4,Recycle
+2026-09-19,Morning,Metal swarf,38.6,Recycle
+2026-09-19,Morning,Cardboard,27.5,Recycle
+2026-09-19,Morning,General waste,45.8,Landfill
+2026-09-19,Morning,Used oil (scheduled),5.9,Licensed contractor
+2026-09-19,Morning,Contaminated rags (scheduled),4.4,Licensed contractor
+2026-09-19,Night,Plastic regrind,59.6,Recycle
+2026-09-19,Night,Metal swarf,35.8,Recycle
+2026-09-19,Night,Cardboard,33.1,Recycle
+2026-09-19,Night,General waste,31.7,Landfill
+2026-09-19,Night,Used oil (scheduled),4.1,Licensed contractor
+2026-09-19,Night,Contaminated rags (scheduled),4.3,Licensed contractor
+2026-09-20,Morning,Plastic regrind,42.1,Recycle
+2026-09-20,Morning,Metal swarf,34.2,Recycle
+2026-09-20,Morning,Cardboard,24.1,Recycle
+2026-09-20,Morning,General waste,37.4,Landfill
+2026-09-20,Morning,Used oil (scheduled),6.7,Licensed contractor
+2026-09-20,Morning,Contaminated rags (scheduled),4.7,Licensed contractor
+2026-09-20,Night,Plastic regrind,74.2,Recycle
+2026-09-20,Night,Metal swarf,29.4,Recycle
+2026-09-20,Night,Cardboard,29.5,Recycle
+2026-09-20,Night,General waste,22.5,Landfill
+2026-09-20,Night,Used oil (scheduled),5.9,Licensed contractor
+2026-09-20,Night,Contaminated rags (scheduled),3.7,Licensed contractor
+2026-09-21,Morning,Plastic regrind,68.3,Recycle
+2026-09-21,Morning,Metal swarf,52.7,Recycle
+2026-09-21,Morning,Cardboard,19.8,Recycle
+2026-09-21,Morning,General waste,39.2,Landfill
+2026-09-21,Morning,Used oil (scheduled),6.9,Licensed contractor
+2026-09-21,Morning,Contaminated rags (scheduled),3.9,Licensed contractor
+2026-09-21,Night,Plastic regrind,55.6,Recycle
+2026-09-21,Night,Metal swarf,59.7,Recycle
+2026-09-21,Night,Cardboard,27.0,Recycle
+2026-09-21,Night,General waste,22.8,Landfill
+2026-09-21,Night,Used oil (scheduled),4.7,Licensed contractor
+2026-09-21,Night,Contaminated rags (scheduled),5.6,Licensed contractor
+2026-09-22,Morning,Plastic regrind,47.0,Recycle
+2026-09-22,Morning,Metal swarf,41.1,Recycle
+2026-09-22,Morning,Cardboard,30.8,Recycle
+2026-09-22,Morning,General waste,44.1,Landfill
+2026-09-22,Morning,Used oil (scheduled),6.6,Licensed contractor
+2026-09-22,Morning,Contaminated rags (scheduled),4.8,Licensed contractor
+2026-09-22,Night,Plastic regrind,49.2,Recycle
+2026-09-22,Night,Metal swarf,30.4,Recycle
+2026-09-22,Night,Cardboard,34.5,Recycle
+2026-09-22,Night,General waste,43.5,Landfill
+2026-09-22,Night,Used oil (scheduled),3.8,Licensed contractor
+2026-09-22,Night,Contaminated rags (scheduled),2.6,Licensed contractor
+2026-09-23,Morning,Plastic regrind,47.5,Recycle
+2026-09-23,Morning,Metal swarf,60.5,Recycle
+2026-09-23,Morning,Cardboard,19.4,Recycle
+2026-09-23,Morning,General waste,39.8,Landfill
+2026-09-23,Morning,Used oil (scheduled),8.1,Licensed contractor
+2026-09-23,Morning,Contaminated rags (scheduled),4.4,Licensed contractor
+2026-09-23,Night,Plastic regrind,104.2,Recycle
+2026-09-23,Night,Metal swarf,36.5,Recycle
+2026-09-23,Night,Cardboard,18.1,Recycle
+2026-09-23,Night,General waste,21.5,Landfill
+2026-09-23,Night,Used oil (scheduled),7.2,Licensed contractor
+2026-09-23,Night,Contaminated rags (scheduled),2.7,Licensed contractor
+2026-09-24,Morning,Plastic regrind,82.7,Recycle
+2026-09-24,Morning,Metal swarf,52.6,Recycle
+2026-09-24,Morning,Cardboard,18.7,Recycle
+2026-09-24,Morning,General waste,43.6,Landfill
+2026-09-24,Morning,Used oil (scheduled),4.4,Licensed contractor
+2026-09-24,Morning,Contaminated rags (scheduled),4.0,Licensed contractor
+2026-09-24,Night,Plastic regrind,53.4,Recycle
+2026-09-24,Night,Metal swarf,55.3,Recycle
+2026-09-24,Night,Cardboard,32.8,Recycle
+2026-09-24,Night,General waste,46.7,Landfill
+2026-09-24,Night,Used oil (scheduled),3.6,Licensed contractor
+2026-09-24,Night,Contaminated rags (scheduled),5.1,Licensed contractor
+2026-09-25,Morning,Plastic regrind,62.7,Recycle
+2026-09-25,Morning,Metal swarf,56.6,Recycle
+2026-09-25,Morning,Cardboard,25.0,Recycle
+2026-09-25,Morning,General waste,38.4,Landfill
+2026-09-25,Morning,Used oil (scheduled),6.5,Licensed contractor
+2026-09-25,Morning,Contaminated rags (scheduled),5.0,Licensed contractor
+2026-09-25,Night,Plastic regrind,51.6,Recycle
+2026-09-25,Night,Metal swarf,29.0,Recycle
+2026-09-25,Night,Cardboard,25.9,Recycle
+2026-09-25,Night,General waste,29.1,Landfill
+2026-09-25,Night,Used oil (scheduled),5.5,Licensed contractor
+2026-09-25,Night,Contaminated rags (scheduled),2.4,Licensed contractor
+2026-09-26,Morning,Plastic regrind,71.8,Recycle
+2026-09-26,Morning,Metal swarf,27.9,Recycle
+2026-09-26,Morning,Cardboard,31.6,Recycle
+2026-09-26,Morning,General waste,43.7,Landfill
+2026-09-26,Morning,Used oil (scheduled),5.8,Licensed contractor
+2026-09-26,Morning,Contaminated rags (scheduled),2.8,Licensed contractor
+2026-09-26,Night,Plastic regrind,87.4,Recycle
+2026-09-26,Night,Metal swarf,34.5,Recycle
+2026-09-26,Night,Cardboard,23.6,Recycle
+2026-09-26,Night,General waste,24.1,Landfill
+2026-09-26,Night,Used oil (scheduled),8.3,Licensed contractor
+2026-09-26,Night,Contaminated rags (scheduled),4.1,Licensed contractor
+2026-09-27,Morning,Plastic regrind,52.9,Recycle
+2026-09-27,Morning,Metal swarf,30.4,Recycle
+2026-09-27,Morning,Cardboard,29.6,Recycle
+2026-09-27,Morning,General waste,44.8,Landfill
+2026-09-27,Morning,Used oil (scheduled),7.7,Licensed contractor
+2026-09-27,Morning,Contaminated rags (scheduled),2.7,Licensed contractor
+2026-09-27,Night,Plastic regrind,69.7,Recycle
+2026-09-27,Night,Metal swarf,37.9,Recycle
+2026-09-27,Night,Cardboard,30.2,Recycle
+2026-09-27,Night,General waste,25.1,Landfill
+2026-09-27,Night,Used oil (scheduled),6.5,Licensed contractor
+2026-09-27,Night,Contaminated rags (scheduled),5.5,Licensed contractor
+2026-09-28,Morning,Plastic regrind,72.9,Recycle
+2026-09-28,Morning,Metal swarf,27.2,Recycle
+2026-09-28,Morning,Cardboard,16.5,Recycle
+2026-09-28,Morning,General waste,24.2,Landfill
+2026-09-28,Morning,Used oil (scheduled),6.9,Licensed contractor
+2026-09-28,Morning,Contaminated rags (scheduled),4.3,Licensed contractor
+2026-09-28,Night,Plastic regrind,79.3,Recycle
+2026-09-28,Night,Metal swarf,43.4,Recycle
+2026-09-28,Night,Cardboard,23.1,Recycle
+2026-09-28,Night,General waste,38.1,Landfill
+2026-09-28,Night,Used oil (scheduled),6.7,Licensed contractor
+2026-09-28,Night,Contaminated rags (scheduled),5.3,Licensed contractor
+2026-09-29,Morning,Plastic regrind,71.2,Recycle
+2026-09-29,Morning,Metal swarf,55.7,Recycle
+2026-09-29,Morning,Cardboard,33.3,Recycle
+2026-09-29,Morning,General waste,44.4,Landfill
+2026-09-29,Morning,Used oil (scheduled),7.0,Licensed contractor
+2026-09-29,Morning,Contaminated rags (scheduled),2.5,Licensed contractor
+2026-09-29,Night,Plastic regrind,89.3,Recycle
+2026-09-29,Night,Metal swarf,57.6,Recycle
+2026-09-29,Night,Cardboard,23.6,Recycle
+2026-09-29,Night,General waste,45.6,Landfill
+2026-09-29,Night,Used oil (scheduled),4.5,Licensed contractor
+2026-09-29,Night,Contaminated rags (scheduled),5.4,Licensed contractor
+2026-09-30,Morning,Plastic regrind,57.2,Recycle
+2026-09-30,Morning,Metal swarf,52.4,Recycle
+2026-09-30,Morning,Cardboard,20.1,Recycle
+2026-09-30,Morning,General waste,29.4,Landfill
+2026-09-30,Morning,Used oil (scheduled),5.3,Licensed contractor
+2026-09-30,Morning,Contaminated rags (scheduled),3.4,Licensed contractor
+2026-09-30,Night,Plastic regrind,52.7,Recycle
+2026-09-30,Night,Metal swarf,42.9,Recycle
+2026-09-30,Night,Cardboard,34.6,Recycle
+2026-09-30,Night,General waste,39.3,Landfill
+2026-09-30,Night,Used oil (scheduled),8.1,Licensed contractor
+2026-09-30,Night,Contaminated rags (scheduled),4.8,Licensed contractor

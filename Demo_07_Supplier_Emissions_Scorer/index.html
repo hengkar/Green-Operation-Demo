@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#163c34">
+  <title>Canopy — Supplier readiness</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="#"><span class="brand-icon">◈</span> canopy<span class="brand-dot">.</span></a>
+    <div class="workspace"><span class="workspace-icon">P</span><div>Purchasing workspace<small>Supplier sustainability</small></div><span class="workspace-arrow">⌄</span></div>
+    <div class="nav-label">WORKSPACE</div>
+    <nav aria-label="Main navigation"><a class="nav-active" href="#"><span>▦</span> Supplier readiness <span class="nav-count" id="nav-count">6</span></a></nav>
+    <div class="sidebar-note"><span class="note-spark">✳</span><h3>A better supply chain<br>starts with visibility.</h3><p>Turn supplier insights into your next climate action.</p><div class="note-line"></div><span>SMALL STEPS. REAL PROGRESS.</span></div>
+    <div class="profile"><span class="avatar">PT</span><div>Purchasing team<small>Demo workspace</small></div><span class="profile-dot"></span></div>
+  </aside>
+  <main>
+    <header class="topbar"><div><span class="breadcrumb">Workspace</span><span class="slash">/</span><span>Supplier readiness</span></div><span class="demo-pill"><span></span> Fictional data</span></header>
+    <div class="page-content">
+      <section class="page-heading"><div><div class="eyebrow">SUPPLY CHAIN · CLIMATE ACTION</div><h1>Supplier emissions readiness</h1><p>A clearer picture of your suppliers. A smarter path forward.</p></div><button class="primary-button" id="add-supplier"><span>+</span> Add supplier</button></section>
+      <section class="stats-grid" aria-label="Readiness overview">
+        <article class="stat-card"><div class="stat-label">Suppliers assessed <span class="stat-icon">▧</span></div><div class="stat-number" id="total-stat">6</div><div class="stat-foot">Across your supplier portfolio</div></article>
+        <article class="stat-card"><div class="stat-label">Average readiness <span class="stat-icon">↗</span></div><div class="stat-number"><span id="average-stat">0</span><span class="number-unit"> / 100</span></div><div class="stat-foot"><span class="tiny-dot green"></span> Your portfolio at a glance</div></article>
+        <article class="stat-card"><div class="stat-label">Leading the way <span class="stat-icon">✳</span></div><div class="stat-number" id="leader-stat">0</div><div class="stat-foot"><span class="tiny-dot green"></span> Suppliers scoring 70 or above</div></article>
+        <article class="stat-card"><div class="stat-label">Room to grow <span class="stat-icon amber-icon">↗</span></div><div class="stat-number" id="grow-stat">0</div><div class="stat-foot"><span class="tiny-dot amber"></span> Suppliers below 40 points</div></article>
+      </section>
+      <section class="middle-grid">
+        <article class="panel chart-panel"><div class="panel-heading"><div><h2>Readiness at a glance</h2><p>Supplier scores, ranked from highest to lowest</p></div><span class="subtle-label">OUT OF 100</span></div><div class="chart" id="score-chart" role="img" aria-label="Supplier readiness scores"></div><div class="chart-legend"><span><i class="green"></i> Leader</span><span><i class="lime"></i> Developing</span><span><i class="gray"></i> Not started</span></div></article>
+        <article class="scoring-panel"><div class="scoring-top"><span class="scoring-icon">◎</span><span class="subtle-label">THE METHODOLOGY</span></div><h2>Five signals.<br>One readiness score.</h2><p>A practical starting point for better supplier conversations.</p><div class="criteria"><div><span>Measures electricity use</span><strong>20 <small>pts</small></strong></div><div><span>Calculates Scope 1 & 2</span><strong>30 <small>pts</small></strong></div><div><span>Has a reduction target</span><strong>20 <small>pts</small></strong></div><div><span>Renewable energy share</span><strong>15 <small>pts*</small></strong></div><div><span>ISO 14001 certified</span><strong>15 <small>pts</small></strong></div></div><div class="scoring-foot">*Pro-rata: renewable energy % × 15 points.<br>Yes/no criteria earn full points for “Yes”.</div></article>
+      </section>
+      <section class="panel table-panel"><div class="panel-heading table-heading"><div><h2>Supplier leaderboard <span class="count-badge" id="table-count">6 suppliers</span></h2><p>Know who’s leading, and where to start a conversation.</p></div><label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search suppliers…" aria-label="Search suppliers"></label></div><div class="table-scroll"><table><thead><tr><th class="rank-col">#</th><th>Supplier</th><th>Electricity <span title="Measures electricity use">ⓘ</span></th><th>Scope 1 & 2</th><th>Target</th><th>Renewables</th><th>ISO 14001</th><th>Score <span>↓</span></th><th>Readiness band</th></tr></thead><tbody id="suppliers-table"></tbody></table></div><div class="table-footer"><span id="showing-count">Showing 6 of 6 suppliers</span><span>Scores update automatically with each assessment</span></div></section>
+      <section class="bands-guide" aria-label="Scoring bands"><span class="guide-title">A GUIDE TO THE BANDS</span><span><i class="tiny-dot green"></i><strong>Leader</strong> 70–100</span><span><i class="tiny-dot lime"></i><strong>Developing</strong> 40–69</span><span><i class="tiny-dot gray"></i><strong>Not started</strong> Below 40</span></section>
+      <footer class="page-footer"><span>Built for better purchasing decisions.</span><span><span class="leaf">♧</span> Demo only. All supplier data is fictional.</span></footer>
+    </div>
+  </main>
+  <dialog id="supplier-dialog" aria-labelledby="dialog-title"><form id="supplier-form"><div class="dialog-heading"><div><div class="eyebrow">GROW YOUR PORTFOLIO</div><h2 id="dialog-title">Add a supplier</h2></div><button type="button" class="close-button" id="close-dialog" aria-label="Close form">×</button></div><p class="dialog-description">A quick assessment to see where your supplier stands.</p><label class="field-label" for="supplier-name">Supplier name</label><input class="text-input" id="supplier-name" name="supplierName" placeholder="e.g. Evergreen Packaging" required maxlength="80"><label class="field-label" for="supplier-sector">Industry <span>(optional)</span></label><input class="text-input" id="supplier-sector" name="sector" placeholder="e.g. Packaging" maxlength="60"><fieldset><legend>Emissions readiness</legend><label class="check-row"><span>Measures electricity use <small>20 pts</small></span><input type="checkbox" name="electricity"></label><label class="check-row"><span>Calculates Scope 1 & 2 <small>30 pts</small></span><input type="checkbox" name="scope"></label><label class="check-row"><span>Has a reduction target <small>20 pts</small></span><input type="checkbox" name="target"></label><label class="check-row"><span>ISO 14001 certified <small>15 pts</small></span><input type="checkbox" name="iso"></label></fieldset><label class="field-label" for="renewables">Renewable energy share <span>Up to 15 pts</span></label><div class="percent-input"><input id="renewables" name="renewables" type="number" min="0" max="100" step="any" value="0" required><span>%</span></div><div class="score-preview"><span>Readiness score</span><strong><span id="preview-score">0</span><small> / 100</small></strong></div><div class="dialog-actions"><button type="button" class="secondary-button" id="cancel-dialog">Cancel</button><button type="submit" class="primary-button">Add supplier <span>↗</span></button></div></form></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#153e35">
+  <meta name="description" content="A fictional daily water meter log. Track consumption, understand costs, and spot unusual use.">
+  <title>Waterwise · Daily meter log</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="./" aria-label="Waterwise home"><span class="brand-mark" aria-hidden="true">◒</span> waterwise<span class="brand-dot">.</span></a><span class="demo-pill"><span></span> FICTIONAL DATA</span></header>
+  <main>
+    <div class="page-heading"><div><p class="eyebrow">A LITTLE AWARENESS. A BIG DIFFERENCE.</p><h1>Every drop, accounted for.</h1><p class="subtitle">Your daily water log. A clearer picture of what you use.</p></div><span class="heading-art" aria-hidden="true">◡</span></div>
+    <section class="meter-card" aria-labelledby="meter-title">
+      <div class="meter-top"><span class="meter-label" id="meter-title"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3C10 6 5 11 5 15a7 7 0 0 0 14 0c0-4-5-9-7-12Z"/><path d="M8 15a4 4 0 0 0 4 4"/></svg> LATEST METER READING</span><span class="live-label"><i></i> Up to date</span></div>
+      <div class="meter-value"><span id="cumulative">11,023</span><span class="meter-unit">m³</span></div>
+      <div class="meter-bottom"><span id="latest-day">Day 14 · Sunday</span><span>Starting reading <strong>10,520 m³</strong></span></div>
+      <div class="meter-ripple" aria-hidden="true"></div>
+    </section>
+    <section class="stats" aria-label="Consumption summary">
+      <article class="stat"><span class="stat-icon" aria-hidden="true">↗</span><p>Total water used</p><h2><span id="total">503</span> <small>m³</small></h2><span class="stat-note" id="period">Across 14 logged days</span></article>
+      <article class="stat"><span class="stat-icon" aria-hidden="true">≈</span><p>Average daily use</p><h2><span id="average">35.9</span> <small>m³ / day</small></h2><span class="stat-note">Small habits make a difference</span></article>
+      <article class="stat"><span class="stat-icon" aria-hidden="true">RM</span><p>Estimated water cost</p><h2><span class="currency">RM</span> <span id="cost">1,493.91</span></h2><span class="stat-note">At RM 2.97 / m³ · teaching value</span></article>
+    </section>
+    <button class="add-button" id="add-reading"><span aria-hidden="true">＋</span> Add today's reading <span class="button-arrow" aria-hidden="true">↗</span></button>
+    <p class="storage-status" id="storage-status" role="status" hidden></p>
+    <section class="panel chart-panel" aria-labelledby="chart-title">
+      <div class="section-heading"><div><h2 id="chart-title">Your water use, day by day</h2><p>A small check-in today. Fewer surprises tomorrow.</p></div><span class="period-tag" id="chart-period">14 days</span></div>
+      <div class="chart-legend"><span><i class="legend-use"></i> Daily use</span><span><i class="legend-average"></i> 7-day average</span><span><i class="legend-flag"></i> Unusual use</span></div>
+      <div class="chart-container" id="chart"></div>
+      <div class="chart-foot"><span>DAILY CONSUMPTION (m³)</span><span>Day 1 is a Monday</span></div>
+    </section>
+    <section class="alert" id="anomaly-alert" aria-labelledby="alert-title"><span class="alert-icon" aria-hidden="true">!</span><div><h2 id="alert-title">One day worth a closer look</h2><p id="alert-description"></p><strong>Check for leaks or open valves</strong></div><a href="#history" aria-label="See flagged days in reading history">View log <span aria-hidden="true">↓</span></a></section>
+    <section class="panel history-panel" id="history" aria-labelledby="history-title">
+      <div class="section-heading"><div><h2 id="history-title">Reading history</h2><p>Your readings add up to a better understanding.</p></div><span class="history-count" id="history-count">14 entries</span></div>
+      <div class="table-scroll"><table><thead><tr><th scope="col">DAY</th><th scope="col">METER READING <span>(m³)</span></th><th scope="col">DAILY USE <span>(m³)</span></th><th scope="col">STATUS</th></tr></thead><tbody id="history-rows"></tbody></table></div>
+      <div class="history-note"><span aria-hidden="true">ⓘ</span><p>A day is flagged when use is more than 50% above the previous 7 days' average. Checks begin on day 8.</p></div>
+    </section>
+    <footer><span class="footer-brand">◒ waterwise.</span><p>Made for mindful water use.</p><span>Fictional data · For learning, not billing</span></footer>
+  </main>
+  <dialog id="reading-dialog" aria-labelledby="dialog-title"><form id="reading-form"><div class="dialog-top"><span class="eyebrow">A DAILY HABIT THAT COUNTS</span><button type="button" class="close-button" id="close-dialog" aria-label="Close">×</button></div><h2 id="dialog-title">Add today's reading</h2><p class="dialog-description" id="next-day"></p><label for="reading-input">Cumulative meter reading <span>(m³)</span></label><input id="reading-input" name="reading" type="number" step="0.01" inputmode="decimal" required aria-describedby="reading-help form-error"><p id="reading-help" class="input-help"></p><p id="form-error" class="form-error" role="alert"></p><button type="submit" class="add-button">Save reading <span aria-hidden="true">✓</span></button><p class="dialog-note">This is a fictional daily log. Each entry adds the next day.<br>Readings are saved on this device when storage is available.</p></form></dialog>
+  <div class="toast" id="toast" role="status" hidden></div>
+</body>
+</html>

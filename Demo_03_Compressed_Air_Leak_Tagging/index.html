@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f6f2">
+  <meta name="description" content="A simple field companion for finding, tagging and fixing compressed-air leaks.">
+  <title>Airwalk — Find it. Tag it. Fix it.</title>
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <header class="topbar"><div class="topbar-inner"><a href="./" class="brand" aria-label="Airwalk home"><span class="brand-icon" data-icon="wind"></span>airwalk<span class="brand-dot">.</span></a><span class="demo-badge"><span></span> DEMO WORKSPACE</span></div></header>
+  <main>
+    <div class="page-heading"><div><p class="eyebrow">YOUR FIELD COMPANION</p><h1>Small leaks.<br>Big opportunities.</h1></div><span class="heading-art" data-icon="scan" aria-hidden="true"></span></div>
+    <p class="intro">Find it. Tag it. Fix it. Make every walk count.</p>
+    <section aria-label="Leak walk overview" class="overview">
+      <div class="overview-heading"><span><span class="live-dot"></span> LIVE OVERVIEW</span><span>Compressed air</span></div>
+      <div class="stats-row"><div class="stat"><span class="stat-label"><span data-icon="tag"></span> Open leaks</span><strong id="open-count">5</strong><span class="stat-note">Waiting to be fixed</span></div><div class="stat"><span class="stat-label"><span data-icon="bolt"></span> Power lost right now</span><strong><span id="power">7.0</span><small> kW</small></strong><span class="stat-note">Energy going to waste</span></div></div>
+      <div class="annual"><div class="annual-label">IF LEFT OPEN FOR A YEAR</div><div class="annual-grid"><div><span class="annual-name">Electricity cost</span><strong><small>RM</small> <span id="cost">18,346</span></strong></div><div><span class="annual-name">Carbon footprint</span><strong><span id="carbon">38.8</span><small> t CO₂e</small></strong></div></div></div>
+    </section>
+    <section class="savings" aria-label="Annual savings"><span class="savings-icon" data-icon="leaf"></span><div><span class="savings-title">Good fixes. Real impact.</span><p><strong id="savings">RM 18,346</strong><span> / year saved from <span id="fixed-count">3</span> fixed leaks</span></p><span class="savings-note" id="saved-carbon">38.8 t CO₂e avoided annually</span></div><span class="savings-spark" data-icon="trend" aria-hidden="true"></span></section>
+    <button class="primary add-leak" id="add-leak"><span data-icon="plus"></span> Tag new leak <span class="button-tail" data-icon="arrow"></span></button>
+    <section class="register" aria-labelledby="register-title"><div class="register-heading"><h2 id="register-title">Your leak register <span id="total-count">8</span></h2><span class="register-caption">One tag. One step forward.</span></div><div class="register-toolbar"><div class="filters" role="group" aria-label="Filter leaks"><button class="filter active" data-filter="All" aria-pressed="true">All <span id="all-filter-count">8</span></button><button class="filter" data-filter="Open" aria-pressed="false">Open <span id="open-filter-count">5</span></button><button class="filter" data-filter="Fixed" aria-pressed="false">Fixed <span id="fixed-filter-count">3</span></button></div><span class="sort-label"><span data-icon="sort"></span> Tag order</span></div><div id="leak-list" class="leak-list"></div></section>
+    <details class="assumptions"><summary><span data-icon="info"></span> A little context behind the numbers <span class="disclosure">+</span></summary><div><p>Annual estimates assume 24 hours/day × 6 days/week × 52 weeks = <strong>7,488 hours/year</strong>.</p><p>Small: 0.5 kW · Medium: 1.5 kW · Large: 4 kW.<br>Electricity: RM 0.35/kWh · Emissions: 0.740 kg CO₂e/kWh.</p><p>Only open leaks contribute to current losses. Fixed leaks show annualized avoided costs and emissions, not measured savings to date.</p></div></details>
+    <footer><span class="footer-brand">airwalk.</span><p>A lighter footprint starts with a walk.</p><span>Fictional data · Saved on this device</span></footer>
+  </main>
+  <dialog id="tag-dialog" aria-labelledby="dialog-title"><form id="tag-form"><div class="dialog-heading"><span class="eyebrow">KEEP THE WALK GOING</span><button type="button" class="icon-button" id="close-dialog" aria-label="Close dialog">×</button></div><h2 id="dialog-title">Tag a new leak</h2><p class="dialog-subtitle">A quick note now. A meaningful fix later.</p><div class="new-tag">TAG <strong id="new-tag-number"></strong><span>Assigned automatically</span></div><label for="location">Location</label><input id="location" name="location" placeholder="e.g. Line 3, near the air hose" maxlength="100" required list="locations"><datalist id="locations"><option value="Compressor room"><option value="Line 1"><option value="Line 2"><option value="Warehouse"></datalist><fieldset><legend>Leak size</legend><div class="size-options"><label><input type="radio" name="size" value="Small" checked><span>Small<small>0.5 kW</small></span></label><label><input type="radio" name="size" value="Medium"><span>Medium<small>1.5 kW</small></span></label><label><input type="radio" name="size" value="Large"><span>Large<small>4.0 kW</small></span></label></div></fieldset><div class="form-row"><div><label for="status">Status</label><select id="status" name="status"><option>Open</option><option>Fixed</option></select></div><div><label for="date">Date found</label><input type="date" id="date" name="date" required></div></div><button type="submit" class="primary save-button"><span data-icon="plus"></span> Save leak tag</button><p class="form-note">Stored locally on this device. No account needed.</p></form></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

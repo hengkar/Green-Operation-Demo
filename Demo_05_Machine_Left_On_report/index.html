@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102e29">
+  <meta name="description" content="A simple end-of-shift machine shutdown checklist with estimated energy, cost, and carbon impact.">
+  <title>Last Out · Shift shutdown walk</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="header-inner">
+      <div class="brand"><span class="brand-icon" aria-hidden="true">⏻</span> LAST OUT <span class="demo-label">DEMO</span></div>
+      <div class="shift-label"><span class="live-dot"></span> END-OF-SHIFT WALK</div>
+      <h1>Small checks.<br>Less left running.</h1>
+      <p>One last walk before you clock out.<br>Check every machine. Make tonight count.</p>
+      <div class="header-facts"><span>10 machines</span><span>10 idle hours overnight</span></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="impact-panel" aria-labelledby="impact-title">
+      <div class="section-eyebrow"><h2 id="impact-title">TONIGHT'S IMPACT</h2><span id="impact-status" class="status-pill">Walk not started</span></div>
+      <div class="cost-row"><div><div class="metric-caption">Estimated cost of machines left on</div><div class="hero-value"><span>RM</span> <strong id="cost">0.00</strong></div></div><span class="energy-icon" aria-hidden="true">ϟ</span></div>
+      <div class="metrics" aria-live="polite" aria-atomic="true">
+        <div><strong id="left-on">0<span> / 10</span></strong><span>Left on</span></div>
+        <div><strong id="energy">0.0</strong><span>kWh wasted</span></div>
+        <div><strong id="carbon">0.0</strong><span>kg CO₂e</span></div>
+        <span class="sr-only" id="cost-announcement">Tonight's cost: RM 0.00. Yearly cost: RM 0.00.</span>
+      </div>
+      <div class="yearly-row"><span>If repeated every weeknight <small>260 nights / year</small></span><strong><span>RM</span> <span id="yearly">0.00</span><small> / year</small></strong></div>
+    </section>
+
+    <section class="checklist" aria-labelledby="checklist-title">
+      <div class="checklist-heading"><div><div class="section-kicker">THE SHUTDOWN CHECK</div><h2 id="checklist-title">Leave it off. Leave well.</h2></div><span class="progress-count" id="progress-count">0 / 10</span></div>
+      <div class="progress-track" role="progressbar" aria-label="Machines checked" aria-valuemin="0" aria-valuemax="10" aria-valuenow="0" id="progress"><div id="progress-fill"></div></div>
+      <p class="checklist-help" id="walk-message">Tap a status for each machine as you walk.</p>
+      <div id="machines" class="machine-list"></div>
+    </section>
+
+    <section class="walk-footer" aria-label="Walk controls"><div><span class="footer-icon" aria-hidden="true">✓</span><p id="completion-text">A better shutdown starts with a quick check.</p></div><button id="reset" type="button">Reset walk <span aria-hidden="true">↺</span></button></section>
+    <aside class="assumptions"><h2>Behind the numbers</h2><p>Left on = 10 hours at idle power. Electricity: RM 0.204/kWh. Emissions: 0.740 kg CO₂e/kWh. Annual estimate: 260 weeknights.</p><p class="fictional">Fictional machines. Real potential to save.<br>Demo only · No machine controls are connected.</p></aside>
+  </main>
+  <footer class="page-footer"><span class="brand-mini">⏻ LAST OUT</span><span>End the shift. Cut the waste.</span></footer>
+</body>
+</html>

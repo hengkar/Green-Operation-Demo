@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#164c3c">
+  <meta name="description" content="A simple ESG data readiness checklist for small manufacturers, inspired by Malaysia’s SEDG for SMEs.">
+  <title>Ready, Set, ESG — SME readiness checklist</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="brand-row">
+      <a class="brand" href="#" aria-label="Ready, Set, ESG home"><span class="brand-mark" aria-hidden="true">↗</span> ready, set, <strong>ESG.</strong></a>
+      <span class="toolkit-label">THE SME TOOLKIT</span>
+    </header>
+    <main>
+      <section class="intro" aria-labelledby="page-title">
+        <div class="eyebrow"><span></span> SMALL STEPS. STRONGER BUSINESS.</div>
+        <h1 id="page-title">Your next customer request.<br><em>You’ve got this.</em></h1>
+        <p>A simple check-in for your ESG data. Find what’s ready, see what’s missing, and give every next step an owner.</p>
+        <div class="intro-meta"><span>Made for small manufacturers</span><span class="meta-dot">·</span><span>Inspired by Malaysia’s SEDG</span></div>
+      </section>
+
+      <section class="overview" aria-labelledby="overview-title">
+        <div class="overview-top"><span class="eyebrow light" id="overview-title">YOUR READINESS SNAPSHOT</span><span class="live-badge"><span></span> Live score</span></div>
+        <div class="overall-row">
+          <div><div class="overall-number"><span id="overall-score">0</span><span class="percent">%</span></div><h2>Overall readiness</h2><p id="overall-caption">A starting point. Every bit of data counts.</p></div>
+          <div class="score-ring" id="score-ring"><div><span id="ready-count">0 / 13</span><small>items ready</small></div></div>
+        </div>
+        <div class="group-scores" id="group-scores" aria-label="Readiness by group"></div>
+        <div class="score-key">How it adds up <span>Have data <b>1</b></span><span>Partly <b>½</b></span><span>No data <b>0</b></span></div>
+      </section>
+
+      <section class="gaps-section" aria-labelledby="gaps-title">
+        <div class="section-heading"><div><div class="eyebrow">YOUR ACTION PLAN</div><h2 id="gaps-title">A little focus goes a long way.</h2></div><span class="gap-icon" aria-hidden="true">↗</span></div>
+        <p class="section-description">Top 5 gaps to fix first — missing data first, then partial data.</p>
+        <ol class="gap-list" id="gap-list"></ol>
+        <p class="gap-note">Same status? Items follow checklist order. Adjust priorities to your customer’s request.</p>
+      </section>
+
+      <section class="checklist" aria-labelledby="checklist-title">
+        <div class="checklist-heading"><div class="eyebrow">LET’S TAKE STOCK</div><h2 id="checklist-title">What do you have on hand?</h2><p>Choose a status for each item and add who can help.<br>Your progress is saved on this device as you go.</p></div>
+        <div class="save-state" id="save-state" role="status">✓ All changes saved on this device</div>
+        <div id="checklist-groups"></div>
+      </section>
+      <section class="closing-note"><span aria-hidden="true">✳</span><div><h2>Progress, not perfection.</h2><p>Start with what you have. An electricity bill, a training log, or a policy document is a step in the right direction.</p></div></section>
+    </main>
+    <footer><div class="footer-brand">ready, set, <strong>ESG.</strong></div><p>Self-check only, not an official SEDG submission. Refer to the official SEDG for exact disclosures.</p><span>Built for a more sustainable tomorrow.</span></footer>
+  </div>
+</body>
+</html>
